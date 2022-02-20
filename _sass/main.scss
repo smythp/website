@@ -10,8 +10,25 @@ body {
 }
 
 
-.cover-img img {
+.contain-img img {
     width:  100%;
     height: 15rem;
     object-fit: contain;
 }
+
+
+.contain-img-background img {
+    width:  100%;
+    height: 15rem;
+    object-fit: contain;
+    background-color: $secondary;    
+}
+
+
+.cover-img img {
+    width:  100%;
+    height: 15rem;
+    object-fit: cover;
+}
+
+
