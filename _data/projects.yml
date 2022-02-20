@@ -1,5 +1,12 @@
 docs_list_title: Site Navigation
-projects:
+current:
+- name: Eloud
+  link: https://github.com/smythp/eloud
+  role: Maintainer
+  image: eloud.png
+  description: A lightweight, interactive screen reader for the Emacs text editor. View <a href="https://www.youtube.com/watch?v=k5BLXMGSTJs">the demo</a>.
+
+past:
 - name: NEH Impact Index
   link: http://www.nehimpact.org/
   image: neh-impact.jpg
@@ -17,9 +24,3 @@ projects:
   image: dri.png
   role: Curriculum design
   description: The DRI is a week-long course in digital research methods at the Graduate Center at the City University of New York. Over five days, graduate students and faculty learn programming, computing, and project management fundamentals that they can apply to their own research in the sciences, social sciences, and humanities.
-
-- name: Eloud
-  link: https://github.com/smythp/eloud
-  role: Maintainer
-  image: eloud.png
-  description: A lightweight, interactive screen reader for the Emacs text editor. View <a href="https://www.youtube.com/watch?v=k5BLXMGSTJs">the demo</a>.
