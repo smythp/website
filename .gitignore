@@ -1,0 +1,7 @@
+*~
+*#
+*.dnc
+.#*
+_site/
+_site/*
+.jekyll-cache/
