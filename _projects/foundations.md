@@ -1,5 +1,6 @@
 ---
 layout: project
+current: false
 name: Foundations for Research Computing
 link: "https://rcfoundations.research.columbia.edu/"
 role: Program Coordinator
@@ -13,10 +14,9 @@ resources:
 ---
 
 <p>
-	Eloud is a lightweight screen reader for the Emacs text editor. Eloud works on Linux and OSX versions of Emacs and uses the espeak speech synthesizer as the backend. It's designed to respond to user input, so if you move a word, character, or sentence, Eloud will read that segment as you move. Eloud is based on my own scripts and infrastructure for coding and writing using Emacs.
+	Foundations for Research Computing is a campus-wide initiative to build community and technical skills around research computing at Columbia. I served as Program Coordinator for Foundations from January 2019 to August 2022, and in that time organized training for more than 3,000 researchers over 85+ workshops, intensives, and lectures. 
 	</p>
-	
-	
-	
 
-
+<p>
+During my time with Foundations, I proposed and implemented new programming, including a popular <a href="https://rcfoundations.research.columbia.edu/content/python-user-group">Python User Group</a> and a <a href="https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program">Curriculum Innovation Grant</a> program. I also had the pleasure of working closely with a community of instructors trained by <a href="https://carpentries.org/">Software Carpentry</a>.
+	</p>	

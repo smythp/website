@@ -24,7 +24,13 @@ layout: default
 	  <div class="d-grid gap-2 d-md-flex justify-content-start">
 	    <div class="row">
 	      <div class="col">
-		<p class="text-secondary">{{ page.description }}</p>
+		<p class="text-secondary">
+		  {% if page.description-short %}
+		  {{ page.description-short }}
+		  {% else %}
+		  {{ page.description }}
+		  {% endif %}
+		</p>
 	      </div>
 	    </div>
 	    </div>
