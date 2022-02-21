@@ -7,3 +7,12 @@ collections:
 collections:
   projects:
     output: true
+    order:
+     - iota.md
+     - negotiated_access.md
+     - eloud.md
+     - foundations.md
+     - neh.md
+     - dri_curriculum.md
+     - dh_box.md     
+

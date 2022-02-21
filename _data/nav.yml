@@ -1,10 +1,10 @@
 docs_list_title: Site Navigation
 pages:
-- title: Home
-  url: index.md
-
 - title: About
-  url: about.md
+  url: about
+
+- title: CV
+  url: cv
 
 - title: Contact
-  url: contact.md
+  url: contact

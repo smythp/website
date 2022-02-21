@@ -1,6 +1,7 @@
 ---
 layout: project
 name: Eloud
+current: true
 link: https://github.com/smythp/eloud
 role: Maintainer
 image: eloud.png

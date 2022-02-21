@@ -27,4 +27,4 @@ In 2017, the Trump administration proposed to eliminate funding to the NEH, an e
 
 <p>In 2017, I created the NEH Impact Index to make visible the impact of the NEH on local communities and cultural institutions. <a href="/index"> The web app takes a zip code and search radius</a> and finds projects funded by the NEH in that region. Projects are color-coded by category to show their impact in areas such as education, preservation, and public programs.</p>
 
-<p>The NEH Impact Index was created as part of a larger effort by <a href="https://gcdi.commons.gc.cuny.edu/">Graduate Center Digital Initiatives (GCDI)</a> to highlight the impact of the NEH, not only in the humanities but also in the wider culture. 
+<p>The NEH Impact Index was created as part of a larger effort by <a href="https://gcdi.commons.gc.cuny.edu/">Graduate Center Digital Initiatives (GCDI)</a> to highlight the impact of the NEH, not only in the humanities but also in the wider culture.
