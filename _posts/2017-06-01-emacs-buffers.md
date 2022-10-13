@@ -22,11 +22,11 @@ A **buffer** is an interface between Emacs and a file or process. It doesn't hav
 
 A **window** is a view onto a buffer. It allows you, the user, to see what's going on inside that buffer. If the buffer is associated with a file, you'll see the text of the file. If the buffer is associated with a process, such as a shell, you'll see some representation of that process. You can split the current frame, which leaves you looking at two windows, like this: 
 
-![Image of a split screen in Emacs](/images/split-screen.png)
+![Image of a split screen in Emacs](/assets/images/split-screen.png)
 
 A **frame** in Emacs is what you would call a window in most other contexts. They're just windows in the normal sense of the word—you can drag them around the screen or close them with the \`X\` button or do whatever you do with windows. In the command line version of Emacs, you only ever have one frame. However, with the GUI (graphical) version you can open multiple frames, which looks like this:
 
-![Animated GIF of opening and moving frames around](/images/frames.gif)
+![Animated GIF of opening and moving frames around](/assets/images/frames.gif)
 
 # Messing with Buffers, Windows, and Frames
 
@@ -40,7 +40,7 @@ in the command line.
 
 Once you have Emacs open, you should see the default splash screen:
 
-![Image of Emacs splash screen"](/images/splash.png)
+![Image of Emacs splash screen"](/assets/images/splash.png)
 
 
 Let's try making a new window. Use
@@ -49,7 +49,7 @@ Let's try making a new window. Use
 
 and you should see the screen split vertically. Now you have two windows, like this:
 
-![Emacs windows split vertically](/images/with-buffers-win.png){:class="image-left"}
+![Emacs windows split vertically](/assets/images/with-buffers-win.png){:class="image-left"}
 
 Though we have two windows open, they're still "looking in" on only one buffer. Let's change that.
 
