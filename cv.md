@@ -151,6 +151,11 @@ METRO Conference
 
 # Presentations
 
+"The Accessible Laboratory"  
+STEM Pedagogy Institute  
+2022, New York, NY  
+[View Curriculum](https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory)
+
 "Rules of Thumb for Computer Security"  
 New York Amateur Computer Club  
 2017 - New York, NY  
