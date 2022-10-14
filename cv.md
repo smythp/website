@@ -296,13 +296,21 @@ Getting Started with Python (Foundations for Research Computing, Columbia Univer
 
 # Technical Skills
 
-Languages: Python, PHP, Lisp (Common, Emacs)  
-Python Libraries: Scrapy, BeautifulSoup, NLTK, SQLAlchemy, Jinja2  
-Web Frameworks: Flask, Django  
-Front-end Frameworks: Bootstrap  
-Content Management: Jekyll, WordPress, Drupal  
-Databases: mySQL, SQLite  
-Security: PGP, GPG  
-Markup: HTML, CSS, markdown  
-Containerization: Docker, VirtualBox  
-Other: UNIX, Bash scripting
+Frontend Frameworks: Bulma, Bootstrap, React
+Analytics: Jupyter, NLTK, NumPy/SciPy, Spacy, Pandas, scikit-learn
+Web Scraping: Scrapy, BeautifulSoup
+Web Frameworks: Flask, Django
+CMS / Static Site Generators: Jekyll, Hugo, WordPress, Drupal
+Databases: mySQL, SQLite, PostgreSQL
+Ops: Docker, Unix, Git
+
+<!-- Languages: Python, PHP, Lisp (Common, Emacs)   -->
+<!-- Python Libraries: Scrapy, BeautifulSoup, NLTK, SQLAlchemy, Jinja2   -->
+<!-- Web Frameworks: Flask, Django   -->
+<!-- Front-end Frameworks: Bootstrap   -->
+<!-- Content Management: Jekyll, WordPress, Drupal   -->
+<!-- Databases: mySQL, SQLite   -->
+<!-- Security: PGP, GPG   -->
+<!-- Markup: HTML, CSS, markdown   -->
+<!-- Containerization: Docker, VirtualBox   -->
+<!-- Other: UNIX, Bash scripting -->
