@@ -3,6 +3,28 @@ layout: default
 title: "Home"
 ---
 
+
+{% assign current_count = 0 %}
+{% assign past_count = 0 %}
+
+{% for project in site.projects %}
+{% if project.current %}
+{% assign current_count = current_count | plus: 1 %}
+{% else %}
+{% assign past_count = past_count | plus: 1 %}
+{% endif %}
+{% endfor %}
+
+{% assign current_mod = current_count | modulo: 2 %}
+{% assign past_mod = past_count | modulo: 2 %}
+
+
+<!-- <h1>
+     Current: {{ current_count }}
+     Past: {{ past_count }}
+     </h1> -->
+
+
 <section>
   <div class="container-fluid px-4 py-5">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
@@ -41,7 +63,15 @@ title: "Home"
   <h2 class="display-3">Current projects</h2>
 
   <div class="container-fluid">
+
+    {% if current_mod == 1 %}
+    <!-- Odd -->
     <div class="row row-cols-3 gx-5 gy-5">
+      {% else %}
+      <!-- Even -->
+    <div class="row row-cols-2 gx-5 gy-5">
+      {% endif %}
+      
       {% for project in site.projects %}
       {% if project.current %}
 
@@ -76,17 +106,23 @@ title: "Home"
 </section>
 
 
+
+
 <section>
 
-  <h2 class="display-3">Past projects</h2>
+  <h2 style="margin-top:1em" class="display-3">Past projects</h2>
 
   <div class="container-fluid">
+    {% if past_mod == 1 %}
     <div class="row row-cols-3 gx-5 gy-5">
+    {% else %}
+    <div class="row row-cols-2 gx-5 gy-5">
+      {% endif %}
+
       {% for project in site.projects %}
       {% if project.current %}
       {% else %}
       <div class-"col">
-
 
 	<div class="card contain-img">
 	  <a href="{{ project.url }}"><img src="/assets/images/{{ project.image }}" class="card-img-top" alt="{{ project.alt }}"></a>

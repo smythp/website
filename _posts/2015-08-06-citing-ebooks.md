@@ -5,7 +5,7 @@ short: "Workarounds for Citing Ebooks"
 image:
   feature: zotero.png
   thumbnail: 
-permalink: /underrated_zotero/
+permalink: /citing_ebooks/
 ---
 
 	<div class="entry-content">

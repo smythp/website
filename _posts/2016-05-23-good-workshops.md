@@ -5,7 +5,7 @@ short: "How To Lead a Technical Workshop"
 image:
   feature: zotero.png
   thumbnail: 
-permalink: /underrated_zotero/
+permalink: /good_workshops/
 ---
 Since we'll be holding our second week-long [Digital Research Institute](http://gcdigitalfellows.github.io/) in June, I thought I'd put together a list of the lessons I've learned teaching technical workshops over the past two years. If you have more lessons in mind, drop me a line at [@psmyth01](psmyth01https://twitter.com/psmyth01). 
 

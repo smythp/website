@@ -8,6 +8,7 @@ collections:
   projects:
     output: true
     order:
+     - stsci.md
      - iota.md
      - negotiated_access.md
      - eloud.md
