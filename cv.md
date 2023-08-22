@@ -3,9 +3,7 @@ layout: page
 title: Patrick Smyth CV
 ---
 
-html-postamble:nil toc:nil line-break:t
-
-line-break:t
+html-postamble:nil
 
 Education
 ---------
