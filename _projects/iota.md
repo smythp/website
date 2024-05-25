@@ -1,6 +1,6 @@
 ---
 layout: project
-current: true
+current: false
 name: Iota School
 link: https://iotaschool.com/
 role: Chief Learner

@@ -1,5 +1,6 @@
 ---
 layout: project
+weight: 40
 current: true
 name: Negotiated Access
 link: https://academicworks.cuny.edu/gc_etds/4311/

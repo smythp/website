@@ -1,4 +1,5 @@
 ---
+weight: 5
 layout: project
 name: Eloud
 current: true

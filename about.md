@@ -4,17 +4,13 @@ title: About
 ---
 
 <p>
-Patrick is the Postdoctoral Fellow in Humanities Entrepreneurship at the Publics Lab and is Chief Learner at <a href="https://iotaschool.com">Iota School</a>, a business offering accessible technical training for humanists. Patrick's work focuses on citizen technology, critical infrastructure, accessibility, and technical pedagogy.
+Dr. Patrick Smyth is Staff Developer Relations Engineer at [Chainguard](https://www.chainguard.dev/), where he shows developers how to deploy AI and other applications with 0 CVEs using Chainguard Images. Patrick has a PhD in the digital humanities and  in a previous life led technical bootcamps for researchers at Columbia University. Prior to working at Chainguard, Patrick ran Iota, a consulting business where he worked with clients such as [Space Telescope Science Institute](https://www.stsci.edu/), [Pandas](https://numfocus.org/project/pandas), [Sigstore](https://www.sigstore.dev/), [Enthought](https://www.enthought.com/), and the [DHRIFT](https://dhrift.org/) project.
 </p>
 
 <p>
-His dissertation, <a href="https://academicworks.cuny.edu/gc_etds/4311/"><i>Negotiated Access: Haccessibility, Autonomy, and Infrastructure in the Age of the Abstraction</i></a>, asks how we can exercise our values from within systems that alienate and exploit. It received the Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year from the PhD program in English at the Graduate Center, CUNY.
+Patrick's PhD dissertation, [Negotiated Access: Haccessibility, Autonomy, and Infrastructure in the Age of the Abstraction](https://academicworks.cuny.edu/gc_etds/4311/), explores hacking as a way to express autonomy, particularly for the disabled. It received the Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation of the Year from the PhD program in English at the Graduate Center, CUNY, as well as the prize for Best Prospectus.
 </p>
 
 <p>
-Patrick is a blind hacker and programmer who codes in Python, Lisp, and for the web, and his apps and other technical work have received attention in national publications such as <a href="https://www.pcmag.com/opinions/trump-budget-slashes-neh-funding-why-you-should-care">PC Magazine</a> and <a href="https://www.pbk.org/Behind-the-Key/Patrick-Smyth">Phi Beta Kappa</a>. From 2019 to 2021, Patrick coordinated <a href="https://rcfoundations.research.columbia.edu/">Foundations for Research Computing</a>, a cross-campus program that taught research computing skills to over 3,200 researchers at Columbia University. 
-</p>
-
-<p>
-Patrick was a 2010 Fulbright Teaching Fellow in Berlin and is a <a href="https://carpentries.org/become-instructor/">Software Carpentry certified instructor</a>. He also bakes a decent apple pie and brews a mean cup of tea.
+In his free time you can find Patrick swimming in a frozen lake or hanging out with his six-month-old baby.
 </p>

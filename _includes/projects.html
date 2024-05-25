@@ -1,3 +1,5 @@
+{% assign projects_sorted = site.projects | sort:"weight"  | reverse %}
+
 {% assign current_count = 0 %}
 {% assign past_count = 0 %}
 
@@ -27,7 +29,7 @@
     <div class="row row-cols-2 gx-5 gy-5">
       {% endif %}
       
-      {% for project in site.projects %}
+      {% for project in projects_sorted %}
       {% if project.current %}
 
       <div class-"col">

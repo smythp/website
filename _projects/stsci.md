@@ -1,6 +1,6 @@
 ---
 layout: project
-current: true
+current: false
 name: Astronomy Notebooks for All
 link: https://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute
 role: Technical and Accessibility Consultant

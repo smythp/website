@@ -1,11 +1,5 @@
 docs_list_title: Site Navigation
 current:
-- name: Iota School
-  link: https://iotaschool.com/
-  role: Chief Learner
-  image: Iota Logotype.svg
-  description: Iota School provides accessible technical training to those with backgrounds not traditionally represented in technology. 
-
 - name: Eloud
   link: https://github.com/smythp/eloud
   role: Maintainer
@@ -13,6 +7,12 @@ current:
   description: A lightweight, interactive screen reader for the Emacs text editor. View <a href="https://www.youtube.com/watch?v=k5BLXMGSTJs">the demo</a>.
 
 past:
+- name: Iota School
+  link: https://iotaschool.com/
+  role: Chief Learner
+  image: Iota Logotype.svg
+  description: Iota School provides accessible technical training to those with backgrounds not traditionally represented in technology. 
+
 - name: Foundations for Research Computing
   link: "https://rcfoundations.research.columbia.edu/"
   image: foundations_Logo.jpg
