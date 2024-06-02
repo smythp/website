@@ -31,4 +31,11 @@ body {
     object-fit: cover;
 }
 
+#socials {
+  display: flex;
+}
 
+#socials a {
+    color: black;
+    margin-right: 1em;
+}
