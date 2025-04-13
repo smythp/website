@@ -15,7 +15,11 @@ layout: default
       {% endif %}
 	
       </div>
+      {% if page.image.feature %}
       <div class="col-6">
+        {% else %}
+        <div class="col-12">
+          {% endif %}
 	<h1 class="display-1 fw-bold lh-5 mb-3">
 
 	  {{ page.title }}<br>
@@ -29,10 +33,6 @@ layout: default
   </div>
 
 </section>
-
-
-
-  <br>
   <hr>
 <article>
   {{ content }}
