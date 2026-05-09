@@ -2,6 +2,14 @@
 layout: post
 title: "Spoke at Cloud Security Alliance Boston Chapter"
 permalink: /boston-csa/
+summary: "Notes from a Cloud Security Alliance Boston Chapter talk on software supply chain security, covering major incidents, CVEs, scanning, SLSA, and a few security memes."
+resources:
+  - text: "Deck PDF"
+    link: "/assets/documents/boston-csa-datadog.pdf"
+  - text: "LinkedIn Post"
+    link: "https://www.linkedin.com/embed/feed/update/urn:li:share:7316428883413618689?collapsed=1"
+  - text: "LinkedIn Followup"
+    link: "https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1"
 ---
 
 <style>

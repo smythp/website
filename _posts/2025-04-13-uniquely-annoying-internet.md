@@ -3,6 +3,7 @@ layout: post
 title: "Are we in a uniquely annoying time?"
 micro: true
 permalink: /epochs/
+summary: "A quick timeline of internet eras and their particular flavors of irritation, with a guess that the current AI-platform-shakeout period is annoying but not uniquely so."
 ---
 
 Steven Syrek [made a short post](https://www.linkedin.com/posts/steven-syrek_i-miss-the-days-when-the-internet-was-just-activity-7316986747412779008-xxW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5qQKQBqhey1pJKeaLqNKZ6XzJnredlhqU) that made me wonder if we're in a uniquely annoying time, mainly on the internet but also in general. 
