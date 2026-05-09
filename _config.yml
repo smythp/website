@@ -4,7 +4,6 @@ title: "Patrick Smyth" # the name of your site, e.g. ACME Corp.
 
 
 collections:
-collections:
   projects:
     output: true
     order:
