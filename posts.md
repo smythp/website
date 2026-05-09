@@ -12,7 +12,7 @@ permalink: /posts/
     <div class="row row-cols-2 gx-5 gy-5">
       {% assign posts_sorted = site.posts | sort: "date" | reverse %}
       {% for post in posts_sorted %}
-      <div class-"col">
+      <div class="col">
 
 	<div class="card contain-img">
 	  <a href="{{ post.url }}">
