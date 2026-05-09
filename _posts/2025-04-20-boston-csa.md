@@ -7,9 +7,9 @@ resources:
   - text: "Deck PDF"
     link: "/assets/documents/boston-csa-datadog.pdf"
   - text: "LinkedIn Post"
-    link: "https://www.linkedin.com/embed/feed/update/urn:li:share:7316428883413618689?collapsed=1"
+    link: "https://www.linkedin.com/feed/update/urn:li:share:7316428883413618689/"
   - text: "LinkedIn Followup"
-    link: "https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1"
+    link: "https://www.linkedin.com/feed/update/urn:li:share:7318296406027350016/"
 ---
 
 <style>
