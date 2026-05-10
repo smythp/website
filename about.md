@@ -4,7 +4,7 @@ title: About
 ---
 
 <p>
-Dr. Patrick Smyth is Staff Developer Relations Engineer at [Chainguard](https://www.chainguard.dev/), where he shows developers how to deploy AI and other applications with 0 CVEs using Chainguard Images. Patrick has a PhD in the digital humanities and  in a previous life led technical bootcamps for researchers at Columbia University. Prior to working at Chainguard, Patrick ran Iota, a consulting business where he worked with clients such as [Space Telescope Science Institute](https://www.stsci.edu/), [Pandas](https://numfocus.org/project/pandas), [Sigstore](https://www.sigstore.dev/), [Enthought](https://www.enthought.com/), and the [DHRIFT](https://dhrift.org/) project.
+Dr. Patrick Smyth is Principal Developer Relations Engineer at [Chainguard](https://www.chainguard.dev/), where he shows developers how to deploy AI and other applications with 0 CVEs using Chainguard Images. Patrick has a PhD in the digital humanities and  in a previous life led technical bootcamps for researchers at Columbia University. Prior to working at Chainguard, Patrick ran Iota, a consulting business where he worked with clients such as [Space Telescope Science Institute](https://www.stsci.edu/), [Pandas](https://numfocus.org/project/pandas), [Sigstore](https://www.sigstore.dev/), [Enthought](https://www.enthought.com/), and the [DHRIFT](https://dhrift.org/) project.
 </p>
 
 <p>

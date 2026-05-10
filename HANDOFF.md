@@ -2,17 +2,6 @@
 
 Successor brief from the session that wired up the post feed (commits `0a9fc8d` through `329c85c` on master, May 8-9 2026). Read this before starting work.
 
-## Critical: title is wrong everywhere
-
-Patrick was promoted to **Principal Developer Relations Engineer** in October 2025. The site still says "Staff DevRel Engineer." Three places to fix:
-
-- `about.md` line 7 — "Staff Developer Relations Engineer" in the bio paragraph
-- `_projects/chainguard.md` line 5 — `name: Staff DevRel Engineer at Chainguard`
-- `_projects/chainguard.md` line 7 — `role: Staff Developer Relations Engineer`
-- `_projects/chainguard.md` line 17 — body prose "Patrick is Staff Developer Relations Engineer"
-
-These are one-character / one-line edits. Do them in a single commit before anything else; the wrong title is the most embarrassing thing on the live site.
-
 ## CV is stale
 
 `cv.md` (rendered at `/cv/`) ends with Patrick's pre-2022 academic / Iota positions. Zero Chainguard. Needs:
