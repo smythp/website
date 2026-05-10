@@ -69,6 +69,16 @@ Per the previous handoff: "after Principal title fix lands and 3-5 substantive p
 
 A push of master right now would make the title fix go live but no new posts (drafts are excluded from build by default). That's safe but partial. Patrick's call when to ship.
 
+**HEADS UP — push doesn't auto-deploy.** During the May 10 session we pushed master to `origin` (`github.com/smythp/website`), but **`smythp.com` did not update**. The live site is fronted by Netlify (server header confirms), and the Netlify → repo hookup is not obvious from inside this repo — there's no `netlify.toml`, no `_redirects`, and no GitHub action wired up. Possibilities to investigate next session:
+
+- Netlify is connected to a different repo or branch entirely (check the Netlify dashboard)
+- A build hook exists but is broken / unauthenticated
+- There's a manual deploy step we're missing (e.g. `netlify deploy --prod`)
+
+GitHub Pages is also configured on the repo (serves at `https://smythp.github.io/website/`, builds from `master`, last build succeeded), but that's NOT the production `smythp.com`. Pushing the repo updates the GitHub Pages copy but not Netlify-fronted smythp.com.
+
+For the next agent: figure out the Netlify deploy path, document it here, and ideally wire up an auto-deploy from `master` if it isn't already.
+
 ## CV is stale
 
 `cv.md` (rendered at `/cv/`) ends with Patrick's pre-2022 academic / Iota positions. Zero Chainguard. Needs:
