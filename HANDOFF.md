@@ -132,7 +132,24 @@ Patrick mentioned a "scan LI and put stuff in a pipeline for me" need — frustr
 
 ## Adjacent work that landed this session (not blog-related, but context for the next agent)
 
-- **strongbox** at `~/projects/strongbox` — drop-in cache wrapper for `op inject`/`op read`. Public on github.com/smythp. v1 merged on master. v2 manifest layer was kicked off this session (a codex spool; check `spool` for status if still incomplete).
-- **kagi-wrapper** at `~/projects/kagi-wrapper` — CLI for the Kagi APIs. Private on github.com/smythp. v1 merged on master.
+- **strongbox** at `~/projects/strongbox` — drop-in cache wrapper for `op inject`/`op read`. Public on github.com/smythp/strongbox. v1 + v2 manifest layer + expanded README all merged and pushed.
+- **kagi-wrapper** at `~/projects/kagi-wrapper` — CLI for the Kagi APIs. Private on github.com/smythp/kagi-wrapper. v1 merged + pushed.
 - **op CLI installed**, 1Password desktop app integration enabled. The `kagi.com` 1Password entry now has an `api_key` concealed field; reference is `op://Private/kagi.com/api_key`.
 - The full chain works silently: `strongbox read op://Private/kagi.com/api_key` → cached in tmpfs → `kagi search "..."` returns JSON. No prompts after first cold cache.
+- **`kagi-load` shell function** is in `~/.zshrc`. It's redundant with the v2 manifest path (`eval $(strongbox load kagi)`) but the manifest file isn't created yet, so the function is the working path. Cleanup pending: write `~/.config/strongbox/manifest.toml`, replace the function with the eval form.
+
+## Hinky items / frictions noted this session
+
+- **Codex shard-review permission profile blocks `python -m unittest`** consistently. Every fell-r* review came back with static-analysis-only verdicts because the harness couldn't get bash approval to run tests. Workaround: run the test suite from the main session before merge. Worth filing as a Spindle friction — the read-review profile probably needs `python -m unittest` whitelisted.
+- **Skein-not-init'd projects break `skein shard tender`**. Both kagi-wrapper and strongbox were created via spindle's shard mode, which deposits a `.skein/shards.db` but doesn't register the project in `~/.skein/projects.json`. This makes `tender` fail with "No project specified." Workaround used: stash `.skein/shards.db` aside, run `skein init --project NAME`, restore the shards.db. Worth fixing in spindle so shard creation auto-inits the project, or documenting the manual workaround in CLAUDE.md.
+- **`BRIEF.md` and `reference/sheet.py` are in strongbox's repo root**, visible in the public GitHub repo. They were build-time artifacts (the brief, the reference code from the auth section of speakbot's `sheet.py`). Could be moved to a `notes/` or `docs/internal/` dir, or deleted entirely. Cosmetic but worth a pass.
+- **Codex's intermediate process traces are very large** when unspooled — repeatedly hit the response-size cap and had to be tail-grepped from disk. Not a bug, just a workflow note: codex spools should be unspooled with `tail -c` if you only want the final summary.
+- **Strongbox's `STRONGBOX_OP_TIMEOUT=0` semantics**: 0 means "no timeout" (matches `STRONGBOX_TTL=0` disabling expiry). Documented in README, tested. Patrick may or may not want to standardize this convention across other env-var-driven settings.
+
+## Big-idea notes
+
+- **Strongbox is the template for every future API-key-handling tool.** The pattern: tool reads `$ENV_VAR` at runtime; documentation includes the `op://...` reference and a `[keys.NAME]` manifest snippet. Tools never know about op, 1Password, vault paths. Backend can change without touching any tool.
+- **The fell discipline justified itself this session.** Three full fell cycles (kagi-wrapper, strongbox v1, strongbox v2). Each fell-r1 caught real polish items the implementation pass missed. The "ready to merge" verdicts came after 1-2 round-trips, not the first review.
+- **Codex builds + CC reviews is a productive pairing.** Cross-perspective; mix-and-match harnesses.
+- **End-to-end smoke testing is high-leverage.** "Type a command, watch it work silently" >> "all unit tests pass" for confidence in infra. The op-install → 1Password-integration → manifest → smoke chain transformed strongbox from "tested" to "trusted."
+- **Mode-shifting between codebases works.** Blog DIY (research+prose), strongbox/kagi spin-driven (code+tests). The work modes were distinct enough that switching didn't cost much.
