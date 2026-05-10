@@ -20,6 +20,4 @@ resources:
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7328649267655467009/"
 ---
 
-<!-- Image is the PyCon booth photo from the May 15 LI preview post; Patrick may want to swap for an on-stage shot. -->
-
-Presented "Cheese Must Stand: Defending the Python Library Ecosystem in 2025" with [Srishti Hegde](https://www.linkedin.com/in/srishtih/) at PyCon US 2025 in Pittsburgh. The talk walks through recent supply chain attacks on Python package infrastructure (the Ultralytics token breach, the NP6 typosquatting attack) and then through mitigations &mdash; Sigstore provenance, SLSA, SBOMs, and where an alternative secure index fits in.
+Presented "Cheese Must Stand: Defending the Python Library Ecosystem in 2025" with [Srishti Hegde](https://www.linkedin.com/in/srishtih/) at PyCon US 2025 in Pittsburgh. The talk walks through recent supply chain attacks on Python package infrastructure (the Ultralytics token breach, the NP6 typosquatting attack). We then talk through mitigations: Sigstore provenance, SLSA, SBOMs, and where an alternative secure index fits in.

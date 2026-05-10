@@ -17,6 +17,6 @@ resources:
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7454573513572802560/"
 ---
 
-<!-- No native LI image; Patrick to add a feature image if desired. -->
+> A remote crash bug landed in OpenBSD in 1998. It stayed there, lurking in a system famous for its security hardening, surviving decades of human review and millions of automated tests. According to [Anthropic's red team report on Mythos Preview](https://red.anthropic.com/2026/mythos-preview/), the model found the bug, confirmed it, and wrote a working exploit — with no human in the loop. The whole run cost under $50.
 
-Wrote [Mythos pulls zero-days forward. Here's what you need to know now](https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now) for Chainguard Unchained. Mythos Preview, [unveiled by Anthropic](https://red.anthropic.com/2026/mythos-preview/) on April 8, 2026 alongside the Project Glasswing defensive consortium, can autonomously find and exploit zero-day vulnerabilities &mdash; the post covers what that means for disclosure timelines and what defenders can do.
+I wrote a [post for Chainguard's Unchained](https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now) talking about ways to think about Mythos and how to build securely in a post-Mythos world.
