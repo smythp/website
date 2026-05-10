@@ -9,8 +9,8 @@ image:
 resources:
   - text: "LinkedIn"
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7457452813321715712/"
-  - text: "Webinar (May 12, 1pm ET)"
-    link: "https://lnkd.in/eJGvCTJJ"
+  - text: "Webinar registration (May 12, 1pm ET)"
+    link: "https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355"
 ---
 
 Slopsquatting, worms, repojacking, ghost releases — another week in the running battle between FOSS maintainers and increasingly sophisticated supply chain attackers. On May 12 (1pm ET) I'm hosting a Chainguard webinar on takeaways from the recent wave (Trivy, LiteLLM, Axios), focused on the mechanisms rather than the incident specifics because these attacks are going to be old news soon, but the mechanisms will probably be repeated.

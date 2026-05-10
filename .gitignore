@@ -10,3 +10,6 @@ _cv/
 # Pull images out of assets/images/posts/ as needed and `git add -f` them
 # when linking from a draft. Already-committed images stay tracked.
 assets/images/posts/*
+
+# Local Netlify folder
+.netlify
