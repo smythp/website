@@ -36,36 +36,24 @@ layout: default
 	</p>
 	{% endif %}
 
-	</p>
+	{% if page.resources and page.resources.size > 0 %}
+	<div class="d-flex flex-wrap gap-2 mt-3">
+	  {% for resource in page.resources %}
+	  <a class="btn btn-outline-primary btn-lg" href="{{ resource.link }}">
+	    {{ resource.text }}
+	  </a>
+	  {% endfor %}
+	</div>
+	{% endif %}
+
       </div>
     </div>
   </div>
 
 </section>
-  <hr>
-
-{% if page.resources and page.resources.size > 0 %}
-<section class="pb-5">
-  
-  <div class="d-grid gap-2 d-md-flex justify-content-start">
-  <div class="row">
-    <div class="col">
-
-      {% for resource in page.resources %}
-      <a class="btn btn-outline-primary btn-lg"
-	href="{{ resource.link }}">
-	{{ resource.text }}
-      </a>
-      {% endfor %}
-    </div>
-    
-  </div>
-  </div>
-</section>
-{% endif %}
 
 {% if page.embed %}
-<section class="pb-5">
+<section class="container-fluid px-4 pb-5">
   {% assign embed_start = page.embed | strip | slice: 0, 7 %}
   {% if embed_start == "<iframe" %}
   {{ page.embed }}
@@ -85,9 +73,7 @@ layout: default
 </section>
 {% endif %}
 
-<article>
+<article class="container-fluid px-4 pb-5">
   {{ content }}
 </article>
-
-</div>
 

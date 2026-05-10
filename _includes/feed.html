@@ -1,15 +1,23 @@
 {% assign posts_sorted = site.posts | sort: "date" | reverse %}
+{% assign feed_limit = 3 %}
+{% assign feed_count = posts_sorted.size %}
+{% if feed_count > feed_limit %}{% assign feed_count = feed_limit %}{% endif %}
+{% assign feed_mod = feed_count | modulo: 2 %}
 
 <section>
 
   <h2 class="display-3">Recent posts</h2>
 
   <div class="container-fluid">
+    {% if feed_mod == 1 %}
+    <div class="row row-cols-3 gx-5 gy-5">
+    {% else %}
     <div class="row row-cols-2 gx-5 gy-5">
-      {% for post in posts_sorted limit: 3 %}
+    {% endif %}
+      {% for post in posts_sorted limit: feed_limit %}
       <div class="col">
 
-	<div class="card contain-img">
+	<div class="card cover-img">
 	  <a href="{{ post.url }}">
 	    {% if post.image.feature %}
 	    <img src="/assets/images/{{ post.image.feature }}" class="card-img-top" alt="{{ post.title }}">
