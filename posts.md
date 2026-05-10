@@ -6,7 +6,7 @@ permalink: /posts/
 
 <section>
 
-  <h1 class="display-3">All posts</h1>
+  <h1 class="display-3 mb-5">All posts</h1>
 
   {% assign posts_sorted = site.posts | sort: "date" | reverse %}
   {% assign posts_count = posts_sorted.size %}
