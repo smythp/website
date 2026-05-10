@@ -12,5 +12,5 @@ Patrick's PhD dissertation, [Negotiated Access: Haccessibility, Autonomy, and In
 </p>
 
 <p>
-In his free time you can find Patrick swimming in a frozen lake or hanging out with his six-month-old baby.
+In his free time you can find Patrick swimming in a frozen lake or hanging out with his daughter.
 </p>

@@ -24,10 +24,6 @@ These are one-character / one-line edits. Do them in a single commit before anyt
 
 The CV is a real piece of work, not a one-liner. Patrick will need to pair on the actual content; agent's job is to surface candidate material from his LI feed and propose structure. Working source files are in `_cv/` (cv.md, cv.tex, cv.org, cv.pdf, etc. — derivative outputs); the live source the site renders from is the root `cv.md`.
 
-## Other stale lines on the site
-
-- `about.md` last paragraph: "hanging out with his six-month-old baby." Lily appears throughout the family pages on `~/projects/server-www/www/` (dccccc.cc) and is clearly older now. Patrick to update.
-
 ## dccccc.cc — never started, parked from earlier session
 
 Patrick's scrappy/jank personal site. Source is `~/projects/server-www/www/`. Live `index.html` is one line: "This is a website on the internet."
