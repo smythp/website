@@ -26,6 +26,10 @@ layout: default
 
 	</h1>
 
+	{% if page.subtitle %}
+	<p class="display-6 text-secondary mb-3">{{ page.subtitle }}</p>
+	{% endif %}
+
 	{% if page.summary %}
 	<p class="lead">
 	  {{ page.summary }}
@@ -66,8 +70,16 @@ layout: default
   {% if embed_start == "<iframe" %}
   {{ page.embed }}
   {% else %}
+    {% assign embed_url = page.embed %}
+    {% if embed_url contains "youtube.com/watch?v=" %}
+      {% assign yt_id = embed_url | split: "v=" | last | split: "&" | first %}
+      {% assign embed_url = "https://www.youtube.com/embed/" | append: yt_id %}
+    {% elsif embed_url contains "youtu.be/" %}
+      {% assign yt_id = embed_url | split: "youtu.be/" | last | split: "?" | first %}
+      {% assign embed_url = "https://www.youtube.com/embed/" | append: yt_id %}
+    {% endif %}
   <div class="ratio ratio-16x9">
-    <iframe src="{{ page.embed }}" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="{{ embed_url }}" allowfullscreen="" loading="lazy"></iframe>
   </div>
   {% endif %}
 </section>
