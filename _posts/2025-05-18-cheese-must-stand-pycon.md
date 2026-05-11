@@ -1,5 +1,6 @@
 ---
 layout: post
+type: talk
 title: "Cheese Must Stand"
 subtitle: "Defending the Python Library Ecosystem &mdash; PyCon US 2025"
 date: 2025-05-18

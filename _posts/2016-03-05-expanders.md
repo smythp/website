@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title:  "Use Text Expanders for More Efficient Grading"
 short: "Text Expanders for Efficient Grading"
 date:   2016-03-04

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title:  "5 Killer Apps for Digital Scholars"
 short: "Killer Apps for Digital Scholars"
 date:   2015-11-22

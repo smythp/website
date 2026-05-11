@@ -1,5 +1,6 @@
 ---
 layout: post
+type: webinar
 title: "Takeaways from Major Software Supply Chain Attacks"
 subtitle: "Chainguard webinar &mdash; May 12, 2026, 1pm ET"
 date: 2026-05-05

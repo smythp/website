@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: "Mythos pulls zero-days forward"
 subtitle: "What you need to know now &mdash; Chainguard Unchained"
 date: 2026-04-27

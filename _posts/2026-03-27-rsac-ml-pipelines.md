@@ -1,5 +1,6 @@
 ---
 layout: post
+type: workshop
 title: "ML pipeline security"
 subtitle: "Way More Than You Wanted to Know &mdash; RSAC 2026 workshop"
 date: 2026-03-27

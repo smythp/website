@@ -1,5 +1,6 @@
 ---
 layout: post
+type: talk
 title: "Beyond Zero"
 subtitle: "Eliminating Vulnerabilities in the PyTorch Container Image &mdash; PyTorch Conference 2024"
 date: 2024-09-19

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: talk
 title: "The Old, the New, and the Strange"
 subtitle: "Securing Deep Learning &mdash; Chainguard Assemble 2025"
 date: 2025-03-18

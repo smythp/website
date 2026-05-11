@@ -3,6 +3,9 @@ pages:
 - title: About
   url: about
 
+- title: Talks
+  url: talks
+
 - title: CV
   url: cv
 

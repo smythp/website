@@ -1,5 +1,6 @@
 ---
 layout: post
+type: talk
 title: "Spoke at Cloud Security Alliance Boston Chapter"
 permalink: /boston-csa/
 summary: "Notes from a Cloud Security Alliance Boston Chapter talk on software supply chain security, covering major incidents, CVEs, scanning, SLSA, and a few security memes."

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: "Two Workarounds for Citing Ebooks"
 short: "Workarounds for Citing Ebooks"
 image:

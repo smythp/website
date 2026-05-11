@@ -1,5 +1,6 @@
 ---
 layout: post
+type: talk
 title: "Myths of Advisory Feeds"
 subtitle: "Assemble 2026, with Konstantinos &ldquo;Gus&rdquo; Evangelakos (Orca Security)"
 date: 2026-03-23

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: "Are we in a uniquely annoying time?"
 micro: true
 permalink: /epochs/

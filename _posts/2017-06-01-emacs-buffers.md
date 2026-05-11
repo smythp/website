@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: "Emacs Buffers, Windows, and Frames Explained"
 short: "Emacs Buffers Explained"
 image:

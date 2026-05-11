@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: "How To Lead a Technical Workshop"
 short: "How To Lead a Technical Workshop"
 image:

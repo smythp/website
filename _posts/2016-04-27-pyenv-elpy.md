@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title:  "Using Elpy with pyenv in Emacs"
 short: "Elpy and pyenv in Emacs"
 date:   2016-04-27

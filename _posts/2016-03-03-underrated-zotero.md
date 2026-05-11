@@ -1,5 +1,6 @@
 ---
 layout: post
+type: blog
 title: "Five Underrated Features in Zotero"
 short: "Underrated Zotero Features"
 image:
