@@ -16,3 +16,6 @@ assets/images/posts/*
 
 # Claude Code local settings
 .claude/
+
+# Patrick's scratch
+topost
