@@ -226,6 +226,11 @@ Convener, Utopian Studies Seminar, CUNY Graduate Center\
 Talks
 -----
 
+"Takeaways from Major Software Supply Chain Attacks" (webinar)\
+Chainguard\
+May 12, 2026\
+[Webinar registration](https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355)
+
 "Securing ML Pipelines: Way More Than You Wanted to Know" (workshop, with Kalle Westerling)\
 RSAC Conference 2026\
 March 2026 --- San Francisco, CA
