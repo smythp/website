@@ -8,16 +8,14 @@
   <div class="container-fluid">
     <div class="card-grid">
       {% for post in posts_sorted limit: feed_limit %}
-	<div class="card cover-img">
-	  <a href="{{ post.url }}">
-	    {% if post.image.feature %}
-	    <img src="/assets/images/{{ post.image.feature }}" class="card-img-top" alt="{{ post.title }}">
-	    {% else %}
-	    <img src="/assets/images/abstract.jpg" class="card-img-top" alt="{{ post.title }}">
-	    {% endif %}
-	  </a>
+	    <div class="card cover-img">
+	      {% if post.image.feature %}
+	      <img src="/assets/images/{{ post.image.feature }}" class="card-img-top" alt="">
+	      {% else %}
+	      <img src="/assets/images/abstract.jpg" class="card-img-top" alt="">
+	      {% endif %}
 
-	  <div class="card-body">
+	      <div class="card-body">
 	    <h3 class="card-title">
 	      <a href="{{ post.url }}" class="stretched-link text-decoration-none text-reset">{{ post.title }}</a>
 	    </h3>
