@@ -147,6 +147,10 @@ Chainguard Unchained, April 2026\
 Chainguard Unchained, April 2026\
 [Read article](https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks)
 
+"Attacks Rewritten: Where Malware Enters the Build" (with Manfred Moser)\
+Chainguard Unchained, April 2026\
+[Read article](https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build)
+
 "Going Deep: Upstream Distros and Hidden CVEs" (co-authored with Chainguard Research)\
 Chainguard Unchained, February 2026\
 [Read article](https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves)
@@ -219,34 +223,66 @@ Member, GC Digital Research Bootcamp Steering Committee\
 Convener, Utopian Studies Seminar, CUNY Graduate Center\
 2012-2015
 
-Invited Talks
--------------
+Talks
+-----
 
-\"Haccessibility for All\"\
-arXiv Accessibility Forum 2023\
-April 17, 2023\
-[View Recording](https://www.youtube.com/watch?v=1v3jFCWQfI8)
+"Securing ML Pipelines: Way More Than You Wanted to Know" (workshop, with Kalle Westerling)\
+RSAC Conference 2026\
+March 2026 --- San Francisco, CA
 
-\"Web APIs with Python\"\
-Week-long course, Digital Humanities Summer Institute\
-2018, 2019 - Victoria, British Columbia\
-[View Materials](https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python)\
-[\#dhsiapi on Twitter](https://twitter.com/search?q=%2523dhsiapi&src=typd)
+"Attacks Rewritten: Where Malware Enters the Build" (with Manfred Moser)\
+Chainguard Assemble 2026\
+March 17, 2026 --- New York, NY\
+[Recording](https://www.youtube.com/watch?v=hgZQvy9dUOU)\
+[Blog post](https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build)
 
-\"Lightning Talk: DH Box\"\
-NEH Project Director\'s Meeting\
-2015 - Washington, DC
+"Dispelling the Myths of Advisory Feeds" (with Konstantinos "Gus" Evangelakos, Orca Security)\
+Chainguard Assemble 2026\
+March 17, 2026 --- New York, NY\
+[Recording](https://www.youtube.com/watch?v=DYyEXLwKT2U)
 
-\"Introducing DH Box\"\
-Media Res: Lightning Talks by NYC Graduate Students on DH Projects\
-2015 --- New York, NY
+"Agent Omelets & Other Forbidden Techniques"\
+AI Native Dev DevCon Fall 2025\
+November 2025\
+[Recording](https://www.youtube.com/watch?v=MBbN4-UxKp4)
 
-"DH Box: A Push-Button Digital Humanities Laboratory"\
-METRO Conference\
-2015 --- New York, NY
+"Frankenpipe: Bringing Secure ML Pipelines to Life"\
+All Things Open 2025\
+October 2025 --- Raleigh, NC\
+[Recording](https://www.youtube.com/watch?v=jefbTBfl9Ps)\
+[Session page](https://2025.allthingsopen.org/sessions/frankenpipe-bringing-secure-ml-pipelines-to-life)
 
-Presentations
--------------
+"Deploy Secure Containers on Amazon EKS with Chainguard" (webinar, with Sai Vennam, AWS)\
+Chainguard / AWS\
+August 2025\
+[Recording](https://www.youtube.com/watch?v=BknFieQXSqA)
+
+"Cheese Must Stand: Defending the Python Library Ecosystem"\
+PyCon US 2025\
+May 2025 --- Pittsburgh, PA\
+[Recording](https://www.youtube.com/watch?v=5cdC5pVkCvU)
+
+"The Old, the New, and the Strange: Securing Deep Learning"\
+Chainguard Assemble 2025\
+March 2025 --- San Francisco, CA\
+[Recording](https://www.youtube.com/watch?v=hmhKWjOyI0U)
+
+"Beyond Zero: Eliminating Vulnerabilities in the PyTorch Container Image" (lightning talk, with Dan Fernandez and Srishti Hegde)\
+PyTorch Conference 2024\
+September 2024 --- San Francisco, CA\
+[Recording](https://www.youtube.com/watch?v=1klynk1dxYA)\
+[Materials](https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/)
+
+"Securing the Foundations of AI Applications"\
+JFrog SwampUP 2024\
+September 2024\
+(Carl Quinn Speaker Award winner)\
+[Award announcement](https://www.linkedin.com/posts/jfrog-ltd_swampup-activity-7240130790234169344-k2--)
+
+"Zero CVE CUDA Chainguard Images"\
+Austin Kubernetes meetup\
+May 17, 2024\
+[Recording](https://www.youtube.com/watch?v=Ry-kNHHmB_0)
 
 Notebooks for All: Accessibility & Jupyter Notebooks\
 JupyterCon 2023\
@@ -264,7 +300,12 @@ Space Telescope Science Institute\
 2023, Online\
 [Event Page](https://iota-school.github.io/accessibility_hackathon/)\
 [Activity page](https://iota-school.github.io/accessibility_hackathon/hack)\
-[Event Recording](https://www.youtube.com/watch?v=zskT7leTxXM%0A)
+[Event Recording](https://www.youtube.com/watch?v=zskT7leTxXM)
+
+\"Haccessibility for All\"\
+arXiv Accessibility Forum 2023\
+April 17, 2023\
+[View Recording](https://www.youtube.com/watch?v=1v3jFCWQfI8)
 
 STEM access: From author to reader\
 TeX Hour Mini-Conference\
@@ -275,6 +316,12 @@ TeX Hour Mini-Conference\
 STEM Pedagogy Institute\
 2022, New York, NY\
 [View Curriculum](https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory)
+
+\"Web APIs with Python\"\
+Week-long course, Digital Humanities Summer Institute\
+2018, 2019 - Victoria, British Columbia\
+[View Materials](https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python)\
+[\#dhsiapi on Twitter](https://twitter.com/search?q=%2523dhsiapi&src=typd)
 
 \"Rules of Thumb for Computer Security\"\
 New York Amateur Computer Club\
@@ -319,6 +366,18 @@ HASTAC conference\
 2016 - Tempe, Arizona\
 (Travel award from GC Futures Initiative)
 
+\"Lightning Talk: DH Box\"\
+NEH Project Director\'s Meeting\
+2015 - Washington, DC
+
+\"Introducing DH Box\"\
+Media Res: Lightning Talks by NYC Graduate Students on DH Projects\
+2015 --- New York, NY
+
+"DH Box: A Push-Button Digital Humanities Laboratory"\
+METRO Conference\
+2015 --- New York, NY
+
 \"DH Box: A Digital Humanities Laboratory in the Cloud\"\
 CUNY DHI: Building a Digital Humanities Community\
 2015 --- New York, New York
@@ -349,7 +408,7 @@ CUNY IT Conference\
 2014 --- New York, New York
 
 "Hangmen, Harlots, and Highwaymen: Narratives of Coercion and Resistance in the Eighteenth Century"\
-Northeast Modern Language Associate Conference (NeMLA)\
+Northeast Modern Language Association Conference (NeMLA)\
 2013 --- Boston, MA
 
 Projects
