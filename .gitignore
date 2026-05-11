@@ -13,3 +13,6 @@ assets/images/posts/*
 
 # Local Netlify folder
 .netlify
+
+# Claude Code local settings
+.claude/
