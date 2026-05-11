@@ -14,13 +14,11 @@ permalink: /posts/
     <div class="card-grid">
       {% for post in posts_sorted %}
 	<div class="card cover-img">
-	  <a href="{{ post.url }}">
-	    {% if post.image.feature %}
-	    <img src="/assets/images/{{ post.image.feature }}" class="card-img-top" alt="{{ post.title }}">
-	    {% else %}
-	    <img src="/assets/images/abstract.jpg" class="card-img-top" alt="{{ post.title }}">
-	    {% endif %}
-	  </a>
+	  {% if post.image.feature %}
+	  <img src="/assets/images/{{ post.image.feature }}" class="card-img-top" alt="">
+	  {% else %}
+	  <img src="/assets/images/abstract.jpg" class="card-img-top" alt="">
+	  {% endif %}
 
 	  <div class="card-body">
 	    <h2 class="card-title">
