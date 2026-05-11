@@ -20,18 +20,41 @@ Certificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu
 Positions
 ---------
 
+Principal Developer Relations Engineer\
+[Chainguard](https://www.chainguard.dev/)\
+October 2025 --- present
+
+Staff Developer Relations Engineer\
+[Chainguard](https://www.chainguard.dev/)\
+March 2024 --- October 2025
+
+- Influenced $16.5m ARR through vehicles such as Learning Lab, the Assemble 2025 customer conference, and 1-1 work with customers.
+- Presented at conferences including PyCon, RSAC, and SwampUP 2024, winning Best Speaker at SwampUP 2024. All accepted through organic community CFP processes, not sponsored.
+- Worked flexibly to fill perceived gaps, including pinch-hitting as a PM on AI initiatives, jumping on customer calls to provide domain expertise, and leading technical development for a critical website.
+- Developed extensive content in the form of videos, LinkedIn posts, course modules, deep dives, tutorials, and breakout sessions.
+
 Chief Learner / Principal Consultant\
-[Iota School](https://iotaschool.com/%0A)\
-January 2022 --- present
+[Iota School](https://iotaschool.com/)\
+August 2021 --- March 2025
+
+- Received a development grant from Pandas / NumFOCUS to document, lead, and record a five-workshop series on data science fundamentals and sonification with over 400 participants.
+- Worked with a Jupyter core developer and research astronomers to improve web-based notebook exports at James Webb and MAST; presented on the project at JupyterCon 2023 in Paris.
+- Replatformed the docs site and updated documentation for Sigstore as a Google Season of Docs technical writer.
+- Created a series of tutorials on deploying neural networks for object recognition as demo materials for a data science platform under development at Enthought.
 
 Postdoctoral Fellow in Humanities Entrepreneurship\
-[Publics Lab](https://publicslab.gc.cuny.edu/%0A)\
+[Publics Lab](https://publicslab.gc.cuny.edu/)\
 The Graduate Center, CUNY\
 August 2021 --- August 2022
 
-Program Coordinator, [Foundations for Research Computing](https://rcfoundations.research.columbia.edu/)\
+Research Software Engineer, [Foundations for Research Computing](https://rcfoundations.research.columbia.edu/)\
 Columbia University\
 January 2019 --- August 2021
+
+- Managed a team of staff, faculty, and graduate student instructors to teach over 85 technical workshops for 3,000+ researchers.
+- Developed new programming including a Curriculum Innovation Grant, intermediate intensives on NLP and ML in cooperation with Google Research, and a popular Python User Group.
+- Worked with Columbia's Data Science Institute, X (formerly Google X), and the TensorFlow team to develop technical training.
+- Led workshops on UNIX, scraping, data science fundamentals, visualization, accessing APIs, and ML with scikit-learn.
 
 Advisor, [MA Program in Digital Humanities](https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)\
 The Graduate Center, CUNY\
@@ -39,7 +62,7 @@ September 2017 --- December 2018
 
 Lead Curriculum Designer, Digital Humanities Research Institute\
 [Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities), NEH grant\
-September 2017 - August 218\
+September 2017 --- August 2018\
 [View Website](http://dhinstitutes.org)\
 [View Curriculum](https://github.com/DHRI-Curriculum)\
 [\#DHRI on Twitter](https://twitter.com/search?q=%2523dhri&src=tyah)
