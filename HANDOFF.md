@@ -4,10 +4,11 @@ Successor brief at the end of the May 10-11 2026 session (mismatched-socks-colle
 
 ## State at handoff
 
-- **smythp.com is live and current.** Netlify-hosted, fed from `origin/master`. Patrick verified visually.
-- **Git**: clean. `master` matches `origin/master`. Most recent commits: `cbf9fe1` (.ruby-version pin), `9768bb3` (card-grid layout), `d1ac09f` (a11y + UX), `e496d82` (mythos image + resource cleanup).
-- **Untracked (intentional)**: `SPEC-feed.md` (loose end), `topost` (Patrick's scratch — do NOT touch), `.claude/` (CC local).
-- **A11y fix batch** is in flight on a codex shard (spool `codex-7e7ef944`) at end of session; fell cycle started but not necessarily completed by next session. Check `skein shard triage` first thing.
+- **smythp.com is live and current.** Netlify-hosted, fed from `origin/master` via auto-deploy. Patrick verified the layout visually.
+- **Auto-deploy works end-to-end** as of `cbf9fe1` (`.ruby-version` pin). `git push origin master` triggers Netlify build and prod deploy in ~1 min. No more manual `netlify deploy --prod` needed for normal changes.
+- **Git**: clean. `master` matches `origin/master`. Most recent commits: `4db48d8` (reorder project card body), `6d85feb` (merged a11y shard with 8 commits — skip link/main/footer, nav aria-current conditional, project alts, iframe title, dual-link removal, h3 closer fix, contact `<address>`, visually-hidden context on Read More/Project Link), `b865d5d` (exclude internal docs from Jekyll build), `cbf9fe1` (.ruby-version pin).
+- **Untracked (intentional)**: `SPEC-feed.md`, `topost` (Patrick's scratch — do NOT touch), `.claude/` (CC local), `worktrees/codex-7e7ef944-20260511-001/` (sandbox cruft from merged shard, owned by codex user, can't `rm` from this process; gitignored).
+- **A11y shard merged + fell-clean** (`finding-20260511-m4tr` had the r1 verdict). 11 of the 11 audited items applied. Two LOW non-blockers noted: indentation churn in some touched files, and pre-existing nav `href="about"` without leading slash (not introduced by this work).
 
 ## What landed this session (May 10-11)
 
@@ -18,23 +19,29 @@ Live now:
 - **Supply chain webinar URL fix** — replaced LI `lnkd.in/eJGvCTJJ` shortlink with real goldcast registration URL.
 - **Blockquote CSS** — Kramdown emits bare `<blockquote>` (no class), Bootstrap's `.blockquote` styling never applied. Added a global `blockquote` rule in `_sass/main.scss` (left rule, indent, italic, muted color). Markdown `> ...` now renders correctly.
 - **`about.md` markdown fix** — removed raw `<p>` wrappers that were preventing Kramdown from rendering `[link](url)` syntax. Was rendering as literal text on `/about` for a long time (preexisting bug across both GH Pages and Netlify).
-- **A11y alt-text fixes** — `_layouts/post.html` and `index.html` had `alt="Bootstrap Themes"` (Bootstrap example placeholder). Real screen-reader regression. Replaced with descriptive alt. NOTE: a third instance was caught later by the a11y audit at `_layouts/project.html:10` — fix in flight on the codex shard.
-- **Front-page `/posts` CTA** — converted "More posts →" plain link into a full-width `btn btn-outline-primary` below the recent-posts grid.
-- **`/posts` header spacing** — added `mb-5` to the h1 for breathing room above the cards.
-- **Card-grid layout rewrite** — the May 9 work copied a row-cols + count-mod-2 pattern from a 4-year-old projects.html. Pattern was single-breakpoint, never responsive, and crammed 3 cards per row on phones. Replaced across all three grids (home recent posts, home current/past projects, /posts, /projects) with a single `.card-grid` flex container. `< 1280px` → 1 col, `>= 1280px` → 3 col with last-row stretch (no widow gap). No 2-col band. Threshold 1280 = Bootstrap `xl`, keeps iPad landscape (1024) at 1 col, gives 3-col cards 330px+ to breathe on real-laptop widths.
-- **`.ruby-version` pinned to 3.0.2** — Netlify auto-builds had been failing since June 2024 because no Ruby was pinned and Netlify's default Ruby moved past what the Jekyll 4.2.1 + bundler 2.3.7 lockfile combo can handle. Pin matches Patrick's local. **As of end-of-session: auto-build of `cbf9fe1` was in `building` state on Netlify; outcome not yet verified.** First check next session: did it succeed?
+- **A11y alt-text + skip link + main/footer landmarks + nav aria-current conditional** — `_layouts/post.html`, `index.html`, `_layouts/project.html` `alt="Bootstrap Themes"` placeholders all replaced. Skip link to main content added. `<main id="main-content">` wraps content; minimal `<footer>` added. Nav loop now applies `aria-current="page"` only to the matching page. iframe embeds get `title="{{ page.title }} video"`. Project cards have descriptive alt + visually-hidden context on Read More / Project Link buttons. Post cards' dual-link pattern collapsed to one stretched-link. Project h3 `</h5>` mismatched closers fixed. Contact email is now in `<address>` instead of misused blockquote.
+- **Front-page `/posts` CTA** — "More posts →" plain link converted to full-width `btn btn-outline-primary` below the recent-posts grid.
+- **`/posts` header spacing** — `mb-5` on the h1 for breathing room above the cards.
+- **Card-grid layout rewrite** — replaced Bootstrap row-cols + count-mod-2 hack with a `.card-grid` flex container across all three grids. `< 1280px` → 1 col, `>= 1280px` → 3 col with last-row stretch (no widow gap). No 2-col band. Threshold 1280 keeps iPad landscape (1024) at 1 col, gives 3-col cards 330px+ to breathe on real-laptop widths.
+- **Project card body reordered** — image → title → description → buttons (was image → buttons → title → description, which sat the Read More button visually against the heading below it).
+- **`.ruby-version` pinned to 3.0.2** — Netlify auto-builds had been failing since June 2024 because no Ruby was pinned. Pin matches Patrick's local. Auto-build now succeeds; `git push` deploys cleanly.
+- **Internal docs excluded from Jekyll build** — HANDOFF.md, README.md, SPEC-feed.md, scripts/, deploy.sh, Gemfile, Gemfile.lock all excluded via `_config.yml`. Before this they were being rendered as public pages.
 
 ## Where to start next session
 
-1. **Triage the codex a11y shard** (`skein shard triage`). If tendered, do a fell review of it (see "Fell cycle" below). If not tendered, check the spool: `unspool codex-7e7ef944`.
-2. **Check the Netlify auto-build outcome**: `netlify api listSiteDeploys --data '{"site_id":"48e9737e-86d0-4a1d-936f-0d52f050f0ea"}' | head`. Looking for `cbf9fe1`'s state. If `ready` → auto-build is fixed, future git push deploys cleanly. If `error` → bump `.ruby-version` to 3.1.x or 3.2.x and re-test.
-3. **CV refresh**: brief `brief-20260511-8xvi` in `blog-feed` site. Big job. Points at `~/projects/automate-linkedin` as the data source. Patrick needs to pair on prose; agent's job is to surface candidate material + propose structure.
+1. **Read `playbook-20260510-bsbt`** in `blog-feed` site first. That's the reproducible workflow for post work.
+2. **CV refresh** (`brief-20260511-8xvi`): Big job. Points at `~/projects/automate-linkedin` as the data source. Patrick needs to pair on prose; agent's job is to surface candidate material + propose structure.
+3. **Dead link audit** (`brief-20260511-u7gc`): Standalone task to enumerate every external link and check for rot.
+4. **External archive** (`brief-20260511-o254`): For every external link, build an archive (Wayback + archive.ph + local yt-dlp for videos) so the blog stays useful as the web rots.
 
-## Open work (briefs and folios in `blog-feed` site)
+## Open briefs / findings (all in `blog-feed` site)
 
-- **`brief-20260511-8xvi`** — Refresh cv.md for 2022 → present (Chainguard era). Detailed: Principal/Staff dates, ~15 talks/articles to add, data source pointers, conventions for what NOT to do.
-- **`finding-20260510-3jdl`** — Full a11y audit report. Some items already fixed; rest are in the codex shard.
-- **`playbook-20260510-bsbt`** — Workflow doc for posts (resource link rule, image preferences, Unsplash gotchas, embed wiring, deploy workflow, browser-driven verification). Read this before doing post work.
+- `brief-20260511-8xvi` — CV refresh for 2022 → present (Chainguard era)
+- `brief-20260511-u7gc` — Dead link audit across smythp.com
+- `brief-20260511-o254` — Archive external pages and videos linked from smythp.com
+- `finding-20260510-3jdl` — Full a11y audit (most items now fixed and merged; remaining LOW items noted in playbook)
+- `finding-20260511-m4tr` — r1 review of the a11y shard (fell-clean verdict)
+- `playbook-20260510-bsbt` — Blog post workflow playbook
 
 ## Still-unstarted work (not yet briefed, mentioned but not scheduled)
 
@@ -97,5 +104,8 @@ netlify deploy --prod --dir=_site --no-build                       # promote
 
 - `playbook-20260510-bsbt` — Blog post workflow playbook
 - `brief-20260511-8xvi` — CV refresh brief
-- `finding-20260510-3jdl` — A11y audit findings
-- (Spool) `codex-7e7ef944` — In-flight a11y fix batch
+- `brief-20260511-u7gc` — Dead link audit brief
+- `brief-20260511-o254` — Archive external pages and videos brief
+- `finding-20260510-3jdl` — A11y audit (original 11 items)
+- `finding-20260511-m4tr` — R1 review of a11y shard (fell-clean verdict)
+- `tender-20260511-17hw` — A11y shard tender summary (merged at 6d85feb)
