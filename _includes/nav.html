@@ -9,13 +9,14 @@
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
 
 
-	  {% for page in site.data.nav.pages %}
-          <li class="nav-item">
-            <a href="{{ page.url }}" class="fs-4 nav-link active" aria-current="page">
-	      {{ page.title }}
-	    </a>
-          </li>
-	  {% endfor %}
+		  {% assign current_url = page.url | remove_first: "/" | remove: ".html" | remove: "/" %}
+		  {% for page_item in site.data.nav.pages %}
+	          <li class="nav-item">
+	            <a href="{{ page_item.url }}" class="fs-4 nav-link{% if current_url == page_item.url %} active{% endif %}" {% if current_url == page_item.url %}aria-current="page"{% endif %}>
+		      {{ page_item.title }}
+		    </a>
+	          </li>
+		  {% endfor %}
 
         </ul>
 
