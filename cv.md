@@ -78,13 +78,13 @@ September 2014 --- August 2018
 Client List
 -----------
 
-Astronomy Notebooks for ALl\
+Astronomy Notebooks for All\
 [Space Telescope Science Institute](https://www.stsci.edu/)\
-2022--- present
+2022 --- 2024
 
 Digital Humanities Research Infrastructure for Teaching (DHRIFT)\
-[The Grduate center](https://www.gc.cuny.edu/%0A), City University of New York\
-2023 --- present
+[The Graduate Center](https://www.gc.cuny.edu/), City University of New York\
+2023 --- 2024
 
 Enthought Edge Platform Documentation\
 [Enthought](https://www.enthought.com/)\
@@ -92,11 +92,11 @@ Enthought Edge Platform Documentation\
 
 Google Summer of Documentation Initiative\
 [SigStore](https://www.sigstore.dev/)\
-2023
+2023 --- 2024
 
 Badging infrastructure Development Project\
 [Hikma Studio](https://www.hikma.studio/)\
-2023
+2023 --- 2024
 
 Awards and Grants
 -----------------
@@ -136,8 +136,36 @@ Graduate Research Assistantship, David Greetham, CUNY Graduate Center\
 Fulbright Fellowship, English Teaching Assistantship in Berlin, Germany\
 2009-2010
 
-Publications
-------------
+Writing
+-------
+
+"Mythos Pulls Zero-Days Forward: Here's What You Need to Know Now"\
+Chainguard Unchained, April 2026\
+[Read article](https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now)
+
+"2026: The Year of AI-Assisted Attacks"\
+Chainguard Unchained, April 2026\
+[Read article](https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks)
+
+"Going Deep: Upstream Distros and Hidden CVEs" (co-authored with Chainguard Research)\
+Chainguard Unchained, February 2026\
+[Read article](https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves)
+
+"The Maturity Gap in ML Pipeline Infrastructure"\
+Chainguard Unchained, January 2026\
+[Read article](https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure)
+
+"The Only Rule: Don't Look at the Code" (Chainguard Vibelympics retrospective)\
+Chainguard Unchained, December 2025\
+[Read article](https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code)
+
+"Deep Dive: Where Does Grype Data Come From?"\
+Chainguard / dev.to, November 2024\
+[Read article](https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e)
+
+"Securely Containerize a Python Application with Chainguard Images"\
+Chainguard / dev.to, April 2024\
+[Read article](https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8)
 
 \"Double Take: A Memoir.\" Couser, G. Thomas, and Susannah B. Mintz, editors. Disability Experiences: Memoirs, Autobiographies, and Other Personal Narratives. 2019. (review)
 
