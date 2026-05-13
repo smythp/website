@@ -76,7 +76,7 @@ to explore open files and processes. You can also use
 
 	C-x 5 o
 	
-to switch between frames. (Thanks to user [emacsclient](https://www.reddit.com/user/emacsclient) on Reddit for pointing this out.)
+to switch between frames. (Thanks to user [emacsclient](https://www.reddit.com/user/emacsclient/) on Reddit for pointing this out.)
 
 # Why Buffers Are Cool<a id="orgheadline2"></a>
 
@@ -90,7 +90,6 @@ That's the weird and wonderful world of Emacs buffers, windows, and frames for y
 
 [buffers, windows, and frames on Blasphemous Bits](https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/)  
 [Emacs terminology on the Emacs wiki](http://wikemacs.org/wiki/Emacs_Terminology)  
-[Absolute Beginner's Guide to Emacs on Jessica Hamrick's blog \(Good list of buffer-, window-, and frame-manipulating commands\)](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)  
 [Using Multiple Buffers](https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html)  
 [Working with Windows and Frames by Hack Emacs](https://www.youtube.com/watch?v=aIMECr7K35Q)  
 ["What's the difference between a buffer, a file, a window, and a frame?" on StackExchange](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame)   

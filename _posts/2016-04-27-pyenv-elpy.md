@@ -11,11 +11,11 @@ categories: emacs python
 
 I use [Emacs](https://www.gnu.org/software/emacs/) to write code in Python. As someone who prefers to use the keyboard over the mouse and who doesn't mind memorizing key combinations, I've found that Emacs is great for managing both small scripts and large projects. Until recently, I'd used the built-in Python mode that comes with Emacs, which did a decent job of handling indentation, whitespace, and some syntax highlighting. While I didn't have fancy code completion, the built-in dabbrev-expand command in Emacs, which completes words based on context, did a decent job in lieu of real completion. However, I always knew there were good libraries for syntax highlighting, linting, completion, refactoring, project management, and navigation out there, and recently I decided to take the plunge and get a proper Python programming environment set up in Emacs.
 
-I use [pyenv](https://github.com/yyuu/pyenv) to manage Python versions, allowing me to quickly switch between 2.7, 3.5, and Anaconda on a project-by-project basis. Any solution I came up with, therefore, would have to work seamlessly with pyenv. I'd also had the Elpy framework recommended to me as a good library for managing IDE features in Emacs. This post will walk you through the steps of getting Elpy to work with pyenv, and by the end you'll be able to switch between Python versions while also taking advantage of the cool IDE features afforded by Elpy.
+I use [pyenv](https://github.com/pyenv/pyenv) to manage Python versions, allowing me to quickly switch between 2.7, 3.5, and Anaconda on a project-by-project basis. Any solution I came up with, therefore, would have to work seamlessly with pyenv. I'd also had the Elpy framework recommended to me as a good library for managing IDE features in Emacs. This post will walk you through the steps of getting Elpy to work with pyenv, and by the end you'll be able to switch between Python versions while also taking advantage of the cool IDE features afforded by Elpy.
 
 ### Installing pyenv and Elpy
 
-First, [install pyenv](https://github.com/yyuu/pyenv#installation), if you haven't already. I also recommend the [pyenv-virtualenv plugin](https://github.com/yyuu/pyenv-virtualenv#installation), which lets you manage virtual environments using pyenv.
+First, [install pyenv](https://github.com/pyenv/pyenv#installation), if you haven't already. I also recommend the [pyenv-virtualenv plugin](https://github.com/pyenv/pyenv-virtualenv#installation), which lets you manage virtual environments using pyenv.
 
 Once you have pyenv set up and have installed a new version of Python with the `pyenv install <version>` command, you're ready to [install elpy](https://github.com/jorgenschaefer/elpy#quick-installation):
 

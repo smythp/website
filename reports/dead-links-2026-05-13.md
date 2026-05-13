@@ -4,10 +4,10 @@ Audited 188 unique external URLs from smythp.com source.
 
 ## Counts
 
-- ALIVE: 111
-- REDIRECTED: 34
+- ALIVE: 122
+- REDIRECTED: 30
 - DEAD: 14
-- UNCERTAIN: 29
+- UNCERTAIN: 22
 - TOTAL: 188
 
 ## DEAD (14)
@@ -30,11 +30,11 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `cv.md:371`
 
-### `http://www.apple.com/apps/itunes-u/?cid=wwa-us-kwg-features-com&amp;siclientid=6381&amp;sessguid=83aba7ce-ceae-4f3a-ab80-eff9d67c80a0&amp;userguid=83aba7ce-ceae-4f3a-ab80-eff9d67c80a0&amp;permguid=83aba7ce-ceae-4f3a-ab80-eff9d67c80a0`
+### `http://wikemacs.org/wiki/Emacs_Terminology`
 
-- **Status:** HTTP 404
+- **Status:** connection error: HTTPSConnectionPool(host='wikemacs.org', port=443): Max retries exceeded with url: /wiki/Emacs_Terminology (Caused by Re
 - **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:28`
+  - `_posts/2017-06-01-emacs-buffers.md:92`
 
 ### `http://www.hastac.org/blogs/craigeley/2013/02/25/ipad-workflow-zotero-zotfile-zotpad`
 
@@ -60,29 +60,11 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `cv.md:451`
 
-### `https://cfp.jupytercon.com/2023/talk/J97H8N/`
-
-- **Status:** connection error: HTTPSConnectionPool(host='cfp.jupytercon.com', port=443): Max retries exceeded with url: /2023/talk/J97H8N/ (Caused by C
-- **Found in:**
-  - `cv.md:198`
-
 ### `https://curriculum.dhinstitutes.org/`
 
 - **Status:** connection error: HTTPSConnectionPool(host='curriculum.dhinstitutes.org', port=443): Max retries exceeded with url: / (Caused by NameResol
 - **Found in:**
   - `_projects/dri_curriculum.md:17`
-
-### `https://drive.google.com/‎`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:24`
-
-### `https://software-carpentry.org/about/`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `cv.md:18`
 
 ### `https://www.chainguard.dev/assemble`
 
@@ -92,14 +74,31 @@ Audited 188 unique external URLs from smythp.com source.
   - `_posts/2025-03-18-assemble-2025-old-new-strange.md:28`
   - `_posts/2026-03-23-advisory-feeds-with-konstantinos.md:23`
 
-### `https://www.pbk.org/Behind-the-Key/Patrick-Smyth`
+### `https://www.gnu.org/software/emacs/`
+
+- **Status:** connection error: HTTPSConnectionPool(host='www.gnu.org', port=443): Max retries exceeded with url: /software/emacs/ (Caused by ConnectTim
+- **Found in:**
+  - `_posts/2016-04-27-pyenv-elpy.md:12`
+
+### `https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html`
+
+- **Status:** connection error: HTTPSConnectionPool(host='www.gnu.org', port=443): Max retries exceeded with url: /software/emacs/manual/html_node/emacs
+- **Found in:**
+  - `_posts/2017-06-01-emacs-buffers.md:94`
+
+### `https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html`
+
+- **Status:** connection error: HTTPSConnectionPool(host='www.gnu.org', port=443): Max retries exceeded with url: /software/emacs/manual/html_node/emacs
+- **Found in:**
+  - `_posts/2017-06-01-emacs-buffers.md:85`
+
+### `https://www.linkedin.com/in/dafnz/`
 
 - **Status:** HTTP 404
 - **Found in:**
-  - `cv.md:399`
-  - `_projects/neh.md:16`
+  - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
 
-## REDIRECTED (34)
+## REDIRECTED (30)
 
 ### `http://books.google.com/`
 
@@ -113,7 +112,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Status:** 200 via redirect
 - **Redirects to:** https://calibre-ebook.com/
 - **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:18`
   - `_posts/2016-03-03-underrated-zotero.md:14`
 
 ### `http://chronicle.com/blogs/profhacker/zotero-vs-endnote/33157`
@@ -123,26 +121,12 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2016-03-03-underrated-zotero.md:45`
 
-### `http://coggle.it/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://coggle.it/
-- **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:23`
-
 ### `http://dhinstitutes.org`
 
 - **Status:** 200 via redirect
 - **Redirects to:** http://www.dhinstitutes.org/
 - **Found in:**
   - `cv.md:69`
-
-### `http://endnote.com/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://endnote.com/
-- **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:17`
 
 ### `http://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html`
 
@@ -151,6 +135,20 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2016-03-03-underrated-zotero.md:44`
 
+### `http://nehimpact.org/`
+
+- **Status:** 200 via redirect
+- **Redirects to:** https://nehimpact.org/
+- **Found in:**
+  - `_projects/neh.md:5`
+
+### `http://nehimpact.org/about`
+
+- **Status:** 200 via redirect
+- **Redirects to:** https://nehimpact.org/about
+- **Found in:**
+  - `_projects/neh.md:12`
+
 ### `http://nyacc.org/`
 
 - **Status:** 200 via redirect
@@ -158,12 +156,12 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `cv.md:237`
 
-### `http://wikemacs.org/wiki/Emacs_Terminology`
+### `http://wordpress.org/plugins/zotpress/`
 
 - **Status:** 200 via redirect
-- **Redirects to:** https://wikemacs.org/wiki/Emacs_Terminology
+- **Redirects to:** https://wordpress.org/plugins/zotpress/
 - **Found in:**
-  - `_posts/2017-06-01-emacs-buffers.md:92`
+  - `_posts/2016-03-03-underrated-zotero.md:40`
 
 ### `http://www.aiip.org/`
 
@@ -172,12 +170,22 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `cv.md:454`
 
-### `http://www.easybib.com/`
+### `http://www.nehimpact.org/`
 
 - **Status:** 200 via redirect
-- **Redirects to:** https://www.easybib.com/
+- **Redirects to:** https://www.nehimpact.org/
 - **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:17`
+  - `cv.md:403`
+  - `cv.md:434`
+  - `cv.md:436`
+  - `_data/projects.yml:23`
+
+### `http://www.nehimpact.org/faq`
+
+- **Status:** 200 via redirect
+- **Redirects to:** https://www.nehimpact.org/faq
+- **Found in:**
+  - `cv.md:436`
 
 ### `http://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint`
 
@@ -202,13 +210,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2016-03-05-expanders.md:22`
 
-### `http://www.ted.com/talks`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://www.ted.com/talks
-- **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:28`
-
 ### `http://www.writingstudiestree.org/`
 
 - **Status:** 200 via redirect
@@ -222,13 +223,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Redirects to:** https://xmind.com
 - **Found in:**
   - `_posts/2015-11-22-killer-apps.md:23`
-
-### `http://www.zotero.org/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://www.zotero.org:443/
-- **Found in:**
-  - `_posts/2015-11-22-killer-apps.md:15`
 
 ### `http://www.zotpad.com/sites/default/files/UserManualWeb.pdf`
 
@@ -292,30 +286,7 @@ Audited 188 unique external URLs from smythp.com source.
 - **Status:** 200 via redirect
 - **Redirects to:** https://x.com/psmyth01
 - **Found in:**
-  - `_posts/2016-05-23-good-workshops.md:11`
   - `_includes/socials.html:10`
-
-### `https://twitter.com/psmyth01/status/851505002900336644`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://x.com/psmyth01/status/851505002900336644
-- **Found in:**
-  - `cv.md:436`
-  - `_projects/neh.md:20`
-
-### `https://twitter.com/search?q=%2523dhri&src=tyah`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://x.com/search?q=%2523dhri&src=tyah
-- **Found in:**
-  - `cv.md:71`
-
-### `https://twitter.com/search?q=%2523dhsiapi&src=typd`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://x.com/search?q=%2523dhsiapi&src=typd
-- **Found in:**
-  - `cv.md:232`
 
 ### `https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care`
 
@@ -347,7 +318,7 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2016-03-03-underrated-zotero.md:14`
 
-## UNCERTAIN (29)
+## UNCERTAIN (22)
 
 ### `http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/`
 
@@ -362,39 +333,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Status:** 403 (possible bot block)
 - **Found in:**
   - `_posts/2015-11-22-killer-apps.md:21`
-
-### `http://nehimpact.org/`
-
-- **Status:** req error: HTTPSConnectionPool(host='nehimpact.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many
-- **Found in:**
-  - `_projects/neh.md:5`
-
-### `http://nehimpact.org/about`
-
-- **Status:** req error: HTTPSConnectionPool(host='nehimpact.org', port=443): Max retries exceeded with url: /about (Caused by ResponseError('too
-- **Found in:**
-  - `_projects/neh.md:12`
-
-### `http://wordpress.org/plugins/zotpress/`
-
-- **Status:** req error: HTTPSConnectionPool(host='wordpress.org', port=443): Max retries exceeded with url: /plugins/zotpress/ (Caused by Respon
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:40`
-
-### `http://www.nehimpact.org/`
-
-- **Status:** req error: HTTPSConnectionPool(host='www.nehimpact.org', port=443): Max retries exceeded with url: / (Caused by ResponseError('too 
-- **Found in:**
-  - `cv.md:403`
-  - `cv.md:434`
-  - `cv.md:436`
-  - `_data/projects.yml:23`
-
-### `http://www.nehimpact.org/faq`
-
-- **Status:** req error: HTTPSConnectionPool(host='www.nehimpact.org', port=443): Max retries exceeded with url: /faq (Caused by ResponseError('t
-- **Found in:**
-  - `cv.md:436`
 
 ### `http://www.refworks.com/`
 
@@ -439,12 +377,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Status:** 403 (possible bot block)
 - **Found in:**
   - `_projects/dri_curriculum.md:13`
-
-### `https://iotaschool.com/resource/sequence/u/patrick/s/the-accessible-laboratory`
-
-- **Status:** HTTP 500 (server)
-- **Found in:**
-  - `cv.md:226`
 
 ### `https://m.gc.cuny.edu/News/Detail?id=60526`
 
@@ -492,11 +424,11 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `cv.md:20`
 
-### `https://www.linkedin.com/in/dafnz/`
+### `https://www.linkedin.com/in/kallewesterling/`
 
 - **Status:** HTTP 999
 - **Found in:**
-  - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
+  - `_posts/2026-03-27-rsac-ml-pipelines.md:17`
 
 ### `https://www.linkedin.com/in/smythp/`
 
@@ -510,12 +442,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2025-05-18-cheese-must-stand-pycon.md:24`
   - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
-
-### `https://www.linkedin.com/in/westerling/`
-
-- **Status:** HTTP 999
-- **Found in:**
-  - `_posts/2026-03-27-rsac-ml-pipelines.md:17`
 
 ### `https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities`
 
