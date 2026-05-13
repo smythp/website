@@ -1,16 +1,16 @@
 # Dead link audit — 2026-05-13
 
-Audited 183 unique external URLs from smythp.com source.
+Audited 181 unique external URLs from smythp.com source.
 
 ## Counts
 
-- ALIVE: 135
+- ALIVE: 136
 - REDIRECTED: 17
-- DEAD: 8
+- DEAD: 5
 - UNCERTAIN: 23
-- TOTAL: 183
+- TOTAL: 181
 
-## DEAD (8)
+## DEAD (5)
 
 ### `http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/`
 
@@ -23,26 +23,6 @@ Audited 183 unique external URLs from smythp.com source.
 - **Status:** connection error: HTTPSConnectionPool(host='wikemacs.org', port=443): Max retries exceeded with url: /wiki/Emacs_Terminology (Caused by Re
 - **Found in:**
   - `_posts/2017-06-01-emacs-buffers.md:92`
-
-### `http://www.morethanamapp.org/`
-
-- **Status:** connection error: HTTPConnectionPool(host='www.morethanamapp.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionErr
-- **Found in:**
-  - `cv.md:451`
-
-### `https://curriculum.dhinstitutes.org/`
-
-- **Status:** connection error: HTTPSConnectionPool(host='curriculum.dhinstitutes.org', port=443): Max retries exceeded with url: / (Caused by NameResol
-- **Found in:**
-  - `_projects/dri_curriculum.md:17`
-
-### `https://www.chainguard.dev/assemble`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2025-03-18-assemble-2025-old-new-strange.md:21`
-  - `_posts/2025-03-18-assemble-2025-old-new-strange.md:28`
-  - `_posts/2026-03-23-advisory-feeds-with-konstantinos.md:23`
 
 ### `https://www.gnu.org/software/emacs/`
 
