@@ -13,7 +13,7 @@ resources:
  - text: PC Magazine Coverage
    link: http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
  - text: Phi Beta Kappa Profile
-   link: https://www.pbk.org/Behind-the-Key/Patrick-Smyth
+   link: https://www.pbk.org/patrick-smyth
  - text: Blog Post
    link: https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
  - text: Twitter
