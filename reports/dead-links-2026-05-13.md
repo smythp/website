@@ -4,19 +4,13 @@ Audited 181 unique external URLs from smythp.com source.
 
 ## Counts
 
-- ALIVE: 136
+- ALIVE: 137
 - REDIRECTED: 17
-- DEAD: 5
-- UNCERTAIN: 23
+- DEAD: 6
+- UNCERTAIN: 21
 - TOTAL: 181
 
-## DEAD (5)
-
-### `http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `cv.md:371`
+## DEAD (6)
 
 ### `http://wikemacs.org/wiki/Emacs_Terminology`
 
@@ -41,6 +35,18 @@ Audited 181 unique external URLs from smythp.com source.
 - **Status:** connection error: HTTPSConnectionPool(host='www.gnu.org', port=443): Max retries exceeded with url: /software/emacs/manual/html_node/emacs
 - **Found in:**
   - `_posts/2017-06-01-emacs-buffers.md:85`
+
+### `https://www.linkedin.com/in/dafnz/`
+
+- **Status:** HTTP 404
+- **Found in:**
+  - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
+
+### `https://www.linkedin.com/in/kallewesterling/`
+
+- **Status:** HTTP 404
+- **Found in:**
+  - `_posts/2026-03-27-rsac-ml-pipelines.md:17`
 
 ## REDIRECTED (17)
 
@@ -171,7 +177,7 @@ Audited 181 unique external URLs from smythp.com source.
   - `_posts/2015-11-22-killer-apps.md:25`
   - `_posts/2015-11-22-killer-apps.md:26`
 
-## UNCERTAIN (23)
+## UNCERTAIN (21)
 
 ### `http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/`
 
@@ -276,18 +282,6 @@ Audited 181 unique external URLs from smythp.com source.
 - **Status:** 403 (possible bot block)
 - **Found in:**
   - `cv.md:20`
-
-### `https://www.linkedin.com/in/dafnz/`
-
-- **Status:** HTTP 999
-- **Found in:**
-  - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
-
-### `https://www.linkedin.com/in/kallewesterling/`
-
-- **Status:** HTTP 999
-- **Found in:**
-  - `_posts/2026-03-27-rsac-ml-pipelines.md:17`
 
 ### `https://www.linkedin.com/in/smythp/`
 
