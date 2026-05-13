@@ -17,7 +17,7 @@ resources:
  - text: Blog Post
    link: https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
  - text: Twitter
-   link: https://twitter.com/psmyth01/status/851505002900336644
+   link: https://x.com/psmyth01/status/851505002900336644
 ---
 
 <p>The <a href="https://www.neh.gov/">National Endowment for the Humanities</a> is an independent federal agency that supports humanities projects and initiatives, including those for education, historical preservation, and public-facing scholarship. <a href="http://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint"> 

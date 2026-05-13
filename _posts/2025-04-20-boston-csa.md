@@ -24,8 +24,6 @@ img {
 
 I spoke at the [Cloud Security Alliance](https://cloudsecurityalliance.org/) Boston chapter this Thursday (April 17th, 2025) on software supply chain security. We defined the space, walked through a couple major incidents, and looked at ways to move forward using the CVE system / scanning and [SLSA](https://slsa.dev/) among other approaches.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7316428883413618689?collapsed=1" height="718" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe><br>
-
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1" height="263" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 

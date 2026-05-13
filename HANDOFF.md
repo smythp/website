@@ -1,65 +1,72 @@
 # Handoff — smythp.com / blog repo
 
-Successor brief at the end of the May 10-11 2026 session (mismatched-socks-collective-0510). Read this before starting work.
+Successor brief at the end of the May 11 2026 session (blip-0511). This session continued from the May 10-11 CV-refresh session (handoff was `brief-20260511-o0x3`). Read this before starting work.
 
 ## State at handoff
 
-- **smythp.com is live and current.** Netlify-hosted, fed from `origin/master` via auto-deploy. `git push origin master` triggers Netlify build and prod deploy in ~1 min — no manual `netlify deploy --prod` needed for normal changes.
-- **Git is clean.** `master` matches `origin/master` at `7978c63` (`.claude/` gitignore commit). Only untracked file is `topost` (Patrick's scratch — do NOT touch).
-- **Ruby is pinned** via `.ruby-version` to `3.0.2`. Auto-build succeeds against the existing Jekyll 4.2.1 + bundler 2.3.7 stack.
-- **`worktrees/` directory is gone** (cleaned up). `SPEC-feed.md` is gone. `.claude/` is gitignored.
+- **smythp.com is live and current.** Netlify-hosted, fed from `origin/master` via auto-deploy. `git push origin master` triggers Netlify build and prod deploy in ~1 min.
+- **`master` matches `origin/master` at `e1a5536`** (the `/talks/` index page). One additional commit sits locally at `58f4521` (dead-link audit script + report) — not pushed yet; awaits Patrick's call.
+- **Working tree clean** apart from the local-only commit above. `topost` is gitignored.
+- **Jekyll exclude list now also covers `reports/`** so any future audit artifacts stay out of the rendered site.
 
-## Open briefs (all in `blog-feed` site)
-
-These are the units of work the next agent (or several agents) could pick up. Each is fully spec'd; no preamble needed.
-
-- `brief-20260511-8xvi` — **CV refresh** for 2022 → present. Big job. Points at `~/projects/automate-linkedin` as the data source. Patrick pairs on prose; agent surfaces candidate material + proposes structure. **An agent is already working on this one** per Patrick's "kicked off the new guy" message; coordinate before overlapping.
-- `brief-20260511-m0yh` — **Refresh `_projects/`** — surface the AI infra body of work (tine et al). Demote DH-era to "Past Projects." Pair-required (selection is subjective).
-- `brief-20260511-fvv9` — **`/talks/` index page**. Tag posts by type (`talk` / `workshop` / `webinar` / `event` / `blog`), build a talks-only listing, add to nav.
-- `brief-20260511-7n78` — **Auto-stage new LI posts into `_drafts/`** from automate-linkedin's SQLite. Reduces per-post boilerplate to near-zero; Patrick still gates publication.
-- `brief-20260511-u7gc` — **Dead link audit** across smythp.com. LI and YouTube need special-case detection (200-but-deleted is a thing on both).
-- `brief-20260511-o254` — **Archive external pages and videos** linked from smythp.com. Wayback + archive.ph + local yt-dlp for videos. Keeps the blog useful as the web rots.
-
-## Reference folios (also in `blog-feed`)
-
-- `playbook-20260510-bsbt` — Blog post workflow playbook. **Read this first** before doing any post work. Covers resource link rule, image preferences, Unsplash gotchas, embed wiring, deploy workflow, browser-driven verification, code change discipline, archeology principle, dev server setup.
-- `finding-20260510-3jdl` — Original a11y audit (11 items; most fixed and merged).
-- `finding-20260511-m4tr` — r1 review of the a11y fix shard (fell-clean verdict).
-- `tender-20260511-17hw` — A11y shard tender summary (merged at commit `6d85feb`).
-
-## What landed this session (May 10-11)
+## What landed this session
 
 Live on smythp.com:
 
-- **Content**: Mythos post got a real (free-Unsplash) header image, replaced lnkd.in shortlink with goldcast URL on supply-chain webinar, dropped third-party/non-Patrick links from Mythos resources per the cleaner rule, the title fix Staff → Principal is finally visible (was stuck behind broken Netlify auto-build for weeks), `about.md` markdown links render correctly (preexisting `<p>`-wrap bug that suppressed Kramdown was fixed by dropping the wrappers).
-- **A11y batch** (codex shard, fell-clean reviewed): skip link + `<main>` + `<footer>` landmarks, nav `aria-current="page"` conditional, project page + project card alt text using `project.name`, iframe titles on YouTube embeds, post-card dual-link collapse to single stretched-link, visually-hidden context spans on Read More / Project Link, `</h5>` → `</h3>` mismatched closer fix in projects, contact email moved from misused `<blockquote>` to `<address>`. Eight commits, all merged at `6d85feb`.
-- **Card-grid layout rewrite**: Bootstrap row-cols + count-mod-2 hack replaced with a `.card-grid` flex container. `< 1280px` viewport: 1 col. `>= 1280px`: 3 col with last-row stretch (no widow gap). No 2-col band. Threshold 1280 picked so iPad landscape (1024) stays 1-col, only real-laptop widths get 3-col with cards at ~330px+ wide. Applied across home (Recent posts, Current/Past projects) and /posts and /projects.
-- **Project card body reordered**: image → title → description → buttons (was image → buttons → title → description, which sat Read More tight against the heading).
-- **Front-page CTA**: "More posts →" plain link became full-width `btn btn-outline-primary` below the recent-posts grid.
-- **`/posts/` header spacing**: `mb-5` on the h1.
-- **Blockquote CSS**: site-wide `blockquote` rule in `_sass/main.scss` (left rule, indent, italic, muted color) so Kramdown's bare `<blockquote>` renders properly.
+- **`/talks/` index page**. Filters `site.posts` by `type ∈ {talk, workshop, webinar}` and renders as the existing `.card-grid`. 17 posts got a new `type:` frontmatter field (talk × 5, workshop × 1, webinar × 1, event × 1, blog × 9). Nav order is now About → Talks → CV → Contact. Vibelympics is tagged `event` (off /talks/, it's a hosting recap not a speaking gig). Boston CSA wasn't in the original brief's tagging list but was tagged `talk` based on its title ("Spoke at Cloud Security Alliance Boston Chapter").
+- **Nothing else** — the rest of this session was tooling and triage.
 
-Deploy infrastructure:
+Local-only (not pushed):
 
-- **`.ruby-version` pinned**, auto-builds work end-to-end after 18+ months of broken Netlify builds.
-- **Internal docs excluded from Jekyll build** via `_config.yml` (HANDOFF, README, SPEC-feed, scripts/, deploy.sh, Gemfile, Gemfile.lock). Before, they were rendered as public pages.
+- **`scripts/check_dead_links.py`** — rerunnable site-wide external link audit. Handles LinkedIn (200 + deletion banner detection) and YouTube (oembed) as special cases since both return 200 for unavailable content. 16 workers; ~30s for the current 188 URLs.
+- **`reports/dead-links-2026-05-11.md`** — baseline audit. 20 DEAD / 34 REDIRECTED / 25 UNCERTAIN / 109 ALIVE.
 
-Process / docs:
+In SKEIN:
 
-- **Playbook polished** through three iterations — removed shopping-list flavor, added end-to-end "drafting a new post" recipe, viewport sizes reference, why-flex-not-CSS-Grid-auto-fit reasoning, dev server one-liner, "archeology before reimplementing" section, "spool output too large" handling.
-- **Three new briefs filed today** (talks index, auto-stage LI, dead link audit, archive external content, projects refresh). The CV brief was filed earlier in the session and is already being worked.
+- **`finding-20260511-g2lv`** — dead-link audit triage notes. Six items worth attention; the rest is old DH-era cruft.
+- **`brief-20260511-uf2m`** — pair-handoff brief for the dead-link triage resume state. Read before resuming the link work.
+- **New site `angelus`** with six kickoff briefs (see below). Net-new initiative; doesn't depend on anything in blog-feed.
+
+## Open briefs (`blog-feed` site)
+
+Unchanged from prior handoff except:
+
+- **`brief-20260511-fvv9`** (`/talks/` index page) — **DONE** this session, close on next torch.
+- **`brief-20260511-u7gc`** (dead-link audit) — **partially done**. Script and baseline shipped; **triage is mid-flight** (see pair-handoff brief for resume state). Don't close until link dispositions are decided.
+
+Remaining open:
+
+- `brief-20260511-8xvi` — CV refresh (mostly done last session; some sub-briefs filed)
+- `brief-20260511-m0yh` — Refresh `_projects/` (pair-required)
+- `brief-20260511-7n78` — Auto-stage LI posts into `_drafts/`
+- `brief-20260511-o254` — Archive external pages and videos (now usefully unblocked by the dead-link report — the DEAD list is the input)
+- `brief-20260511-1hwc` — City College data science classes for CV
+- `brief-20260511-14l6` — Workshops Taught expansion for CV
+
+## New initiative: `angelus`
+
+Net-new SKEIN site for an autonomous-agent reliability layer. Patrick activated on this because iotaschool.com going down was caught only by a manual run of the dead-link script — exactly the kind of thing a scheduled job should have caught.
+
+Vocabulary: **Angelus** (system) → **peal** (consolidated daily digest of routine output) → **strike** (single immediate emergency push). Working terms: **round** (a single scheduled job), **ringer** (the trigger mechanism — cron, email, state change).
+
+Six kickoff briefs in the `angelus` site:
+
+- `brief-20260511-unaw` — Architecture and vocabulary spec (north star)
+- `brief-20260511-bkxr` — Trigger system (cron + email-to-patbot + state)
+- `brief-20260511-3tb3` — Peal pipeline (digest consolidation + delivery)
+- `brief-20260511-7nrm` — Strike pipeline (emergency dispatch, dedup, rate-limit)
+- `brief-20260511-e701` — Reliability (three-layer watchdog: per-round expected-fire tracking, external healthchecks.io heartbeat, raw-cron fallback)
+- `brief-20260511-9gk5` — Kickoff rounds (six concrete jobs, including a 3-URL liveness watch as first-milestone)
+
+Angelus lives in SKEIN only right now — no `~/projects/angelus/` exists yet. Patrick is pairing on next steps.
 
 ## Where to start next session
 
-1. **Read `playbook-20260510-bsbt`** in `blog-feed`. It's the workflow doc.
-2. **Check what the CV agent did** — see `skein shard triage` for in-flight shards; check `brief-20260511-8xvi` for any updates.
-3. **Pick a brief** based on what Patrick wants prioritized. Roughly in difficulty / pairing-intensity order:
-   - Talks index (`fvv9`) — mostly mechanical, needs Patrick confirms on tagging and nav position
-   - Auto-stage LI (`7n78`) — scripting work, needs Patrick to pair on title heuristics
-   - Dead link audit (`u7gc`) — one-shot script + Patrick triages results
-   - Archive external content (`o254`) — depends on dead-link enumeration, otherwise independent
-   - Projects refresh (`m0yh`) — selection is subjective, real pairing required
-   - CV refresh (`8xvi`) — biggest, ongoing
+If Patrick is pairing on links: read `finding-20260511-g2lv` + the dead-link pair-handoff brief, resume triage. The Gemini spool `gemini-2cb230a0` (Chainguard Assemble URL research) may have results pending — check with `unspool gemini-2cb230a0`.
+
+If Patrick is starting Angelus implementation: read `brief-20260511-unaw` first (architecture / vocabulary), then the trigger and reliability briefs. The first concrete milestone is the 3-URL liveness round, which proves trigger → check → finding → peal/strike → delivered.
+
+Other open briefs (projects refresh, auto-stage LI, archive external, CV class/workshop gaps) are unchanged from prior handoff.
 
 ## Deploy / Netlify (quick reference)
 
@@ -69,9 +76,10 @@ Process / docs:
 - For draft preview without affecting prod: `source ~/.nvm/nvm.sh && nvm use 20 && netlify deploy --dir=_site --no-build`.
 - Netlify CLI v26 auth quirk: if `netlify status` says "Not logged in" after a successful `netlify login`, delete `~/.config/netlify/config.json` and re-run `netlify login`.
 
-## Other notes
+## Process notes
 
-- **dccccc.cc** — Patrick will tinker on this directly in emacs, no brief. Loose / personal site, separate codebase (`~/projects/server-www/www/`).
-- **Posts pipeline** — 8 posts published, ~11 candidates still to draft (list lives in `~/li/my_posts/`). Auto-stage brief (`7n78`) would mechanize most of the per-post setup.
-- **Patrick uses a screen reader** some of the time. Real-stakes accessibility — see playbook.
-- **Patrick writes prose**, agents stage frontmatter + factual scaffolding. No LLM-written summaries, no editorialized voice. "No wink stuff."
+- **Don't run `deploy.sh` with untracked files dirty in the blog repo** — `git add -A` will scoop them up under "Automatic push." `.claude/`, `topost`, and now `reports/` are protected (gitignored or Jekyll-excluded).
+- **CV: `_cv/cv.org` is canonical.** Don't hand-edit `blog/cv.md` directly. The pipeline (`_cv/update.sh` → `deploy.sh`) regenerates it. See the "CV update flow" section of `playbook-20260510-bsbt`.
+- **Two-page CV is deleted.** All `_cv/two_page.*` files and `_cv/two-page.docx` were removed this session (Patrick's call). The compact-CV variant is no longer maintained.
+- **Patrick uses a screen reader** some of the time. Plain text for structured output; no tables or markdown columns in agent communications.
+- **Don't use emojis** unless asked.

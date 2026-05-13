@@ -8,7 +8,7 @@ image:
   thumbnail: 
 permalink: /good_workshops/
 ---
-Since we'll be holding our second week-long [Digital Research Institute](http://gcdigitalfellows.github.io/) in June, I thought I'd put together a list of the lessons I've learned teaching technical workshops over the past two years. If you have more lessons in mind, drop me a line at [@psmyth01](psmyth01https://twitter.com/psmyth01). 
+Since we'll be holding our second week-long [Digital Research Institute](http://gcdigitalfellows.github.io/) in June, I thought I'd put together a list of the lessons I've learned teaching technical workshops over the past two years. If you have more lessons in mind, drop me a line at [@psmyth01](https://x.com/psmyth01). 
 
 
 ## Focus
