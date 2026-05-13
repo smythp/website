@@ -20,4 +20,4 @@ resources:
 <!-- Subtitle support is now in the post layout — `subtitle:` field renders below the title. -->
 <!-- Recording is embedded above via the embed: field (YouTube watch URL gets converted to embed URL automatically). -->
 
-Presented "Dispelling the Myths of Advisory Feeds" with Konstantinos "Gus" Evangelakos at [Chainguard Assemble](https://www.chainguard.dev/assemble) 2026 in NYC. We took the producer side (Chainguard) and the consumer side (Orca Security) of advisory feeds — what each side assumes the other is doing, where those assumptions break, and what that means for vulnerability triage in practice.
+Presented "Dispelling the Myths of Advisory Feeds" with Konstantinos "Gus" Evangelakos at [Chainguard Assemble](https://www.chainguard.dev/events/assemble-2026) 2026 in NYC. We took the producer side (Chainguard) and the consumer side (Orca Security) of advisory feeds — what each side assumes the other is doing, where those assumptions break, and what that means for vulnerability triage in practice.

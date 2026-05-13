@@ -18,11 +18,11 @@ resources:
   - text: "Assemble 2025 session playlist"
     link: "https://www.youtube.com/playlist?list=PLLjvkjPNmuZmGGB1lPRfIujzsVgwvesbt"
   - text: "Chainguard Assemble"
-    link: "https://www.chainguard.dev/assemble"
+    link: "https://www.chainguard.dev/events/assemble-2025"
   - text: "LinkedIn (preview)"
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7307799598427746305/"
   - text: "LinkedIn (recording up)"
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7313198578162675712/"
 ---
 
-Breakout session at the inaugural [Chainguard Assemble](https://www.chainguard.dev/assemble) customer conference in San Francisco. The talk runs through the strange shape of attack vectors in deep learning, such as data poisoning, input manipulation, model inversion, contrasting with what's actually going to move the needle for securing an AI deployment in 2025. The interesting and fun to talk about attacks are probably not the most critical to deal with first, you still have to secure your boring software layer and supply chain first. But it's fun to talk about more exotic attacks (dirty pickle, sponge, model inversion). :)
+Breakout session at the inaugural [Chainguard Assemble](https://www.chainguard.dev/events/assemble-2025) customer conference in San Francisco. The talk runs through the strange shape of attack vectors in deep learning, such as data poisoning, input manipulation, model inversion, contrasting with what's actually going to move the needle for securing an AI deployment in 2025. The interesting and fun to talk about attacks are probably not the most critical to deal with first, you still have to secure your boring software layer and supply chain first. But it's fun to talk about more exotic attacks (dirty pickle, sponge, model inversion). :)
