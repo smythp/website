@@ -1,28 +1,16 @@
 # Dead link audit — 2026-05-13
 
-Audited 188 unique external URLs from smythp.com source.
+Audited 183 unique external URLs from smythp.com source.
 
 ## Counts
 
-- ALIVE: 122
-- REDIRECTED: 30
-- DEAD: 14
-- UNCERTAIN: 22
-- TOTAL: 188
+- ALIVE: 135
+- REDIRECTED: 17
+- DEAD: 8
+- UNCERTAIN: 23
+- TOTAL: 183
 
-## DEAD (14)
-
-### `http://chrisjr.github.io/papermachines/`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:40`
-
-### `http://lifehacker.com/238306/lifehacker-code-texter-windows`
-
-- **Status:** HTTP 410
-- **Found in:**
-  - `_posts/2016-03-05-expanders.md:22`
+## DEAD (8)
 
 ### `http://nycdh.org/nycdh-graduate-student-digital-project-awards-2016/`
 
@@ -35,24 +23,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Status:** connection error: HTTPSConnectionPool(host='wikemacs.org', port=443): Max retries exceeded with url: /wiki/Emacs_Terminology (Caused by Re
 - **Found in:**
   - `_posts/2017-06-01-emacs-buffers.md:92`
-
-### `http://www.hastac.org/blogs/craigeley/2013/02/25/ipad-workflow-zotero-zotfile-zotpad`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:36`
-
-### `http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2017-06-01-emacs-buffers.md:93`
-
-### `http://www.mla.org/style/style_faq/mlastyle_cite_an_ebook`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2015-08-06-citing-ebooks.md:15`
 
 ### `http://www.morethanamapp.org/`
 
@@ -84,7 +54,7 @@ Audited 188 unique external URLs from smythp.com source.
 
 - **Status:** connection error: HTTPSConnectionPool(host='www.gnu.org', port=443): Max retries exceeded with url: /software/emacs/manual/html_node/emacs
 - **Found in:**
-  - `_posts/2017-06-01-emacs-buffers.md:94`
+  - `_posts/2017-06-01-emacs-buffers.md:93`
 
 ### `https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html`
 
@@ -92,34 +62,7 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2017-06-01-emacs-buffers.md:85`
 
-### `https://www.linkedin.com/in/dafnz/`
-
-- **Status:** HTTP 404
-- **Found in:**
-  - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
-
-## REDIRECTED (30)
-
-### `http://books.google.com/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://books.google.com/?hl=en
-- **Found in:**
-  - `_posts/2015-08-06-citing-ebooks.md:18`
-
-### `http://calibre-ebook.com/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://calibre-ebook.com/
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:14`
-
-### `http://chronicle.com/blogs/profhacker/zotero-vs-endnote/33157`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:45`
+## REDIRECTED (17)
 
 ### `http://dhinstitutes.org`
 
@@ -127,13 +70,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Redirects to:** http://www.dhinstitutes.org/
 - **Found in:**
   - `cv.md:69`
-
-### `http://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:44`
 
 ### `http://nehimpact.org/`
 
@@ -155,13 +91,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Redirects to:** https://nyacc.org/
 - **Found in:**
   - `cv.md:237`
-
-### `http://wordpress.org/plugins/zotpress/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://wordpress.org/plugins/zotpress/
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:40`
 
 ### `http://www.aiip.org/`
 
@@ -203,13 +132,6 @@ Audited 188 unique external URLs from smythp.com source.
   - `cv.md:437`
   - `_projects/neh.md:14`
 
-### `http://www.phraseexpress.com/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://www.phraseexpress.com/
-- **Found in:**
-  - `_posts/2016-03-05-expanders.md:22`
-
 ### `http://www.writingstudiestree.org/`
 
 - **Status:** 200 via redirect
@@ -223,13 +145,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Redirects to:** https://xmind.com
 - **Found in:**
   - `_posts/2015-11-22-killer-apps.md:23`
-
-### `http://www.zotpad.com/sites/default/files/UserManualWeb.pdf`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://en.beecircular.org
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:35`
 
 ### `https://apps.mla.org/program_details?prog_id=75&year=2017`
 
@@ -245,34 +160,6 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `_posts/2026-05-05-supply-chain-attack-takeaways-webinar.md:14`
   - `cv.md:137`
-
-### `https://code.google.com/p/delicious-library-export/`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://code.google.com/archive/p/delicious-library-export
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:40`
-
-### `https://github.com/yyuu/pyenv`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://github.com/pyenv/pyenv
-- **Found in:**
-  - `_posts/2016-04-27-pyenv-elpy.md:14`
-
-### `https://github.com/yyuu/pyenv#installation`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://github.com/pyenv/pyenv#installation
-- **Found in:**
-  - `_posts/2016-04-27-pyenv-elpy.md:18`
-
-### `https://github.com/yyuu/pyenv-virtualenv#installation`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://github.com/pyenv/pyenv-virtualenv#installation
-- **Found in:**
-  - `_posts/2016-04-27-pyenv-elpy.md:18`
 
 ### `https://humanitiesny.org/`
 
@@ -296,13 +183,6 @@ Audited 188 unique external URLs from smythp.com source.
   - `_projects/neh.md:8`
   - `_data/projects.yml:26`
 
-### `https://www.reddit.com/user/emacsclient`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://www.reddit.com/user/emacsclient/
-- **Found in:**
-  - `_posts/2017-06-01-emacs-buffers.md:79`
-
 ### `https://www.sugarsync.com/#googtrans(en|en`
 
 - **Status:** 200 via redirect
@@ -311,14 +191,7 @@ Audited 188 unique external URLs from smythp.com source.
   - `_posts/2015-11-22-killer-apps.md:25`
   - `_posts/2015-11-22-killer-apps.md:26`
 
-### `https://www.zotero.org/support/getting_stuff_into_your_library`
-
-- **Status:** 200 via redirect
-- **Redirects to:** https://www.zotero.org:443/support/adding_items_to_zotero
-- **Found in:**
-  - `_posts/2016-03-03-underrated-zotero.md:14`
-
-## UNCERTAIN (22)
+## UNCERTAIN (23)
 
 ### `http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/`
 
@@ -424,6 +297,12 @@ Audited 188 unique external URLs from smythp.com source.
 - **Found in:**
   - `cv.md:20`
 
+### `https://www.linkedin.com/in/dafnz/`
+
+- **Status:** HTTP 999
+- **Found in:**
+  - `_posts/2024-09-19-beyond-zero-pytorch.md:23`
+
 ### `https://www.linkedin.com/in/kallewesterling/`
 
 - **Status:** HTTP 999
@@ -459,5 +338,5 @@ Audited 188 unique external URLs from smythp.com source.
 
 - **Status:** oembed 403
 - **Found in:**
-  - `_posts/2017-06-01-emacs-buffers.md:95`
+  - `_posts/2017-06-01-emacs-buffers.md:94`
 
