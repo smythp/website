@@ -13,8 +13,8 @@ resources:
    link: https://gcdri.commons.gc.cuny.edu/
  - text: DHRI Site
    link: https://www.dhinstitutes.org/
- - text: Curriculum Website
-   link: https://curriculum.dhinstitutes.org/
+ - text: DHRIFT (successor curriculum)
+   link: https://dhrift.org/
 ---
 
 In 2016, 
