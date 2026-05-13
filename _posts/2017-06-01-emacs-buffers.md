@@ -89,7 +89,6 @@ That's the weird and wonderful world of Emacs buffers, windows, and frames for y
 # Resources
 
 [buffers, windows, and frames on Blasphemous Bits](https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/)  
-[Emacs terminology on the Emacs wiki](http://wikemacs.org/wiki/Emacs_Terminology)  
 [Using Multiple Buffers](https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html)  
 [Working with Windows and Frames by Hack Emacs](https://www.youtube.com/watch?v=aIMECr7K35Q)  
 ["What's the difference between a buffer, a file, a window, and a frame?" on StackExchange](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame)   
