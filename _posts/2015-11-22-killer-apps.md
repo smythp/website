@@ -21,7 +21,7 @@ categories: jekyll update
 <p><a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page">FreeMind</a></p>
 <p>There are many apps designed for &#8220;mind mapping,&#8221; which is essentially a fancy term for graphics-based outlining. FreeMind is a lightweight mind mapping utility that allows users to sketch ideas visually using a simple interface. It also allows easy exportation of mind maps to other formats, such as PDF and HTML. Great for outlining papers or getting down nascent thoughts before they slip away.</p>
 <p>Alternatives: <a href="http://coggle.it/">Coggle</a>, <a href="&quot;http://www.xmind.net/">XMind</a>.</p>
-<p><a href="https://drive.google.com/‎">Google Drive</a></p>
+<p>Google Drive</p>
 <p>Having a cloud-based system for file management is becoming increasingly important for class management, collaboration, and maintaining backup data. Google Drive (formerly Google Docs) and rival <a href="www.dropbox.com">Dropbox</a> solve a number of problems for the modern academic, and the first time you collaborate on a Doc with another research in real time you&#8217;ll be sold on Google&#8217;s technology. On the other hand, services such as <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a> offers more space and more storage and sharing features.</p>
 <p>Alternatives: <a href="www.dropbox.com">Dropbox</a>, <a href="&quot;https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a></p>
 <p>Khan Academy</p>
