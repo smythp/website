@@ -51,7 +51,7 @@ layout: default
 
       <a class="btn  btn-primary btn-lg"
 	 href="{{ page.link }}">
-	View Project
+	{{ page.link_text | default: "View Project" }}
       </a>
 
       {% for resource in page.resources %}

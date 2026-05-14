@@ -2,7 +2,7 @@
 weight: 5
 layout: project
 name: Eloud
-current: true
+current: false
 link: https://github.com/smythp/eloud
 role: Maintainer
 image: eloud.png
