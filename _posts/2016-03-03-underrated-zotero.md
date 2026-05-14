@@ -37,7 +37,7 @@ iPad Workflow: Zotero + Zotfile + ZotPad
 
 <h2> Zotero with Plugins and Add-ons</h2>
 
-An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety of plugins</a> that can extend Zotero’s functionality. Whether you want to <a href="https://code.google.com/archive/p/delicious-library-export">import items from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create advanced visualizations</a>, or simply <a href="&quot;https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving, displaying, and exporting data.<br><br>
+An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety of plugins</a> that can extend Zotero’s functionality. Whether you want to <a href="https://code.google.com/archive/p/delicious-library-export">import items from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create advanced visualizations</a>, or simply <a href="https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving, displaying, and exporting data.<br><br>
 
 See also:<br>
 <p><a href="https://www.zotero.org/support/tips_and_tricks">Zotero Tips and Tricks</a><br />
