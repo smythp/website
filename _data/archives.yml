@@ -1,0 +1,2832 @@
+- url: http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/
+  found_in:
+  - file: cv.md
+    line: 125
+  - file: _projects/dh_box.md
+    line: 13
+  - file: _data/projects.yml
+    line: 38
+  - file: _data/archives.yml
+    line: 1
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240717121317/https://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/
+      timestamp: '20240717121317'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:16+00:00'
+  status: archived
+- url: http://dhbox.org/
+  found_in:
+  - file: cv.md
+    line: 445
+  - file: _data/projects.yml
+    line: 35
+  - file: _data/archives.yml
+    line: 15
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260317115229/http://dhbox.org/
+      timestamp: '20260317115229'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:16+00:00'
+  status: archived
+- url: http://dhinstitutes.org
+  found_in:
+  - file: cv.md
+    line: 69
+  - file: _data/archives.yml
+    line: 27
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: http://freemind.sourceforge.net/wiki/index.php/Main_Page
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 21
+  - file: _data/archives.yml
+    line: 37
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20230814000756/https://freemind.sourceforge.net/wiki/index.php/Main_Page
+      timestamp: '20230814000756'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:16+00:00'
+  status: archived
+- url: http://gcdigitalfellows.github.io/
+  found_in:
+  - file: _posts/2016-05-23-good-workshops.md
+    line: 11
+  - file: _data/projects.yml
+    line: 29
+  - file: _data/archives.yml
+    line: 47
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250324221145/http://gcdigitalfellows.github.io/
+      timestamp: '20250324221145'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:17+00:00'
+  status: archived
+- url: http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html
+  found_in:
+  - file: cv.md
+    line: 264
+  - file: _data/archives.yml
+    line: 59
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240616011731/https://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html
+      timestamp: '20240616011731'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:16+00:00'
+  status: archived
+- url: http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide
+  found_in:
+  - file: cv.md
+    line: 248
+  - file: _data/archives.yml
+    line: 69
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240616004431/http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html
+      timestamp: '20240616004431'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:17+00:00'
+  status: archived
+- url: http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide
+  found_in:
+  - file: cv.md
+    line: 238
+  - file: _data/archives.yml
+    line: 79
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240616200425/http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html
+      timestamp: '20240616200425'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:21+00:00'
+  status: archived
+- url: http://nehimpact.org/
+  found_in:
+  - file: _projects/neh.md
+    line: 5
+  - file: _data/archives.yml
+    line: 89
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250614230451/https://nehimpact.org/
+      timestamp: '20250614230451'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:20+00:00'
+  status: archived
+- url: http://nehimpact.org/about
+  found_in:
+  - file: _projects/neh.md
+    line: 12
+  - file: _data/archives.yml
+    line: 99
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250614234020/https://nehimpact.org/about
+      timestamp: '20250614234020'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:17+00:00'
+  status: archived
+- url: http://nyacc.org/
+  found_in:
+  - file: cv.md
+    line: 237
+  - file: _data/archives.yml
+    line: 109
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260218093223/https://nyacc.org/
+      timestamp: '20260218093223'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:18+00:00'
+  status: archived
+- url: http://www.aiip.org/
+  found_in:
+  - file: cv.md
+    line: 454
+  - file: _data/archives.yml
+    line: 119
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260416205402/https://www.aiip.org/
+      timestamp: '20260416205402'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:17+00:00'
+  status: archived
+- url: http://www.nehimpact.org/
+  found_in:
+  - file: cv.md
+    line: 403
+  - file: cv.md
+    line: 434
+  - file: cv.md
+    line: 436
+  - file: _data/projects.yml
+    line: 23
+  - file: _data/archives.yml
+    line: 129
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250614230451/https://nehimpact.org/
+      timestamp: '20250614230451'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:21+00:00'
+  status: archived
+- url: http://www.nehimpact.org/faq
+  found_in:
+  - file: cv.md
+    line: 436
+  - file: _data/archives.yml
+    line: 145
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: http://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint
+  found_in:
+  - file: _projects/neh.md
+    line: 23
+  - file: _data/archives.yml
+    line: 155
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260120092833/https://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint
+      timestamp: '20260120092833'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:19+00:00'
+  status: archived
+- url: http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
+  found_in:
+  - file: cv.md
+    line: 402
+  - file: cv.md
+    line: 437
+  - file: _projects/neh.md
+    line: 14
+  - file: _data/archives.yml
+    line: 165
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20191021025536/https://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
+      timestamp: '20191021025536'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:19+00:00'
+  status: archived
+- url: http://www.refworks.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 16
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 17
+  - file: _data/archives.yml
+    line: 179
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20160111204502/http://www.refworks.com/
+      timestamp: '20160111204502'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:20+00:00'
+  status: archived
+- url: http://www.w3.org/2000/svg
+  found_in:
+  - file: _data/archives.yml
+    line: 191
+  - file: _includes/socials.html
+    line: 11
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514205440/https://www.w3.org/2000/svg
+      timestamp: '20260514205440'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:21+00:00'
+  status: archived
+- url: http://www.writingstudiestree.org/
+  found_in:
+  - file: cv.md
+    line: 448
+  - file: _data/archives.yml
+    line: 201
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20231216221309/https://writingstudiestree.org/
+      timestamp: '20231216221309'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:22+00:00'
+  status: archived
+- url: http://www.xmind.net/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 23
+  - file: _data/archives.yml
+    line: 211
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20220806110001/https://www.xmind.net/
+      timestamp: '20220806110001'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:22+00:00'
+  status: archived
+- url: https://2025.allthingsopen.org/sessions/frankenpipe-bringing-secure-ml-pipelines-to-life
+  found_in:
+  - file: cv.md
+    line: 163
+  - file: _data/archives.yml
+    line: 221
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5363&context=gc_etds
+  found_in:
+  - file: _projects/negotiated_access.md
+    line: 13
+  - file: _data/archives.yml
+    line: 231
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240726125114/https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5363&context=gc_etds
+      timestamp: '20240726125114'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:21+00:00'
+  status: archived
+- url: https://academicworks.cuny.edu/gc_etds/4311/
+  found_in:
+  - file: about.md
+    line: 10
+  - file: _projects/negotiated_access.md
+    line: 6
+  - file: _data/archives.yml
+    line: 241
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20230222165159/https://academicworks.cuny.edu/gc_etds/4311/
+      timestamp: '20230222165159'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:24+00:00'
+  status: archived
+- url: https://apps.mla.org/program_details?prog_id=75&year=2017
+  found_in:
+  - file: cv.md
+    line: 245
+  - file: _data/archives.yml
+    line: 253
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://astrobites.org/2023/06/10/notebooks-for-all/
+  found_in:
+  - file: cv.md
+    line: 393
+  - file: _data/archives.yml
+    line: 263
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251009041656/https://astrobites.org/2023/06/10/notebooks-for-all/
+      timestamp: '20251009041656'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:22+00:00'
+  status: archived
+- url: https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 91
+  - file: _data/archives.yml
+    line: 273
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://books.google.com/
+  found_in:
+  - file: _posts/2015-08-06-citing-ebooks.md
+    line: 18
+  - file: _data/archives.yml
+    line: 283
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://calibre-ebook.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 18
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 14
+  - file: _data/archives.yml
+    line: 293
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://carpentries.org/
+  found_in:
+  - file: _projects/foundations.md
+    line: 21
+  - file: _data/archives.yml
+    line: 305
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260510022754/https://carpentries.org/
+      timestamp: '20260510022754'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:23+00:00'
+  status: archived
+- url: https://carpentries.org/about-us/#our-mission
+  found_in:
+  - file: cv.md
+    line: 18
+  - file: _data/archives.yml
+    line: 315
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
+  found_in:
+  - file: _data/archives.yml
+    line: 325
+  - file: _includes/scripts.html
+    line: 1
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514133915/https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
+      timestamp: '20260514133915'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:25+00:00'
+  status: archived
+- url: https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355
+  found_in:
+  - file: _posts/2026-05-05-supply-chain-attack-takeaways-webinar.md
+    line: 14
+  - file: cv.md
+    line: 137
+  - file: _data/archives.yml
+    line: 335
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260429175625/https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355
+      timestamp: '20260429175625'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:25+00:00'
+  status: archived
+- url: https://cloudsecurityalliance.org/
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 25
+  - file: _data/archives.yml
+    line: 347
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260512010323/https://cloudsecurityalliance.org/
+      timestamp: '20260512010323'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:26+00:00'
+  status: archived
+- url: https://code.google.com/archive/p/delicious-library-export
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 357
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20230815130146/https://code.google.com/archive/p/delicious-library-export
+      timestamp: '20230815130146'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:26+00:00'
+  status: archived
+- url: https://coggle.it/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 23
+  - file: _data/archives.yml
+    line: 367
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514050539/https://coggle.it/
+      timestamp: '20260514050539'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:27+00:00'
+  status: archived
+- url: https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e
+  found_in:
+  - file: cv.md
+    line: 111
+  - file: _data/archives.yml
+    line: 377
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20241205224835/https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e
+      timestamp: '20241205224835'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:26+00:00'
+  status: archived
+- url: https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8
+  found_in:
+  - file: cv.md
+    line: 115
+  - file: _data/archives.yml
+    line: 387
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251108153002/https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8
+      timestamp: '20251108153002'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:27+00:00'
+  status: archived
+- url: https://dhbox.org/
+  found_in:
+  - file: cv.md
+    line: 77
+  - file: _projects/dh_box.md
+    line: 5
+  - file: _data/archives.yml
+    line: 397
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260317115229/http://dhbox.org/
+      timestamp: '20260317115229'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:27+00:00'
+  status: archived
+- url: https://dhrift.org/
+  found_in:
+  - file: _projects/dri_curriculum.md
+    line: 17
+  - file: _data/archives.yml
+    line: 409
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260310002524/https://dhrift.org/
+      timestamp: '20260310002524'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:28+00:00'
+  status: archived
+- url: https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
+  found_in:
+  - file: cv.md
+    line: 436
+  - file: _projects/neh.md
+    line: 18
+  - file: _data/archives.yml
+    line: 419
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240620054538/https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
+      timestamp: '20240620054538'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:28+00:00'
+  status: archived
+- url: https://digitalfellows.commons.gc.cuny.edu/?team=hannah-aizenman
+  found_in:
+  - file: _posts/2016-05-23-good-workshops.md
+    line: 46
+  - file: _data/archives.yml
+    line: 431
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20231204010024/https://digitalfellows.commons.gc.cuny.edu/?team=hannah-aizenman
+      timestamp: '20231204010024'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:28+00:00'
+  status: archived
+- url: https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 12
+  - file: cv.md
+    line: 184
+  - file: _data/archives.yml
+    line: 441
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260313232108/https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/
+      timestamp: '20260313232108'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:28+00:00'
+  status: archived
+- url: https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 16
+  - file: _data/archives.yml
+    line: 453
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260313232113/https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/
+      timestamp: '20260313232113'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:29+00:00'
+  status: archived
+- url: https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 94
+  - file: _data/archives.yml
+    line: 463
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260310140637/https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame
+      timestamp: '20260310140637'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:29+00:00'
+  status: archived
+- url: https://en.wikipedia.org/wiki/ITunes_U
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 28
+  - file: _data/archives.yml
+    line: 473
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260330201231/https://en.wikipedia.org/wiki/ITunes_U
+      timestamp: '20260330201231'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:29+00:00'
+  status: archived
+- url: https://en.wikipedia.org/wiki/Thoughts_on_Flash
+  found_in:
+  - file: _posts/2025-04-13-uniquely-annoying-internet.md
+    line: 17
+  - file: _data/archives.yml
+    line: 483
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260513020639/https://en.wikipedia.org/wiki/Thoughts_on_Flash
+      timestamp: '20260513020639'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:31+00:00'
+  status: archived
+- url: https://endnote.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 17
+  - file: _data/archives.yml
+    line: 493
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514164445/https://endnote.com/
+      timestamp: '20260514164445'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:29+00:00'
+  status: archived
+- url: https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 503
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250324141133/https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/
+      timestamp: '20250324141133'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:30+00:00'
+  status: archived
+- url: https://fosstodon.org/@patric
+  found_in:
+  - file: _data/archives.yml
+    line: 513
+  - file: _includes/socials.html
+    line: 10
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities
+  found_in:
+  - file: cv.md
+    line: 62
+  - file: _data/archives.yml
+    line: 523
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20220123174420/https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities
+      timestamp: '20220123174420'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:30+00:00'
+  status: archived
+- url: https://gcdi.commons.gc.cuny.edu/
+  found_in:
+  - file: _projects/neh.md
+    line: 30
+  - file: _data/archives.yml
+    line: 533
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260316071527/https://gcdi.commons.gc.cuny.edu/
+      timestamp: '20260316071527'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:30+00:00'
+  status: archived
+- url: https://gcdri.commons.gc.cuny.edu/
+  found_in:
+  - file: _projects/dri_curriculum.md
+    line: 13
+  - file: _data/archives.yml
+    line: 543
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251109220357/https://gcdri.commons.gc.cuny.edu/
+      timestamp: '20251109220357'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:30+00:00'
+  status: archived
+- url: https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 44
+  - file: _data/archives.yml
+    line: 553
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://github.com/DH-Box/dhbox
+  found_in:
+  - file: _projects/dh_box.md
+    line: 11
+  - file: _data/archives.yml
+    line: 563
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260307221916/https://github.com/DH-Box/dhbox
+      timestamp: '20260307221916'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:31+00:00'
+  status: archived
+- url: https://github.com/DHRI-Curriculum
+  found_in:
+  - file: cv.md
+    line: 70
+  - file: _projects/dri_curriculum.md
+    line: 5
+  - file: _data/archives.yml
+    line: 573
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260207054445/https://github.com/DHRI-Curriculum
+      timestamp: '20260207054445'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:31+00:00'
+  status: archived
+- url: https://github.com/Iota-School/notebooks-for-all
+  found_in:
+  - file: _projects/stsci.md
+    line: 14
+  - file: _data/archives.yml
+    line: 585
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260312210736/https://github.com/Iota-School/notebooks-for-all
+      timestamp: '20260312210736'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:32+00:00'
+  status: archived
+- url: https://github.com/chainguard-demo/ml-pipeline-security
+  found_in:
+  - file: _posts/2026-03-27-rsac-ml-pipelines.md
+    line: 12
+  - file: _data/archives.yml
+    line: 595
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://github.com/chainguard-demo/vibelympics
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 17
+  - file: _data/archives.yml
+    line: 605
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260409204644/https://github.com/chainguard-demo/vibelympics
+      timestamp: '20260409204644'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:31+00:00'
+  status: archived
+- url: https://github.com/jorgenschaefer/elpy#quick-installation
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 20
+  - file: _data/archives.yml
+    line: 615
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://github.com/papermachines/papermachines
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 625
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251127211550/https://github.com/papermachines/papermachines
+      timestamp: '20251127211550'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:32+00:00'
+  status: archived
+- url: https://github.com/pyenv/pyenv
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 14
+  - file: _data/archives.yml
+    line: 635
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514115427/https://github.com/pyenv/pyenv
+      timestamp: '20260514115427'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:32+00:00'
+  status: archived
+- url: https://github.com/pyenv/pyenv#installation
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 18
+  - file: _data/archives.yml
+    line: 645
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514115427/https://github.com/pyenv/pyenv
+      timestamp: '20260514115427'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:32+00:00'
+  status: archived
+- url: https://github.com/pyenv/pyenv-virtualenv#installation
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 18
+  - file: _data/archives.yml
+    line: 655
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260419042500/https://github.com/pyenv/pyenv-virtualenv
+      timestamp: '20260419042500'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:32+00:00'
+  status: archived
+- url: https://github.com/smythp
+  found_in:
+  - file: _data/archives.yml
+    line: 665
+  - file: _includes/socials.html
+    line: 2
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260321072519/https://github.com/smythp
+      timestamp: '20260321072519'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:36+00:00'
+  status: archived
+- url: https://github.com/smythp/blind-hackers
+  found_in:
+  - file: cv.md
+    line: 265
+  - file: _data/archives.yml
+    line: 675
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240619152614/https://github.com/smythp/blind-hackers
+      timestamp: '20240619152614'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:33+00:00'
+  status: archived
+- url: https://github.com/smythp/ebooks-as-applications#ebooks-as-applications
+  found_in:
+  - file: cv.md
+    line: 249
+  - file: _data/archives.yml
+    line: 685
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250906051310/https://github.com/smythp/ebooks-as-applications
+      timestamp: '20250906051310'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:33+00:00'
+  status: archived
+- url: https://github.com/smythp/eloud
+  found_in:
+  - file: cv.md
+    line: 442
+  - file: _projects/eloud.md
+    line: 6
+  - file: _data/projects.yml
+    line: 4
+  - file: _data/archives.yml
+    line: 695
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260204142434/https://github.com/smythp/eloud
+      timestamp: '20260204142434'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:33+00:00'
+  status: archived
+- url: https://github.com/smythp/tine
+  found_in:
+  - file: _projects/tine.md
+    line: 6
+  - file: _data/archives.yml
+    line: 709
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python
+  found_in:
+  - file: cv.md
+    line: 231
+  - file: _data/archives.yml
+    line: 719
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260313093101/https://github.com/szweibel/DHSI-API-workshop
+      timestamp: '20260313093101'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:33+00:00'
+  status: archived
+- url: https://humanitiesny.org/
+  found_in:
+  - file: cv.md
+    line: 367
+  - file: _data/archives.yml
+    line: 729
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260316080159/https://humanitiesny.org/
+      timestamp: '20260316080159'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:34+00:00'
+  status: archived
+- url: https://iota-school.github.io/accessibility_hackathon/
+  found_in:
+  - file: cv.md
+    line: 209
+  - file: _data/archives.yml
+    line: 739
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250903071646/https://iota-school.github.io/accessibility_hackathon/
+      timestamp: '20250903071646'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:34+00:00'
+  status: archived
+- url: https://iota-school.github.io/accessibility_hackathon/hack
+  found_in:
+  - file: cv.md
+    line: 210
+  - file: _data/archives.yml
+    line: 749
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251006144801/https://iota-school.github.io/accessibility_hackathon/hack
+      timestamp: '20251006144801'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:34+00:00'
+  status: archived
+- url: https://iota-school.github.io/day_accessibility/
+  found_in:
+  - file: cv.md
+    line: 204
+  - file: _data/archives.yml
+    line: 759
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260210020447/https://iota-school.github.io/day_accessibility/
+      timestamp: '20260210020447'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:34+00:00'
+  status: archived
+- url: https://iota-school.github.io/nonvisual_data_science_workshops/
+  found_in:
+  - file: cv.md
+    line: 474
+  - file: _data/archives.yml
+    line: 769
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251214102907/https://iota-school.github.io/nonvisual_data_science_workshops/
+      timestamp: '20251214102907'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:34+00:00'
+  status: archived
+- url: https://iotaschool.com/
+  found_in:
+  - file: cv.md
+    line: 40
+  - file: _projects/iota.md
+    line: 5
+  - file: _data/projects.yml
+    line: 11
+  - file: _data/archives.yml
+    line: 779
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250914210604/http://iotaschool.com/
+      timestamp: '20250914210604'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:35+00:00'
+  status: archived
+- url: https://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute
+  found_in:
+  - file: _projects/stsci.md
+    line: 5
+  - file: _projects/stsci.md
+    line: 12
+  - file: _data/archives.yml
+    line: 793
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250718195305/http://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute
+      timestamp: '20250718195305'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:35+00:00'
+  status: archived
+- url: https://iotaschool.com/subscribe
+  found_in:
+  - file: _projects/iota.md
+    line: 12
+  - file: _data/archives.yml
+    line: 805
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250725005509/https://iotaschool.com/subscribe
+      timestamp: '20250725005509'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:35+00:00'
+  status: archived
+- url: https://jorgenschaefer.github.io/packages/
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 35
+  - file: _data/archives.yml
+    line: 815
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250817014624/http://jorgenschaefer.github.io/packages/
+      timestamp: '20250817014624'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:35+00:00'
+  status: archived
+- url: https://lnkd.in/dXwRpq3g
+  found_in:
+  - file: _drafts/2026-04-06-the-trivy-supply-chain-attack-had-a-simple-root.md
+    line: 24
+  - file: _data/archives.yml
+    line: 825
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://lnkd.in/eDbuK_3u
+  found_in:
+  - file: _drafts/2026-04-22-something-big-has-changed-in-the-last-year.md
+    line: 19
+  - file: _data/archives.yml
+    line: 835
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://lnkd.in/eTVNZa3D
+  found_in:
+  - file: _drafts/2026-04-14-in-february-2025-three-teens-hit-rakuten-mobile.md
+    line: 21
+  - file: _data/archives.yml
+    line: 845
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://lnkd.in/gq2vjcFZ
+  found_in:
+  - file: _drafts/2026-04-28-how-are-you-feeling-when-incidents-fire-drills.md
+    line: 17
+  - file: _data/archives.yml
+    line: 855
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://m.gc.cuny.edu/News/Detail?id=60526
+  found_in:
+  - file: cv.md
+    line: 396
+  - file: _data/archives.yml
+    line: 865
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20211018165756/https://m.gc.cuny.edu/News/Detail?id=60526
+      timestamp: '20211018165756'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:37+00:00'
+  status: archived
+- url: https://numfocus.org/project/pandas
+  found_in:
+  - file: about.md
+    line: 8
+  - file: _data/archives.yml
+    line: 875
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260401093752/https://numfocus.org/project/pandas
+      timestamp: '20260401093752'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:36+00:00'
+  status: archived
+- url: https://nycdh.org/nyc-dh-graduate-student-project-award/
+  found_in:
+  - file: cv.md
+    line: 371
+  - file: _data/archives.yml
+    line: 885
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260309094514/https://nycdh.org/nyc-dh-graduate-student-project-award/
+      timestamp: '20260309094514'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:37+00:00'
+  status: archived
+- url: https://programminghistorian.org/lessons/creating-apis-with-python-and-flask
+  found_in:
+  - file: cv.md
+    line: 121
+  - file: _data/archives.yml
+    line: 895
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260225161230/https://programminghistorian.org/lessons/creating-apis-with-python-and-flask
+      timestamp: '20260225161230'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:39+00:00'
+  status: archived
+- url: https://publicslab.gc.cuny.edu/
+  found_in:
+  - file: cv.md
+    line: 49
+  - file: _data/archives.yml
+    line: 905
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251217193905/https://publicslab.gc.cuny.edu/
+      timestamp: '20251217193905'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:37+00:00'
+  status: archived
+- url: https://publicslab.gc.cuny.edu/introducing-iota-school/
+  found_in:
+  - file: _projects/iota.md
+    line: 14
+  - file: _data/archives.yml
+    line: 915
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251208073133/https://publicslab.gc.cuny.edu/introducing-iota-school/
+      timestamp: '20251208073133'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:37+00:00'
+  status: archived
+- url: https://pytorch2024.sched.com/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 14
+  - file: _data/archives.yml
+    line: 925
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251226125059/https://pytorch2024.sched.com/
+      timestamp: '20251226125059'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:38+00:00'
+  status: archived
+- url: https://pyvideo.org/pycon-us-2025/cheese-must-stand-defending-the-python-library-ecosystem-in-2025.html
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 17
+  - file: _data/archives.yml
+    line: 935
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251226062620/https://pyvideo.org/pycon-us-2025/cheese-must-stand-defending-the-python-library-ecosystem-in-2025.html
+      timestamp: '20251226062620'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:38+00:00'
+  status: archived
+- url: https://rcfoundations.research.columbia.edu/
+  found_in:
+  - file: cv.md
+    line: 53
+  - file: _projects/foundations.md
+    line: 5
+  - file: _data/projects.yml
+    line: 17
+  - file: _data/archives.yml
+    line: 945
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260306044854/https://rcfoundations.research.columbia.edu/
+      timestamp: '20260306044854'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:40+00:00'
+  status: archived
+- url: https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program
+  found_in:
+  - file: _projects/foundations.md
+    line: 13
+  - file: _projects/foundations.md
+    line: 21
+  - file: _data/archives.yml
+    line: 959
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250803231921/https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program
+      timestamp: '20250803231921'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:38+00:00'
+  status: archived
+- url: https://rcfoundations.research.columbia.edu/content/python-user-group
+  found_in:
+  - file: _projects/foundations.md
+    line: 11
+  - file: _projects/foundations.md
+    line: 21
+  - file: _data/archives.yml
+    line: 971
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251010223021/https://rcfoundations.research.columbia.edu/content/python-user-group
+      timestamp: '20251010223021'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:39+00:00'
+  status: archived
+- url: https://red.anthropic.com/2026/mythos-preview/
+  found_in:
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 17
+  - file: _data/archives.yml
+    line: 983
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260509211434/https://red.anthropic.com/2026/mythos-preview/
+      timestamp: '20260509211434'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:38+00:00'
+  status: archived
+- url: https://slsa.dev/
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 25
+  - file: _data/archives.yml
+    line: 993
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://style.mla.org/
+  found_in:
+  - file: _posts/2015-08-06-citing-ebooks.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1003
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260511194432/https://style.mla.org/
+      timestamp: '20260511194432'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:39+00:00'
+  status: archived
+- url: https://texhour.github.io/2023/01/19/stem-access-author-reader/
+  found_in:
+  - file: cv.md
+    line: 221
+  - file: _data/archives.yml
+    line: 1013
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250903024701/https://texhour.github.io/2023/01/19/stem-access-author-reader/
+      timestamp: '20250903024701'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:51+00:00'
+  status: archived
+- url: https://text.mla.hcommons.org/
+  found_in:
+  - file: cv.md
+    line: 252
+  - file: _data/archives.yml
+    line: 1023
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260316053507/https://text.mla.hcommons.org/
+      timestamp: '20260316053507'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:39+00:00'
+  status: archived
+- url: https://us.pycon.org/2025/schedule/presentation/98/
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1033
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251206001906/https://us.pycon.org/2025/schedule/presentation/98/
+      timestamp: '20251206001906'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:56:40+00:00'
+  status: archived
+- url: https://vibelympics.splashthat.com/
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 19
+  - file: _data/archives.yml
+    line: 1043
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://wordpress.org/plugins/zotpress/
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 1053
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260413082500/https://wordpress.org/plugins/zotpress/
+      timestamp: '20260413082500'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:08+00:00'
+  status: archived
+- url: https://www.chainguard.dev/
+  found_in:
+  - file: cv.md
+    line: 27
+  - file: cv.md
+    line: 36
+  - file: about.md
+    line: 6
+  - file: _projects/chainguard.md
+    line: 6
+  - file: _projects/chainguard.md
+    line: 13
+  - file: _projects/chainguard.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1063
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260511225201/https://www.chainguard.dev/
+      timestamp: '20260511225201'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:10+00:00'
+  status: archived
+- url: https://www.chainguard.dev/events/assemble-2025
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 21
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 28
+  - file: _data/archives.yml
+    line: 1083
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260312080441/https://www.chainguard.dev/events/assemble-2025
+      timestamp: '20260312080441'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:12+00:00'
+  status: archived
+- url: https://www.chainguard.dev/events/assemble-2026
+  found_in:
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 15
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 23
+  - file: _data/archives.yml
+    line: 1095
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks
+  found_in:
+  - file: cv.md
+    line: 91
+  - file: _data/archives.yml
+    line: 1107
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build
+  found_in:
+  - file: cv.md
+    line: 95
+  - file: cv.md
+    line: 147
+  - file: _data/archives.yml
+    line: 1117
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves
+  found_in:
+  - file: cv.md
+    line: 99
+  - file: _data/archives.yml
+    line: 1129
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260312005323/https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves
+      timestamp: '20260312005323'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:30+00:00'
+  status: archived
+- url: https://www.chainguard.dev/unchained/key-takeaways-from-chainguard-assemble-2025
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1139
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260312080807/https://www.chainguard.dev/unchained/key-takeaways-from-chainguard-assemble-2025
+      timestamp: '20260312080807'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:32+00:00'
+  status: archived
+- url: https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now
+  found_in:
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 12
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 19
+  - file: cv.md
+    line: 87
+  - file: _data/archives.yml
+    line: 1149
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure
+  found_in:
+  - file: cv.md
+    line: 103
+  - file: _data/archives.yml
+    line: 1163
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260429175630/https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure
+      timestamp: '20260429175630'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:36+00:00'
+  status: archived
+- url: https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 15
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 28
+  - file: cv.md
+    line: 107
+  - file: _data/archives.yml
+    line: 1173
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260409221847/https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code
+      timestamp: '20260409221847'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:38+00:00'
+  status: archived
+- url: https://www.chainguard.dev/unchained/what-to-expect-at-chainguard-assemble-2025
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1187
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260316234516/https://www.chainguard.dev/unchained/what-to-expect-at-chainguard-assemble-2025
+      timestamp: '20260316234516'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:40+00:00'
+  status: archived
+- url: https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 45
+  - file: _data/archives.yml
+    line: 1197
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250907112310/https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote
+      timestamp: '20250907112310'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:42+00:00'
+  status: archived
+- url: https://www.dhinstitutes.org/
+  found_in:
+  - file: _projects/dri_curriculum.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1207
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.dropbox.com
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 25
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 26
+  - file: _data/archives.yml
+    line: 1217
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514202306/https://www.dropbox.com/
+      timestamp: '20260514202306'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:51+00:00'
+  status: archived
+- url: https://www.easybib.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1229
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260504165225/https://www.easybib.com/
+      timestamp: '20260504165225'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:53+00:00'
+  status: archived
+- url: https://www.enthought.com/
+  found_in:
+  - file: cv.md
+    line: 335
+  - file: _data/archives.yml
+    line: 1239
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260407013333/https://www.enthought.com/
+      timestamp: '20260407013333'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:55+00:00'
+  status: archived
+- url: https://www.gc.cuny.edu/
+  found_in:
+  - file: cv.md
+    line: 331
+  - file: _data/archives.yml
+    line: 1249
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260503001302/https://www.gc.cuny.edu/
+      timestamp: '20260503001302'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:58:57+00:00'
+  status: archived
+- url: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy
+  found_in:
+  - file: cv.md
+    line: 20
+  - file: _data/archives.yml
+    line: 1259
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.gnu.org/software/emacs/
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 12
+  - file: _data/archives.yml
+    line: 1269
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514150158/https://www.gnu.org/software/emacs/
+      timestamp: '20260514150158'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:59:07+00:00'
+  status: archived
+- url: https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 92
+  - file: _data/archives.yml
+    line: 1279
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260218150728/https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html
+      timestamp: '20260218150728'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:59:09+00:00'
+  status: archived
+- url: https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 85
+  - file: _data/archives.yml
+    line: 1289
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260321013249/https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html
+      timestamp: '20260321013249'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:59:11+00:00'
+  status: archived
+- url: https://www.hikma.studio/
+  found_in:
+  - file: cv.md
+    line: 343
+  - file: _data/archives.yml
+    line: 1299
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260315142419/https://www.hikma.studio/
+      timestamp: '20260315142419'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T20:59:13+00:00'
+  status: archived
+- url: https://www.linkedin.com/embed/feed/update/urn:li:share:7316986746968104960?collapsed=1
+  found_in:
+  - file: _posts/2025-04-13-uniquely-annoying-internet.md
+    line: 12
+  - file: _data/archives.yml
+    line: 1309
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 27
+  - file: _data/archives.yml
+    line: 1319
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7242555626713726978/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 18
+  - file: _data/archives.yml
+    line: 1329
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7247303027227791362/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 20
+  - file: _data/archives.yml
+    line: 1339
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7307799598427746305/
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 23
+  - file: _data/archives.yml
+    line: 1349
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7313198578162675712/
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 25
+  - file: _data/archives.yml
+    line: 1359
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7328649267655467009/
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 21
+  - file: _data/archives.yml
+    line: 1369
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7337915286861340675/
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 19
+  - file: _data/archives.yml
+    line: 1379
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7388980751670644736/
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 23
+  - file: _data/archives.yml
+    line: 1389
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7407842728111157248/
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 21
+  - file: _data/archives.yml
+    line: 1399
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7411816969089277954/
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 25
+  - file: _data/archives.yml
+    line: 1409
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7441872654854320128/
+  found_in:
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1419
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7443335126228324352/
+  found_in:
+  - file: _posts/2026-03-27-rsac-ml-pipelines.md
+    line: 14
+  - file: _data/archives.yml
+    line: 1429
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7445933776045563904/
+  found_in:
+  - file: _drafts/2026-04-03-lisa-tagliaferri-phd-and-trevor-dunlap-presenting.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1439
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7446939802056163329/
+  found_in:
+  - file: _drafts/2026-04-06-the-trivy-supply-chain-attack-had-a-simple-root.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1449
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7447333986143580160/
+  found_in:
+  - file: _drafts/2026-04-07-its-really-crazy-how-many-new-software-supply.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1459
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7449867336108560384/
+  found_in:
+  - file: _drafts/2026-04-14-in-february-2025-three-teens-hit-rakuten-mobile.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1469
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7450181139232669698/
+  found_in:
+  - file: _drafts/2026-04-15-hey-bro-all-the-writing-on-the-internet-is-ai.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1479
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7452738469434396673/
+  found_in:
+  - file: _drafts/2026-04-22-something-big-has-changed-in-the-last-year.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1489
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7454573513572802560/
+  found_in:
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 14
+  - file: _data/archives.yml
+    line: 1499
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7454925245938929666/
+  found_in:
+  - file: _drafts/2026-04-28-how-are-you-feeling-when-incidents-fire-drills.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1509
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:activity:7457452813321715712/
+  found_in:
+  - file: _posts/2026-05-05-supply-chain-attack-takeaways-webinar.md
+    line: 12
+  - file: _data/archives.yml
+    line: 1519
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:share:7316428883413618689/
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 11
+  - file: _data/archives.yml
+    line: 1529
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/feed/update/urn:li:share:7318296406027350016/
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 13
+  - file: _data/archives.yml
+    line: 1539
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/in/dafnz/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 23
+  - file: _data/archives.yml
+    line: 1549
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/in/kallewesterling/
+  found_in:
+  - file: _posts/2026-03-27-rsac-ml-pipelines.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1559
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20241201024636/https://www.linkedin.com/in/kallewesterling
+      timestamp: '20241201024636'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:00:37+00:00'
+  status: archived
+- url: https://www.linkedin.com/in/smythp/
+  found_in:
+  - file: _data/archives.yml
+    line: 1569
+  - file: _includes/socials.html
+    line: 6
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/in/srishtih/
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 24
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 23
+  - file: _data/archives.yml
+    line: 1579
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/posts/jfrog-ltd_swampup-activity-7240130790234169344-k2--
+  found_in:
+  - file: cv.md
+    line: 352
+  - file: _data/archives.yml
+    line: 1591
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.linkedin.com/posts/steven-syrek_i-miss-the-days-when-the-internet-was-just-activity-7316986747412779008-xxW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5qQKQBqhey1pJKeaLqNKZ6XzJnredlhqU
+  found_in:
+  - file: _posts/2025-04-13-uniquely-annoying-internet.md
+    line: 10
+  - file: _data/archives.yml
+    line: 1601
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.neh.gov/
+  found_in:
+  - file: _projects/neh.md
+    line: 8
+  - file: _projects/neh.md
+    line: 9
+  - file: _projects/neh.md
+    line: 23
+  - file: _data/projects.yml
+    line: 26
+  - file: _data/archives.yml
+    line: 1611
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514003427/https://www.neh.gov/
+      timestamp: '20260514003427'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:00:54+00:00'
+  status: archived
+- url: https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities
+  found_in:
+  - file: cv.md
+    line: 67
+  - file: _data/archives.yml
+    line: 1627
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.newgrounds.com/
+  found_in:
+  - file: _posts/2025-04-13-uniquely-annoying-internet.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1637
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.pbk.org/patrick-smyth
+  found_in:
+  - file: cv.md
+    line: 399
+  - file: _projects/neh.md
+    line: 16
+  - file: _data/archives.yml
+    line: 1647
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250619152842/https://www.pbk.org/patrick-smyth
+      timestamp: '20250619152842'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:13+00:00'
+  status: archived
+- url: https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
+  found_in:
+  - file: _projects/neh.md
+    line: 8
+  - file: _data/projects.yml
+    line: 26
+  - file: _data/archives.yml
+    line: 1659
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20191213204439/https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
+      timestamp: '20191213204439'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:15+00:00'
+  status: archived
+- url: https://www.phraseexpress.com/
+  found_in:
+  - file: _posts/2016-03-05-expanders.md
+    line: 22
+  - file: _data/archives.yml
+    line: 1671
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.reddit.com/user/emacsclient/
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 79
+  - file: _data/archives.yml
+    line: 1681
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.sigstore.dev/
+  found_in:
+  - file: cv.md
+    line: 339
+  - file: about.md
+    line: 8
+  - file: _data/archives.yml
+    line: 1691
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260503080112/https://www.sigstore.dev/
+      timestamp: '20260503080112'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:21+00:00'
+  status: archived
+- url: https://www.stsci.edu/
+  found_in:
+  - file: cv.md
+    line: 327
+  - file: about.md
+    line: 8
+  - file: _data/archives.yml
+    line: 1703
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260513030553/https://www.stsci.edu/
+      timestamp: '20260513030553'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:24+00:00'
+  status: archived
+- url: https://www.sugarsync.com/#googtrans(en|en
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 25
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 26
+  - file: _data/archives.yml
+    line: 1715
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.ted.com/talks
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 28
+  - file: _data/archives.yml
+    line: 1727
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/embed/
+  found_in:
+  - file: _data/archives.yml
+    line: 1737
+  - file: _layouts/post.html
+    line: 64
+  - file: _layouts/post.html
+    line: 67
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514130815/https://www.youtube.com/embed/
+      timestamp: '20260514130815'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:40+00:00'
+  status: archived
+- url: https://www.youtube.com/playlist?list=PLCPZgcYzVpj_WHHCTUpec8THYEMzXZnR1
+  found_in:
+  - file: cv.md
+    line: 203
+  - file: _data/archives.yml
+    line: 1749
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240615233022/https://www.youtube.com/playlist?list=PLCPZgcYzVpj_WHHCTUpec8THYEMzXZnR1
+      timestamp: '20240615233022'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:42+00:00'
+  status: archived
+- url: https://www.youtube.com/playlist?list=PLLjvkjPNmuZmGGB1lPRfIujzsVgwvesbt
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 19
+  - file: _data/archives.yml
+    line: 1759
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=1YEjCrDcZOc
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 10
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 13
+  - file: _data/archives.yml
+    line: 1769
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=1klynk1dxYA
+  found_in:
+  - file: cv.md
+    line: 183
+  - file: _data/archives.yml
+    line: 1781
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251226070028/https://www.youtube.com/watch?v=1klynk1dxYA
+      timestamp: '20251226070028'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:50+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=1v3jFCWQfI8
+  found_in:
+  - file: cv.md
+    line: 216
+  - file: _data/archives.yml
+    line: 1791
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240616222543/https://www.youtube.com/watch?v=1v3jFCWQfI8
+      timestamp: '20240616222543'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:52+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=5cdC5pVkCvU
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 10
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 13
+  - file: cv.md
+    line: 173
+  - file: _data/archives.yml
+    line: 1801
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251226203126/https://www.youtube.com/watch?v=5cdC5pVkCvU
+      timestamp: '20251226203126'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:01:54+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=BknFieQXSqA
+  found_in:
+  - file: cv.md
+    line: 168
+  - file: _data/archives.yml
+    line: 1815
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=DYyEXLwKT2U
+  found_in:
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 10
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 13
+  - file: cv.md
+    line: 152
+  - file: _data/archives.yml
+    line: 1825
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=LJMS9R-KFXQ
+  found_in:
+  - file: cv.md
+    line: 198
+  - file: _data/archives.yml
+    line: 1839
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251226165648/https://www.youtube.com/watch?v=LJMS9R-KFXQ
+      timestamp: '20251226165648'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:01+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=MBbN4-UxKp4
+  found_in:
+  - file: cv.md
+    line: 157
+  - file: _data/archives.yml
+    line: 1849
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=Ry-kNHHmB_0
+  found_in:
+  - file: cv.md
+    line: 193
+  - file: _data/archives.yml
+    line: 1859
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240524161354/https://www.youtube.com/watch?v=Ry-kNHHmB_0
+      timestamp: '20240524161354'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:04+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=W8_O3joo4aU
+  found_in:
+  - file: cv.md
+    line: 263
+  - file: _data/archives.yml
+    line: 1869
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240615230119/https://www.youtube.com/watch?v=W8_O3joo4aU
+      timestamp: '20240615230119'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:06+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=aIMECr7K35Q
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 93
+  - file: _data/archives.yml
+    line: 1879
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250907224002/https://www.youtube.com/watch?v=aIMECr7K35Q
+      timestamp: '20250907224002'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:09+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=dnt6rgHlz74
+  found_in:
+  - file: cv.md
+    line: 226
+  - file: _data/archives.yml
+    line: 1889
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=hgZQvy9dUOU
+  found_in:
+  - file: cv.md
+    line: 146
+  - file: _data/archives.yml
+    line: 1899
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=hmhKWjOyI0U
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 10
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 13
+  - file: cv.md
+    line: 178
+  - file: _data/archives.yml
+    line: 1909
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.youtube.com/watch?v=jefbTBfl9Ps
+  found_in:
+  - file: cv.md
+    line: 162
+  - file: _data/archives.yml
+    line: 1923
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20251129121219/https://www.youtube.com/watch?v=jefbTBfl9Ps
+      timestamp: '20251129121219'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:22+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=k5BLXMGSTJs
+  found_in:
+  - file: _projects/eloud.md
+    line: 12
+  - file: _data/projects.yml
+    line: 7
+  - file: _data/archives.yml
+    line: 1933
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20250114034348/https://www.youtube.com/watch?v=k5BLXMGSTJs
+      timestamp: '20250114034348'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:25+00:00'
+  status: archived
+- url: https://www.youtube.com/watch?v=zskT7leTxXM
+  found_in:
+  - file: cv.md
+    line: 211
+  - file: _data/archives.yml
+    line: 1945
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.zotero.org/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1955
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514003953/https://www.zotero.org/
+      timestamp: '20260514003953'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:34+00:00'
+  status: archived
+- url: https://www.zotero.org/support/adding_items_to_zotero
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 14
+  - file: _data/archives.yml
+    line: 1965
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260512181119/https://www.zotero.org/support/adding_items_to_zotero
+      timestamp: '20260512181119'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:35+00:00'
+  status: archived
+- url: https://www.zotero.org/support/mobile
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 34
+  - file: _data/archives.yml
+    line: 1975
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260403005424/https://www.zotero.org/support/mobile
+      timestamp: '20260403005424'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:38+00:00'
+  status: archived
+- url: https://www.zotero.org/support/plugins
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 1985
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20260514193337/https://www.zotero.org/support/plugins
+      timestamp: '20260514193337'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:02:41+00:00'
+  status: archived
+- url: https://www.zotero.org/support/tips_and_tricks
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 43
+  - file: _data/archives.yml
+    line: 1995
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://www.zotero.org/support/zotero_data
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 16
+  - file: _data/archives.yml
+    line: 2005
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://x.com/psmyth01
+  found_in:
+  - file: _posts/2016-05-23-good-workshops.md
+    line: 11
+  - file: _data/archives.yml
+    line: 2015
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://x.com/psmyth01/status/851505002900336644
+  found_in:
+  - file: cv.md
+    line: 436
+  - file: _projects/neh.md
+    line: 20
+  - file: _data/archives.yml
+    line: 2025
+  archive:
+    wayback: null
+    archive_ph: null
+    local: null
+  archived_at: null
+  status: pending
+  notes:
+    wayback_check: no snapshot
+- url: https://x.com/search?q=%2523dhri&src=tyah
+  found_in:
+  - file: cv.md
+    line: 71
+  - file: _data/archives.yml
+    line: 2037
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240616155930/https://x.com/search?q=%23dhri&src=tyah
+      timestamp: '20240616155930'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:03:05+00:00'
+  status: archived
+- url: https://x.com/search?q=%2523dhsiapi&src=typd
+  found_in:
+  - file: cv.md
+    line: 232
+  - file: _data/archives.yml
+    line: 2047
+  archive:
+    wayback:
+      url: http://web.archive.org/web/20240615235629/https://x.com/search?q=%23dhsiapi&src=typd
+      timestamp: '20240615235629'
+    archive_ph: null
+    local: null
+  archived_at: '2026-05-14T21:03:07+00:00'
+  status: archived
