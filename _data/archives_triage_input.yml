@@ -1,0 +1,2625 @@
+- url: http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/
+  found_in:
+  - file: cv.md
+    line: 125
+  - file: _projects/dh_box.md
+    line: 13
+  - file: _data/projects.yml
+    line: 38
+  - file: _data/archives.yml
+    line: 1
+  source_excerpt: "\"DH Box and Access in the Digital Humanities\"  \ndh+lib, 2017\
+    \  \n[Read article](http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/)\
+    \  \n\n“Ebooks and the Digital Paratext: Emerging Trends in the Interpretation\
+    \ of Digital Media” in Examining Paratextual Theory and its Applications in Digital\
+    \ Culture  "
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: http://dhbox.org/
+  found_in:
+  - file: cv.md
+    line: 445
+  - file: _data/projects.yml
+    line: 35
+  - file: _data/archives.yml
+    line: 15
+  source_excerpt: "2016 - 2017  \n\nDeveloper, [DH Box](http://dhbox.org/), CUNY Graduate\
+    \ Center  \n2014 — 2018  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Epic Clan War - Perang Clan Penuh Strategi
+    h1: null
+- url: http://dhinstitutes.org
+  found_in:
+  - file: cv.md
+    line: 69
+  - file: _data/archives.yml
+    line: 27
+  source_excerpt: "[Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities),\
+    \ NEH grant  \nSeptember 2017 — August 2018  \n[View Website](http://dhinstitutes.org)\
+    \  \n[View Curriculum](https://github.com/DHRI-Curriculum)  \n[#DHRI on Twitter](https://x.com/search?q=%2523dhri&src=tyah)\
+    \  "
+  fetch:
+    http_status: '200'
+    final_url: http://www.dhinstitutes.org/
+    title: Digital Humanities Research Institute
+    h1: Further Expanding Digital Humanities Communities of Practice
+- url: http://freemind.sourceforge.net/wiki/index.php/Main_Page
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 21
+  - file: _data/archives.yml
+    line: 37
+  source_excerpt: '<p>Calibre is a unified ebook management platform that allows users
+    to integrate their ebook libraries, convert ebook files between formats, and transfer
+    ebooks to various devices. It&#8217;s also handy for reading .epub or .mobi files
+    on a PC or Mac without many of the annoying restrictions one encounters on readers
+    from Adobe, Google, or Amazon. Calibre can also be configured to remove pesky
+    DRM from purchased ebooks, although this accessing this functionality requires
+    some tweaking. In any case, Calibre is the perfect organizational tool for those
+    (like me) who use digital books in their research.</p>
+
+    <p>Alternatives: None (Calibre is in a class of its own)</p>
+
+    <p><a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page">FreeMind</a></p>
+
+    <p>There are many apps designed for &#8220;mind mapping,&#8221; which is essentially
+    a fancy term for graphics-based outlining. FreeMind is a lightweight mind mapping
+    utility that allows users to sketch ideas visually using a simple interface. It
+    also allows easy exportation of mind maps to other formats, such as PDF and HTML.
+    Great for outlining papers or getting down nascent thoughts before they slip away.</p>
+
+    <p>Alternatives: <a href="https://coggle.it/">Coggle</a>, <a href="http://www.xmind.net/">XMind</a>.</p>'
+  fetch:
+    http_status: '403'
+    final_url: https://freemind.sourceforge.net/wiki/index.php/Main_Page
+    title: null
+    h1: null
+- url: http://gcdigitalfellows.github.io/
+  found_in:
+  - file: _posts/2016-05-23-good-workshops.md
+    line: 11
+  - file: _data/projects.yml
+    line: 29
+  - file: _data/archives.yml
+    line: 47
+  source_excerpt: "permalink: /good_workshops/\n---\nSince we'll be holding our second\
+    \ week-long [Digital Research Institute](http://gcdigitalfellows.github.io/) in\
+    \ June, I thought I'd put together a list of the lessons I've learned teaching\
+    \ technical workshops over the past two years. If you have more lessons in mind,\
+    \ drop me a line at [@psmyth01](https://x.com/psmyth01). \n\n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Welcome to the GC Digital Research Institute
+    h1: GC Digital Research Institute
+- url: http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html
+  found_in:
+  - file: cv.md
+    line: 264
+  - file: _data/archives.yml
+    line: 59
+  source_excerpt: "2016 — New York, NY  \n[Watch video](https://www.youtube.com/watch?v=W8_O3joo4aU)\
+    \  \n[View slides](http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html)\
+    \  \n[View notes](https://github.com/smythp/blind-hackers)  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: GitHub &amp; BitBucket HTML Preview
+    h1: GitHub &amp; BitBucket HTML Preview
+- url: http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide
+  found_in:
+  - file: cv.md
+    line: 248
+  - file: _data/archives.yml
+    line: 69
+  source_excerpt: "MLA Convention  \n2017 — Philadelphia, PA  \n[View slides](http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide)\
+    \  \n[View notes](https://github.com/smythp/ebooks-as-applications#ebooks-as-applications)\
+    \  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: GitHub &amp; BitBucket HTML Preview
+    h1: GitHub &amp; BitBucket HTML Preview
+- url: http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide
+  found_in:
+  - file: cv.md
+    line: 238
+  - file: _data/archives.yml
+    line: 79
+  source_excerpt: "2017 — New York, NY  \n[Description](http://nyacc.org/)  \n[Presentation](http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide)\
+    \  \n\n\"Poster Session: DH Box\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: GitHub &amp; BitBucket HTML Preview
+    h1: GitHub &amp; BitBucket HTML Preview
+- url: http://nehimpact.org/
+  found_in:
+  - file: _projects/neh.md
+    line: 5
+  - file: _data/archives.yml
+    line: 89
+  source_excerpt: 'current: false
+
+    name: NEH Impact Index
+
+    link: http://nehimpact.org/
+
+    role: Creator
+
+    image: neh-impact.jpg'
+  fetch:
+    http_status: '200'
+    final_url: https://nehimpact.org/
+    title: Home - NEH Impact Index
+    h1: null
+- url: http://nehimpact.org/about
+  found_in:
+  - file: _projects/neh.md
+    line: 12
+  - file: _data/archives.yml
+    line: 99
+  source_excerpt: "resources:\n - text: About\n   link: http://nehimpact.org/about\n\
+    \ - text: PC Magazine Coverage\n   link: http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care"
+  fetch:
+    http_status: '200'
+    final_url: https://nehimpact.org/about
+    title: About - NEH Impact Index
+    h1: About
+- url: http://nyacc.org/
+  found_in:
+  - file: cv.md
+    line: 237
+  - file: _data/archives.yml
+    line: 109
+  source_excerpt: "New York Amateur Computer Club  \n2017 — New York, NY  \n[Description](http://nyacc.org/)\
+    \  \n[Presentation](http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide)\
+    \  \n"
+  fetch:
+    http_status: '200'
+    final_url: https://nyacc.org/
+    title: New York Amateur Computer Club, Inc.
+    h1: null
+- url: http://www.aiip.org/
+  found_in:
+  - file: cv.md
+    line: 454
+  - file: _data/archives.yml
+    line: 119
+  source_excerpt: "2013 – 2014  \n\nWebsite Redesign, [Association of Independent\
+    \ Information Professionals](http://www.aiip.org/) (AIIP)  \n2013-2014  \n"
+  fetch:
+    http_status: '200'
+    final_url: https://aiip.org/
+    title: Association of Independent Information Professionals (AIIP)
+    h1: Wrong document context!
+- url: http://www.nehimpact.org/
+  found_in:
+  - file: cv.md
+    line: 403
+  - file: cv.md
+    line: 434
+  - file: cv.md
+    line: 436
+  - file: _data/projects.yml
+    line: 23
+  - file: _data/archives.yml
+    line: 129
+  source_excerpt: "\n[\"Trump Budget Slashes NEH Funding: Why You Should Care\"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)\
+    \  \nPC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.org/).)\
+    \  \n\n"
+  fetch:
+    http_status: '200'
+    final_url: https://www.nehimpact.org/
+    title: Home - NEH Impact Index
+    h1: null
+- url: http://www.nehimpact.org/faq
+  found_in:
+  - file: cv.md
+    line: 436
+  - file: _data/archives.yml
+    line: 145
+  source_excerpt: "Project Lead, [NEH Impact Index](http://www.nehimpact.org/)  \n\
+    2017  \n[Site](http://www.nehimpact.org/) | [FAQ](http://www.nehimpact.org/faq)\
+    \ | [Blog post](https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/)\
+    \ | [Twitter](https://x.com/psmyth01/status/851505002900336644)  \n[PC Magazine\
+    \ Coverage](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)\
+    \  \n"
+  fetch:
+    http_status: '200'
+    final_url: https://www.nehimpact.org/faq
+    title: FAQ - NEH Impact Index
+    h1: FAQ
+- url: http://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint
+  found_in:
+  - file: _projects/neh.md
+    line: 23
+  - file: _data/archives.yml
+    line: 155
+  source_excerpt: "---\n\n<p>The <a href=\"https://www.neh.gov/\">National Endowment\
+    \ for the Humanities</a> is an independent federal agency that supports humanities\
+    \ projects and initiatives, including those for education, historical preservation,\
+    \ and public-facing scholarship. <a href=\"http://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint\"\
+    > \n\n"
+  fetch:
+    http_status: '200'
+    final_url: https://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint
+    title: 'Full Text Of President Trump''s 2018 Budget Blueprint : NPR'
+    h1: null
+- url: http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
+  found_in:
+  - file: cv.md
+    line: 402
+  - file: cv.md
+    line: 437
+  - file: _projects/neh.md
+    line: 14
+  - file: _data/archives.yml
+    line: 165
+  source_excerpt: "Phi Beta Kappa website, 2017  \n\n[\"Trump Budget Slashes NEH Funding:\
+    \ Why You Should Care\"](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)\
+    \  \nPC Magazine, 2017 (Article features the [NEH Impact Index](http://www.nehimpact.org/).)\
+    \  \n"
+  fetch:
+    http_status: '200'
+    final_url: https://www.pcmag.com/opinions/trump-budget-slashes-neh-funding-why-you-should-care
+    title: 'Trump Budget Slashes NEH Funding: Why You Should Care | PCMag'
+    h1: null
+- url: http://www.refworks.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 16
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 17
+  - file: _data/archives.yml
+    line: 179
+  source_excerpt: '<p>&nbsp;</p>
+
+    <p><a href="https://www.zotero.org/">Zotero</a> Citation Manager</p>
+
+    <p>Zotero is a citation manager that allows scholars to organize research, create
+    bibliographies, and maintain a personal library. Zotero started out as a Firefox
+    extension, and one of its most impressive features is still its ability to pull
+    full articles and citations from popular databases with one click. The application
+    maintains lists of books and articles that can be readily converted into bibliographies
+    in MLA, APA, or any major citation format. Rival citation manager <a href="http://www.refworks.com/">RefWorks</a>
+    is also worth a look.</p>
+
+    <p>Alternatives: <a href="http://www.refworks.com/">RefWorks</a>, <a href="https://endnote.com/">Endnote</a>.
+    <a href="https://www.easybib.com/">EasyBib</a> for dilitantes or the half-hearted.</p>
+
+    <p><a href="https://calibre-ebook.com/">Calibre</a></p>'
+  fetch:
+    http_status: '200'
+    final_url: https://refworks.proquest.com/learn-more/
+    title: '{{route.data.pageTitle + " - RefWorks"}}'
+    h1: Collect and Import
+- url: http://www.w3.org/2000/svg
+  found_in:
+  - file: _data/archives.yml
+    line: 191
+  - file: _includes/socials.html
+    line: 11
+  source_excerpt: "- url: http://www.nehimpact.org/\n  found_in:\n  - file: cv.md\n\
+    \    line: 403\n  - file: cv.md"
+  fetch:
+    http_status: '403'
+    final_url: https://www.w3.org/2000/svg
+    title: null
+    h1: null
+- url: http://www.writingstudiestree.org/
+  found_in:
+  - file: cv.md
+    line: 448
+  - file: _data/archives.yml
+    line: 201
+  source_excerpt: "2014 — 2018  \n\nPlatform Redesign, [Writing Studies Tree](http://www.writingstudiestree.org/),\
+    \ CUNY Graduate Center  \n2014 — 2015  \n"
+  fetch:
+    http_status: '200'
+    final_url: https://writingstudiestree.org/live/
+    title: Writing Studies Tree
+    h1: null
+- url: http://www.xmind.net/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 23
+  - file: _data/archives.yml
+    line: 211
+  source_excerpt: '<p><a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page">FreeMind</a></p>
+
+    <p>There are many apps designed for &#8220;mind mapping,&#8221; which is essentially
+    a fancy term for graphics-based outlining. FreeMind is a lightweight mind mapping
+    utility that allows users to sketch ideas visually using a simple interface. It
+    also allows easy exportation of mind maps to other formats, such as PDF and HTML.
+    Great for outlining papers or getting down nascent thoughts before they slip away.</p>
+
+    <p>Alternatives: <a href="https://coggle.it/">Coggle</a>, <a href="http://www.xmind.net/">XMind</a>.</p>
+
+    <p>Google Drive</p>
+
+    <p>Having a cloud-based system for file management is becoming increasingly important
+    for class management, collaboration, and maintaining backup data. Google Drive
+    (formerly Google Docs) and rival <a href="https://www.dropbox.com">Dropbox</a>
+    solve a number of problems for the modern academic, and the first time you collaborate
+    on a Doc with another research in real time you&#8217;ll be sold on Google&#8217;s
+    technology. On the other hand, services such as <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a>
+    offers more space and more storage and sharing features.</p>'
+  fetch:
+    http_status: '200'
+    final_url: https://xmind.com
+    title: Xmind - Mind Map &amp; Brainstorm Tool
+    h1: null
+- url: https://2025.allthingsopen.org/sessions/frankenpipe-bringing-secure-ml-pipelines-to-life
+  found_in:
+  - file: cv.md
+    line: 163
+  - file: _data/archives.yml
+    line: 221
+  source_excerpt: "October 2025 — Raleigh, NC  \n[Recording](https://www.youtube.com/watch?v=jefbTBfl9Ps)\
+    \  \n[Session page](https://2025.allthingsopen.org/sessions/frankenpipe-bringing-secure-ml-pipelines-to-life)\
+    \  \n\n\"Deploy Secure Containers on Amazon EKS with Chainguard\" (webinar, with\
+    \ Sai Vennam, AWS)  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Frankenpipe: Bringing Secure ML Pipelines to Life &#8226; All Things Open
+      2025'
+    h1: 'Session: Frankenpipe: Bringing Secure ML Pipelines to Life'
+- url: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5363&context=gc_etds
+  found_in:
+  - file: _projects/negotiated_access.md
+    line: 13
+  - file: _data/archives.yml
+    line: 231
+  source_excerpt: "resources:\n - text: Download Dissertation\n   link: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5363&context=gc_etds\n\
+    ---\n"
+  fetch:
+    http_status: '202'
+    final_url: null
+    title: null
+    h1: null
+- url: https://academicworks.cuny.edu/gc_etds/4311/
+  found_in:
+  - file: about.md
+    line: 10
+  - file: _projects/negotiated_access.md
+    line: 6
+  - file: _data/archives.yml
+    line: 241
+  source_excerpt: 'In a former life, Patrick ran data science bootcamps for researchers
+    at Columbia University and later founded Iota, a consultancy focused on accessible
+    technical training and infrastructure. Through Iota, he worked with organizations
+    including [Space Telescope Science Institute](https://www.stsci.edu/), [Pandas](https://numfocus.org/project/pandas),
+    and [Sigstore](https://www.sigstore.dev/).
+
+
+    Patrick''s PhD dissertation, [Negotiated Access: Haccessibility, Autonomy, and
+    Infrastructure in the Age of the Abstraction](https://academicworks.cuny.edu/gc_etds/4311/),
+    explores hacking as a way to express autonomy, particularly for the disabled.
+    It received the Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation
+    of the Year from the PhD program in English at the Graduate Center, CUNY, as well
+    as the prize for Best Prospectus.
+
+
+    When he''s not hanging out with his wife and daughter in Queens, Patrick can be
+    found sitting in a frozen lake or hitting the sauna.'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: '"Negotiated Access: Haccessibility, Autonomy, and Infrastructure in the"
+      by Patrick Smyth'
+    h1: null
+- url: https://apps.mla.org/program_details?prog_id=75&year=2017
+  found_in:
+  - file: cv.md
+    line: 245
+  - file: _data/archives.yml
+    line: 253
+  source_excerpt: "\n\"Code and the Codex: E-books as Applications\"  \n[E-book Revolution\
+    \ panel](https://apps.mla.org/program_details?prog_id=75&year=2017)  \nMLA Convention\
+    \  \n2017 — Philadelphia, PA  "
+  fetch:
+    http_status: '200'
+    final_url: https://apps.mla.org/conv_listings_detail?prog_id=75&year=2017
+    title: Session Details
+    h1: Session Details
+- url: https://astrobites.org/2023/06/10/notebooks-for-all/
+  found_in:
+  - file: cv.md
+    line: 393
+  - file: _data/archives.yml
+    line: 263
+  source_excerpt: "=====\n\n[Notebooks For All: Making Jupyter Notebooks More Accessible](https://astrobites.org/2023/06/10/notebooks-for-all/)\
+    \  \nAstrobites, 2023  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Notebooks For All: Making Jupyter Notebooks More Accessible | astrobites'
+    h1: null
+- url: https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 91
+  - file: _data/archives.yml
+    line: 273
+  source_excerpt: "# Resources\n\n[buffers, windows, and frames on Blasphemous Bits](https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/)\
+    \  \n[Using Multiple Buffers](https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html)\
+    \  \n[Working with Windows and Frames by Hack Emacs](https://www.youtube.com/watch?v=aIMECr7K35Q)\
+    \  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Learning emacs part 4: buffers, windows, and frames &#8211; Blasphemous
+      Bits'
+    h1: Menu
+- url: https://books.google.com/
+  found_in:
+  - file: _posts/2015-08-06-citing-ebooks.md
+    line: 18
+  - file: _data/archives.yml
+    line: 283
+  source_excerpt: '<p>Yet there is some hope for those who wish to continue using
+    e-books for writing and research. Here are two workarounds for quoting digital
+    editions:</p>
+
+    <p><b>Google Books Wordaround</b></p>
+
+    <p>This method involves taking the quote you&#8217;ve found in an e-book and tracking
+    down the corresponding print location using the search function in Google Books.
+    First, navigate to <a href="https://books.google.com/">Google Books</a> and enter
+    the name of the book you wish to quote. Pick a print edition of the book from
+    the resulting list, if available. Next, copy a snippet of the text you wish to
+    quote and paste it into the small search field on the left side of the book description.
+    This should bring up the page in the print edition that corresponds to your quote,
+    and you can then use that page number in an in-text citation. Finally, construct
+    a bibliography entry based on the print edition of the book rather than the digital
+    edition.</p>
+
+    <p>The advantage of this method is that it results in a precise page number and
+    a standard MLA print citation. However, it also adds an extra step in the citation
+    process and it works only for the books that have been digitized by Google. Some
+    scholars also find this process a bit disingenuous. Their reasoning is that if
+    you use an e-book in your research, your bibliography should reflect that, and
+    that switching between the forms can introduce discrepancies. However, my feeling
+    is that Google Books allows one to check for differences between print and e-book
+    editions before including a quote in your writing.</p>
+
+    <p><b>Kindle Position</b></p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Google Books: Find, Preview, and Read Books Online.'
+    h1: null
+- url: https://calibre-ebook.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 18
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 14
+  - file: _data/archives.yml
+    line: 293
+  source_excerpt: '<p>Zotero is a citation manager that allows scholars to organize
+    research, create bibliographies, and maintain a personal library. Zotero started
+    out as a Firefox extension, and one of its most impressive features is still its
+    ability to pull full articles and citations from popular databases with one click.
+    The application maintains lists of books and articles that can be readily converted
+    into bibliographies in MLA, APA, or any major citation format. Rival citation
+    manager <a href="http://www.refworks.com/">RefWorks</a> is also worth a look.</p>
+
+    <p>Alternatives: <a href="http://www.refworks.com/">RefWorks</a>, <a href="https://endnote.com/">Endnote</a>.
+    <a href="https://www.easybib.com/">EasyBib</a> for dilitantes or the half-hearted.</p>
+
+    <p><a href="https://calibre-ebook.com/">Calibre</a></p>
+
+    <p>Calibre is a unified ebook management platform that allows users to integrate
+    their ebook libraries, convert ebook files between formats, and transfer ebooks
+    to various devices. It&#8217;s also handy for reading .epub or .mobi files on
+    a PC or Mac without many of the annoying restrictions one encounters on readers
+    from Adobe, Google, or Amazon. Calibre can also be configured to remove pesky
+    DRM from purchased ebooks, although this accessing this functionality requires
+    some tweaking. In any case, Calibre is the perfect organizational tool for those
+    (like me) who use digital books in their research.</p>
+
+    <p>Alternatives: None (Calibre is in a class of its own)</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: calibre - E-book management
+    h1: null
+- url: https://carpentries.org/
+  found_in:
+  - file: _projects/foundations.md
+    line: 21
+  - file: _data/archives.yml
+    line: 305
+  source_excerpt: "\n<p>\nDuring my time with Foundations, I proposed and implemented\
+    \ new programming, including a popular <a href=\"https://rcfoundations.research.columbia.edu/content/python-user-group\"\
+    >Python User Group</a> and a <a href=\"https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program\"\
+    >Curriculum Innovation Grant</a> program. I also had the pleasure of working closely\
+    \ with a community of instructors trained by <a href=\"https://carpentries.org/\"\
+    >Software Carpentry</a>.\n\t</p>\t"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: The Carpentries
+    h1: The Carpentries teaches foundational coding and data science skills to researchers
+      worldwide.
+- url: https://carpentries.org/about-us/#our-mission
+  found_in:
+  - file: cv.md
+    line: 18
+  - file: _data/archives.yml
+    line: 315
+  source_excerpt: "\tHighest Honors in English (Honors thesis)  \n\nCertified Instructor,\
+    \ [Software Carpentry](https://carpentries.org/about-us/#our-mission), 2017  \n\
+    \nCertificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy),\
+    \ 2016  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: About Us | The Carpentries
+    h1: About Us
+- url: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
+  found_in:
+  - file: _data/archives.yml
+    line: 325
+  - file: _includes/scripts.html
+    line: 1
+  source_excerpt: "  archived_at: null\n  status: pending\n  notes:\n    wayback_check:\
+    \ no snapshot\n- url: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5363&context=gc_etds"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: null
+    h1: null
+- url: https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355
+  found_in:
+  - file: _posts/2026-05-05-supply-chain-attack-takeaways-webinar.md
+    line: 14
+  - file: cv.md
+    line: 137
+  - file: _data/archives.yml
+    line: 335
+  source_excerpt: "    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7457452813321715712/\"\
+    \n  - text: \"Webinar registration (May 12, 1pm ET)\"\n    link: \"https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355\"\
+    \n---\n"
+  fetch:
+    http_status: '200'
+    final_url: https://chainguard.ondemand.goldcast.io/on-demand/92f51147-f099-4efb-8247-4410a2847355
+    title: null
+    h1: null
+- url: https://cloudsecurityalliance.org/
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 25
+  - file: _data/archives.yml
+    line: 347
+  source_excerpt: '</style>
+
+
+    I spoke at the [Cloud Security Alliance](https://cloudsecurityalliance.org/) Boston
+    chapter this Thursday (April 17th, 2025) on software supply chain security. We
+    defined the space, walked through a couple major incidents, and looked at ways
+    to move forward using the CVE system / scanning and [SLSA](https://slsa.dev/)
+    among other approaches.
+
+
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1"
+    height="263" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Home | CSA
+    h1: Trusted AI Safety Expert (TAISE) Certificate
+- url: https://code.google.com/archive/p/delicious-library-export
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 357
+  source_excerpt: '<h2> Zotero with Plugins and Add-ons</h2>
+
+
+    An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety
+    of plugins</a> that can extend Zotero’s functionality. Whether you want to <a
+    href="https://code.google.com/archive/p/delicious-library-export">import items
+    from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate
+    Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create
+    advanced visualizations</a>, or simply <a href="https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce
+    up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving,
+    displaying, and exporting data.<br><br>
+
+
+    See also:<br>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Google Code Archive - Long-term storage for Google Code Project Hosting.
+    h1: null
+- url: https://coggle.it/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 23
+  - file: _data/archives.yml
+    line: 367
+  source_excerpt: '<p><a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page">FreeMind</a></p>
+
+    <p>There are many apps designed for &#8220;mind mapping,&#8221; which is essentially
+    a fancy term for graphics-based outlining. FreeMind is a lightweight mind mapping
+    utility that allows users to sketch ideas visually using a simple interface. It
+    also allows easy exportation of mind maps to other formats, such as PDF and HTML.
+    Great for outlining papers or getting down nascent thoughts before they slip away.</p>
+
+    <p>Alternatives: <a href="https://coggle.it/">Coggle</a>, <a href="http://www.xmind.net/">XMind</a>.</p>
+
+    <p>Google Drive</p>
+
+    <p>Having a cloud-based system for file management is becoming increasingly important
+    for class management, collaboration, and maintaining backup data. Google Drive
+    (formerly Google Docs) and rival <a href="https://www.dropbox.com">Dropbox</a>
+    solve a number of problems for the modern academic, and the first time you collaborate
+    on a Doc with another research in real time you&#8217;ll be sold on Google&#8217;s
+    technology. On the other hand, services such as <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a>
+    offers more space and more storage and sharing features.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Coggle - Simple, Fast, and Powerful Mind Maps. Just Coggle it!
+    h1: Make mind maps that flow like your ideas.
+- url: https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e
+  found_in:
+  - file: cv.md
+    line: 111
+  - file: _data/archives.yml
+    line: 377
+  source_excerpt: "\"Deep Dive: Where Does Grype Data Come From?\"  \nChainguard /\
+    \ dev.to, November 2024  \n[Read article](https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e)\
+    \  \n\n\"Securely Containerize a Python Application with Chainguard Images\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Deep Dive 🤿: Where Does Grype Data Come From? - DEV Community'
+    h1: null
+- url: https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8
+  found_in:
+  - file: cv.md
+    line: 115
+  - file: _data/archives.yml
+    line: 387
+  source_excerpt: "\"Securely Containerize a Python Application with Chainguard Images\"\
+    \  \nChainguard / dev.to, April 2024  \n[Read article](https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8)\
+    \  \n\n\"Double Take: A Memoir.\" Couser, G. Thomas, and Susannah B. Mintz, editors.\
+    \ Disability Experiences: Memoirs, Autobiographies, and Other Personal Narratives.\
+    \ 2019. (review)  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Securely Containerize a Python Application with Chainguard Images - DEV
+      Community
+    h1: Securely Containerize a Python Application with Chainguard Images
+- url: https://dhbox.org/
+  found_in:
+  - file: cv.md
+    line: 77
+  - file: _projects/dh_box.md
+    line: 5
+  - file: _data/archives.yml
+    line: 397
+  source_excerpt: "September 2014 — August 2017  \n\nDeveloper and Documentation Specialist,\
+    \ [DH Box](https://dhbox.org/) NEH Startup Grant  \nThe Graduate Center, CUNY\
+    \  \nSeptember 2014 — August 2018  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Epic Clan War - Perang Clan Penuh Strategi
+    h1: null
+- url: https://dhrift.org/
+  found_in:
+  - file: _projects/dri_curriculum.md
+    line: 17
+  - file: _data/archives.yml
+    line: 409
+  source_excerpt: "   link: https://www.dhinstitutes.org/\n - text: DHRIFT (successor\
+    \ curriculum)\n   link: https://dhrift.org/\n---\n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: DHRIFT
+    h1: Introducing DHRIFT
+- url: https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
+  found_in:
+  - file: cv.md
+    line: 436
+  - file: _projects/neh.md
+    line: 18
+  - file: _data/archives.yml
+    line: 419
+  source_excerpt: "Project Lead, [NEH Impact Index](http://www.nehimpact.org/)  \n\
+    2017  \n[Site](http://www.nehimpact.org/) | [FAQ](http://www.nehimpact.org/faq)\
+    \ | [Blog post](https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/)\
+    \ | [Twitter](https://x.com/psmyth01/status/851505002900336644)  \n[PC Magazine\
+    \ Coverage](http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care)\
+    \  \n"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://digitalfellows.commons.gc.cuny.edu/?team=hannah-aizenman
+  found_in:
+  - file: _posts/2016-05-23-good-workshops.md
+    line: 46
+  - file: _data/archives.yml
+    line: 431
+  source_excerpt: '## Be unconventional
+
+
+    Another facet of multimodality is using unconventional materials or media to impart
+    difficult concepts. For example, Digital Fellow [Hannah Aizenman](https://digitalfellows.commons.gc.cuny.edu/?team=hannah-aizenman)
+    uses poster paper and markers to have students create visualizations before using
+    a computer. This allows students to think about methodology before getting bogged
+    down in the details of a specific program or tool. '
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 12
+  - file: cv.md
+    line: 184
+  - file: _data/archives.yml
+    line: 441
+  source_excerpt: "resources:\n  - text: \"Recording + transcript\"\n    link: \"\
+    https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/\"\
+    \n  - text: \"PyTorch Conference 2024 schedule\"\n    link: \"https://pytorch2024.sched.com/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: "Beyond Zero: Eliminating Vulnerabilities in PyTorch Container Images (PyTorch\
+      \ 2024) â\x80\x94 Chainguard Academy"
+    h1: null
+- url: https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 16
+  - file: _data/archives.yml
+    line: 453
+  source_excerpt: "    link: \"https://pytorch2024.sched.com/\"\n  - text: \"Chainguard's\
+    \ PyTorch image\"\n    link: \"https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/\"\
+    \n  - text: \"LinkedIn (talk day)\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7242555626713726978/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: "Getting Started with the PyTorch Chainguard Container â\x80\x94 Chainguard\
+      \ Academy"
+    h1: null
+- url: https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 94
+  - file: _data/archives.yml
+    line: 463
+  source_excerpt: "[Using Multiple Buffers](https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html)\
+    \  \n[Working with Windows and Frames by Hack Emacs](https://www.youtube.com/watch?v=aIMECr7K35Q)\
+    \  \n[\"What's the difference between a buffer, a file, a window, and a frame?\"\
+    \ on StackExchange](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame)\
+    \   "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: What&#39;s the difference between a buffer, a file, a window, and a frame?
+      - Emacs Stack Exchange
+    h1: null
+- url: https://en.wikipedia.org/wiki/ITunes_U
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 28
+  - file: _data/archives.yml
+    line: 473
+  source_excerpt: '<p>Alternatives: <a href="https://www.dropbox.com">Dropbox</a>,
+    <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a></p>
+
+    <p>Khan Academy</p>
+
+    <p>Good learners make great teachers, and a number of sites have popped up in
+    recent years that allow easy access to new skills and training. One of my personal
+    favorites is Khan Academy, which offers videos and tutorials on a wide variety
+    of topics. Khan Academy is slowly transforming into a digital learning platform
+    that offers assessment and live tutoring in addition to video lectures. This trend
+    is being followed by other digital learning platforms, including Apple&#8217;s
+    <a href="https://en.wikipedia.org/wiki/ITunes_U">iTunes U</a>. <a href="https://www.ted.com/talks">TED
+    Talks</a> is another accessible way to stay up-to-date on the latest developments
+    inside and outside academia.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: iTunes Store - Wikipedia
+    h1: iTunes Store
+- url: https://en.wikipedia.org/wiki/Thoughts_on_Flash
+  found_in:
+  - file: _posts/2025-04-13-uniquely-annoying-internet.md
+    line: 17
+  - file: _data/archives.yml
+    line: 483
+  source_excerpt: 'Some different internet eras that I''ve lived through:
+
+
+    - Early 2000s, [Newgrounds](https://www.newgrounds.com/) and weird Flash stuff.
+    This was a surprisingly rich culture and the artifacts are mostly lost in the
+    [great unflashening](https://en.wikipedia.org/wiki/Thoughts_on_Flash). My friends
+    and I had an old school forum on some hidden site we would talk in. Many things
+    were broken but there was a lot of energy.
+
+    - Mid-2000s. This is where you have some of the modern platforms pop up. Early
+    Facebook was dumb but at least not obnoxious, you learned that all your friends
+    liked Napoleon Dynamite and Fight Club. Early Twitter. Bittorrent became a big
+    thing. YouTube had everything on it since they didn''t take anything down.
+
+    - Early 2010s. Cypherpunk, seemed like fighting the man online was a thing for
+    like six months. Only a few people have phones, blogs are still a thing and coexist
+    with Twitter. '
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Thoughts on Flash - Wikipedia
+    h1: null
+- url: https://endnote.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 17
+  - file: _data/archives.yml
+    line: 493
+  source_excerpt: '<p><a href="https://www.zotero.org/">Zotero</a> Citation Manager</p>
+
+    <p>Zotero is a citation manager that allows scholars to organize research, create
+    bibliographies, and maintain a personal library. Zotero started out as a Firefox
+    extension, and one of its most impressive features is still its ability to pull
+    full articles and citations from popular databases with one click. The application
+    maintains lists of books and articles that can be readily converted into bibliographies
+    in MLA, APA, or any major citation format. Rival citation manager <a href="http://www.refworks.com/">RefWorks</a>
+    is also worth a look.</p>
+
+    <p>Alternatives: <a href="http://www.refworks.com/">RefWorks</a>, <a href="https://endnote.com/">Endnote</a>.
+    <a href="https://www.easybib.com/">EasyBib</a> for dilitantes or the half-hearted.</p>
+
+    <p><a href="https://calibre-ebook.com/">Calibre</a></p>
+
+    <p>Calibre is a unified ebook management platform that allows users to integrate
+    their ebook libraries, convert ebook files between formats, and transfer ebooks
+    to various devices. It&#8217;s also handy for reading .epub or .mobi files on
+    a PC or Mac without many of the annoying restrictions one encounters on readers
+    from Adobe, Google, or Amazon. Calibre can also be configured to remove pesky
+    DRM from purchased ebooks, although this accessing this functionality requires
+    some tweaking. In any case, Calibre is the perfect organizational tool for those
+    (like me) who use digital books in their research.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: EndNote - The Best Citation &amp; Reference Management Tool
+    h1: null
+- url: https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 503
+  source_excerpt: '<h2> Zotero with Plugins and Add-ons</h2>
+
+
+    An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety
+    of plugins</a> that can extend Zotero’s functionality. Whether you want to <a
+    href="https://code.google.com/archive/p/delicious-library-export">import items
+    from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate
+    Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create
+    advanced visualizations</a>, or simply <a href="https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce
+    up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving,
+    displaying, and exporting data.<br><br>
+
+
+    See also:<br>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Zotero Item History [plugin] - Zotero Forums
+    h1: Zotero Item History [plugin]
+- url: https://fosstodon.org/@patric
+  found_in:
+  - file: _data/archives.yml
+    line: 513
+  - file: _includes/socials.html
+    line: 10
+  source_excerpt: "    archive_ph: null\n    local: null\n  archived_at: '2026-05-14T20:56:26+00:00'\n\
+    \  status: archived\n- url: https://coggle.it/"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Patrick Smyth (@patric@fosstodon.org) - Fosstodon
+    h1: null
+- url: https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities
+  found_in:
+  - file: cv.md
+    line: 62
+  - file: _data/archives.yml
+    line: 523
+  source_excerpt: "-   Led workshops on UNIX, scraping, data science fundamentals,\
+    \ visualization, accessing APIs, and ML with scikit-learn.\n\nAdvisor, [MA Program\
+    \ in Digital Humanities](https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities)\
+    \  \nThe Graduate Center, CUNY  \nSeptember 2017 — December 2018  "
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://gcdi.commons.gc.cuny.edu/
+  found_in:
+  - file: _projects/neh.md
+    line: 30
+  - file: _data/archives.yml
+    line: 533
+  source_excerpt: '<p>In 2017, I created the NEH Impact Index to make visible the
+    impact of the NEH on local communities and cultural institutions. <a href="/index">
+    The web app takes a zip code and search radius</a> and finds projects funded by
+    the NEH in that region. Projects are color-coded by category to show their impact
+    in areas such as education, preservation, and public programs.</p>
+
+
+    <p>The NEH Impact Index was created as part of a larger effort by <a href="https://gcdi.commons.gc.cuny.edu/">Graduate
+    Center Digital Initiatives (GCDI)</a> to highlight the impact of the NEH, not
+    only in the humanities but also in the wider culture.'
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://gcdri.commons.gc.cuny.edu/
+  found_in:
+  - file: _projects/dri_curriculum.md
+    line: 13
+  - file: _data/archives.yml
+    line: 543
+  source_excerpt: "resources:\n - text: DRI site\n   link: https://gcdri.commons.gc.cuny.edu/\n\
+    \ - text: DHRI Site\n   link: https://www.dhinstitutes.org/"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 44
+  - file: _data/archives.yml
+    line: 553
+  source_excerpt: 'See also:<br>
+
+    <p><a href="https://www.zotero.org/support/tips_and_tricks">Zotero Tips and Tricks</a><br
+    />
+
+    <a href="https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html">Geek
+    and Girlie Stuff Guide to Zotero</a><br />
+
+    <a href="https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote">Zotero
+    vs. Endnote</a></p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Geek &amp; Girlie Stuff: going "all in" with Zotero, Zotpad, and Zotfile
+      (2 of 3)'
+    h1: null
+- url: https://github.com/DH-Box/dhbox
+  found_in:
+  - file: _projects/dh_box.md
+    line: 11
+  - file: _data/archives.yml
+    line: 563
+  source_excerpt: "resources:\n - text: DH Box on GitHub\n   link: https://github.com/DH-Box/dhbox\n\
+    \ - text: DH Box and Access in DH Article\n   link: http://acrl.ala.org/dh/2017/06/21/dh-box-and-access-in-the-digital-humanities/"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - DH-Box/dhbox: A push-button Digital Humanities laboratory. ·
+      GitHub'
+    h1: null
+- url: https://github.com/DHRI-Curriculum
+  found_in:
+  - file: cv.md
+    line: 70
+  - file: _projects/dri_curriculum.md
+    line: 5
+  - file: _data/archives.yml
+    line: 573
+  source_excerpt: "September 2017 — August 2018  \n[View Website](http://dhinstitutes.org)\
+    \  \n[View Curriculum](https://github.com/DHRI-Curriculum)  \n[#DHRI on Twitter](https://x.com/search?q=%2523dhri&src=tyah)\
+    \  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Digital Humanities Research Institute · GitHub
+    h1: null
+- url: https://github.com/Iota-School/notebooks-for-all
+  found_in:
+  - file: _projects/stsci.md
+    line: 14
+  - file: _data/archives.yml
+    line: 585
+  source_excerpt: "   link: https://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute\n\
+    \ - text: Repository\n   link: https://github.com/Iota-School/notebooks-for-all\n\
+    ---\n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: GitHub - Iota-School/notebooks-for-all · GitHub
+    h1: null
+- url: https://github.com/chainguard-demo/ml-pipeline-security
+  found_in:
+  - file: _posts/2026-03-27-rsac-ml-pipelines.md
+    line: 12
+  - file: _data/archives.yml
+    line: 595
+  source_excerpt: "resources:\n  - text: \"Workshop materials\"\n    link: \"https://github.com/chainguard-demo/ml-pipeline-security\"\
+    \n  - text: \"LinkedIn\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7443335126228324352/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - chainguard-demo/ml-pipeline-security: Materials for ML Pipeline
+      Security: Way More Than You Wanted to Know Learning Lab at RSAC 2026 · GitHub'
+    h1: null
+- url: https://github.com/chainguard-demo/vibelympics
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 17
+  - file: _data/archives.yml
+    line: 605
+  source_excerpt: "    link: \"https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code\"\
+    \n  - text: \"Vibelympics repo\"\n    link: \"https://github.com/chainguard-demo/vibelympics\"\
+    \n  - text: \"Vibelympics site\"\n    link: \"https://vibelympics.splashthat.com/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - chainguard-demo/vibelympics: Tournament where the only rule is:
+      don&#39;t look at the code · GitHub'
+    h1: null
+- url: https://github.com/jorgenschaefer/elpy#quick-installation
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 20
+  - file: _data/archives.yml
+    line: 615
+  source_excerpt: 'First, [install pyenv](https://github.com/pyenv/pyenv#installation),
+    if you haven''t already. I also recommend the [pyenv-virtualenv plugin](https://github.com/pyenv/pyenv-virtualenv#installation),
+    which lets you manage virtual environments using pyenv.
+
+
+    Once you have pyenv set up and have installed a new version of Python with the
+    `pyenv install <version>` command, you''re ready to [install elpy](https://github.com/jorgenschaefer/elpy#quick-installation):
+
+
+    In the command line:'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - jorgenschaefer/elpy: Emacs Python Development Environment · GitHub'
+    h1: null
+- url: https://github.com/papermachines/papermachines
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 625
+  source_excerpt: '<h2> Zotero with Plugins and Add-ons</h2>
+
+
+    An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety
+    of plugins</a> that can extend Zotero’s functionality. Whether you want to <a
+    href="https://code.google.com/archive/p/delicious-library-export">import items
+    from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate
+    Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create
+    advanced visualizations</a>, or simply <a href="https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce
+    up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving,
+    displaying, and exporting data.<br><br>
+
+
+    See also:<br>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - papermachines/papermachines: [UNMAINTAINED] A Zotero extension
+      for analysis and visualization in the digital humanities. · GitHub'
+    h1: null
+- url: https://github.com/pyenv/pyenv
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 14
+  - file: _data/archives.yml
+    line: 635
+  source_excerpt: 'I use [Emacs](https://www.gnu.org/software/emacs/) to write code
+    in Python. As someone who prefers to use the keyboard over the mouse and who doesn''t
+    mind memorizing key combinations, I''ve found that Emacs is great for managing
+    both small scripts and large projects. Until recently, I''d used the built-in
+    Python mode that comes with Emacs, which did a decent job of handling indentation,
+    whitespace, and some syntax highlighting. While I didn''t have fancy code completion,
+    the built-in dabbrev-expand command in Emacs, which completes words based on context,
+    did a decent job in lieu of real completion. However, I always knew there were
+    good libraries for syntax highlighting, linting, completion, refactoring, project
+    management, and navigation out there, and recently I decided to take the plunge
+    and get a proper Python programming environment set up in Emacs.
+
+
+    I use [pyenv](https://github.com/pyenv/pyenv) to manage Python versions, allowing
+    me to quickly switch between 2.7, 3.5, and Anaconda on a project-by-project basis.
+    Any solution I came up with, therefore, would have to work seamlessly with pyenv.
+    I''d also had the Elpy framework recommended to me as a good library for managing
+    IDE features in Emacs. This post will walk you through the steps of getting Elpy
+    to work with pyenv, and by the end you''ll be able to switch between Python versions
+    while also taking advantage of the cool IDE features afforded by Elpy.
+
+
+    ### Installing pyenv and Elpy'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - pyenv/pyenv: Simple Python version management · GitHub'
+    h1: null
+- url: https://github.com/pyenv/pyenv#installation
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 18
+  - file: _data/archives.yml
+    line: 645
+  source_excerpt: '### Installing pyenv and Elpy
+
+
+    First, [install pyenv](https://github.com/pyenv/pyenv#installation), if you haven''t
+    already. I also recommend the [pyenv-virtualenv plugin](https://github.com/pyenv/pyenv-virtualenv#installation),
+    which lets you manage virtual environments using pyenv.
+
+
+    Once you have pyenv set up and have installed a new version of Python with the
+    `pyenv install <version>` command, you''re ready to [install elpy](https://github.com/jorgenschaefer/elpy#quick-installation):'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - pyenv/pyenv: Simple Python version management · GitHub'
+    h1: null
+- url: https://github.com/pyenv/pyenv-virtualenv#installation
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 18
+  - file: _data/archives.yml
+    line: 655
+  source_excerpt: '### Installing pyenv and Elpy
+
+
+    First, [install pyenv](https://github.com/pyenv/pyenv#installation), if you haven''t
+    already. I also recommend the [pyenv-virtualenv plugin](https://github.com/pyenv/pyenv-virtualenv#installation),
+    which lets you manage virtual environments using pyenv.
+
+
+    Once you have pyenv set up and have installed a new version of Python with the
+    `pyenv install <version>` command, you''re ready to [install elpy](https://github.com/jorgenschaefer/elpy#quick-installation):'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - pyenv/pyenv-virtualenv: a pyenv plugin to manage virtualenv (a.k.a.
+      python-virtualenv) · GitHub'
+    h1: null
+- url: https://github.com/smythp
+  found_in:
+  - file: _data/archives.yml
+    line: 665
+  - file: _includes/socials.html
+    line: 2
+  source_excerpt: "  - file: _posts/2015-11-22-killer-apps.md\n    line: 28\n  - file:\
+    \ _data/archives.yml\n    line: 473\n  archive:"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: smythp (Patrick Smyth) · GitHub
+    h1: null
+- url: https://github.com/smythp/blind-hackers
+  found_in:
+  - file: cv.md
+    line: 265
+  - file: _data/archives.yml
+    line: 675
+  source_excerpt: "[Watch video](https://www.youtube.com/watch?v=W8_O3joo4aU)  \n\
+    [View slides](http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html)\
+    \  \n[View notes](https://github.com/smythp/blind-hackers)  \n\n\"DH Box: Building\
+    \ Cloud-Based Infrastructure for the Digital Humanities\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - smythp/blind-hackers: Notes and resources from my talk, Blind
+      Hackers · GitHub'
+    h1: null
+- url: https://github.com/smythp/ebooks-as-applications#ebooks-as-applications
+  found_in:
+  - file: cv.md
+    line: 249
+  - file: _data/archives.yml
+    line: 685
+  source_excerpt: "2017 — Philadelphia, PA  \n[View slides](http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide)\
+    \  \n[View notes](https://github.com/smythp/ebooks-as-applications#ebooks-as-applications)\
+    \  \n\n\"DH Box\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - smythp/ebooks-as-applications: Presentation for MLA 2017 on ebooks
+      as applications · GitHub'
+    h1: null
+- url: https://github.com/smythp/eloud
+  found_in:
+  - file: cv.md
+    line: 442
+  - file: _projects/eloud.md
+    line: 6
+  - file: _data/projects.yml
+    line: 4
+  - file: _data/archives.yml
+    line: 695
+  source_excerpt: "2015 — 2017  \n\nMaintainer, [Eloud screen reader](https://github.com/smythp/eloud)\
+    \  \n2016 - 2017  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - smythp/eloud: Lightweight, interactive screen reader for Emacs
+      · GitHub'
+    h1: null
+- url: https://github.com/smythp/tine
+  found_in:
+  - file: _projects/tine.md
+    line: 6
+  - file: _data/archives.yml
+    line: 709
+  source_excerpt: 'name: Tine
+
+    current: true
+
+    link: https://github.com/smythp/tine
+
+    link_text: View on GitHub
+
+    role: Creator'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - smythp/tine: Drive a GNOME Wayland desktop from AI agents. CLI-first,
+      no portals, no consent dialogs. · GitHub'
+    h1: null
+- url: https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python
+  found_in:
+  - file: cv.md
+    line: 231
+  - file: _data/archives.yml
+    line: 719
+  source_excerpt: "Week-long course, Digital Humanities Summer Institute  \n2018,\
+    \ 2019 - Victoria, British Columbia  \n[View Materials](https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python)\
+    \  \n[#dhsiapi on Twitter](https://x.com/search?q=%2523dhsiapi&src=typd)  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'GitHub - szweibel/DHSI-API-workshop: Web APIs with Python · GitHub'
+    h1: null
+- url: https://humanitiesny.org/
+  found_in:
+  - file: cv.md
+    line: 367
+  - file: _data/archives.yml
+    line: 729
+  source_excerpt: "\nPublic Humanities Fellowship  \n[Humanities New York](https://humanitiesny.org/)\
+    \  \nProject: \"Apps for Activists\"  \n2018-2019  "
+  fetch:
+    http_status: '200'
+    final_url: https://www.humanitiesny.org/
+    title: Humanities New York
+    h1: null
+- url: https://iota-school.github.io/accessibility_hackathon/
+  found_in:
+  - file: cv.md
+    line: 209
+  - file: _data/archives.yml
+    line: 739
+  source_excerpt: "Space Telescope Science Institute  \n2023, Online  \n[Event Page](https://iota-school.github.io/accessibility_hackathon/)\
+    \  \n[Activity page](https://iota-school.github.io/accessibility_hackathon/hack)\
+    \  \n[Event Recording](https://www.youtube.com/watch?v=zskT7leTxXM)  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Space Telescope Science Institute Accessible Notebooks Hackathon
+    h1: Accessible Notebooks Hackathon
+- url: https://iota-school.github.io/accessibility_hackathon/hack
+  found_in:
+  - file: cv.md
+    line: 210
+  - file: _data/archives.yml
+    line: 749
+  source_excerpt: "2023, Online  \n[Event Page](https://iota-school.github.io/accessibility_hackathon/)\
+    \  \n[Activity page](https://iota-school.github.io/accessibility_hackathon/hack)\
+    \  \n[Event Recording](https://www.youtube.com/watch?v=zskT7leTxXM)  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Space Telescope Science Institute Accessible Notebooks Hackathon
+    h1: Notebook Accessibility Minihack
+- url: https://iota-school.github.io/day_accessibility/
+  found_in:
+  - file: cv.md
+    line: 204
+  - file: _data/archives.yml
+    line: 759
+  source_excerpt: "Baltimore, MD  \n[Recordings](https://www.youtube.com/playlist?list=PLCPZgcYzVpj_WHHCTUpec8THYEMzXZnR1)\
+    \  \n[Event Page](https://iota-school.github.io/day_accessibility/)  \n\nAccessible\
+    \ Notebooks Hackathon  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: STScI Day of Accessibility
+    h1: Day of Accessibility
+- url: https://iota-school.github.io/nonvisual_data_science_workshops/
+  found_in:
+  - file: cv.md
+    line: 474
+  - file: _data/archives.yml
+    line: 769
+  source_excerpt: "\n\"Securing the AI/ML Supply Chain\" course launch (Chainguard,\
+    \ July–August 2024)  \n[Nonvisual Data Science Workshops](https://iota-school.github.io/nonvisual_data_science_workshops/),\
+    \ NumFOCUS small development grant (Iota School, January–March 2024, 400+ participants)\
+    \  \nGetting Started with Python (Foundations for Research Computing, Columbia\
+    \ University, spring 2021)  \n\"Pandas: The Bare Basics\" (Columbia Python User\
+    \ Group, fall 2019)  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Nonvisual Data Science Workshops Series
+    h1: Nonvisual Data Science Workshop Series
+- url: https://iotaschool.com/
+  found_in:
+  - file: cv.md
+    line: 40
+  - file: _projects/iota.md
+    line: 5
+  - file: _data/projects.yml
+    line: 11
+  - file: _data/archives.yml
+    line: 779
+  source_excerpt: "\nChief Learner / Principal Consultant  \n[Iota School](https://iotaschool.com/)\
+    \  \nAugust 2021 — March 2025  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Iota School - Accessible Technical Training
+    h1: null
+- url: https://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute
+  found_in:
+  - file: _projects/stsci.md
+    line: 5
+  - file: _projects/stsci.md
+    line: 12
+  - file: _data/archives.yml
+    line: 793
+  source_excerpt: 'current: false
+
+    name: Astronomy Notebooks for All
+
+    link: https://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute
+
+    role: Technical and Accessibility Consultant
+
+    image: stsci_logo.png'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Iota Announces Collaboration with Space Telescope Science Institute - Iota
+    h1: Iota Announces Collaboration with Space Telescope Science Institute
+- url: https://iotaschool.com/subscribe
+  found_in:
+  - file: _projects/iota.md
+    line: 12
+  - file: _data/archives.yml
+    line: 805
+  source_excerpt: "resources:\n - text: Subscribe to the Mailing List\n   link: https://iotaschool.com/subscribe\n\
+    \ - text: Announcing Iota School\n   link: https://publicslab.gc.cuny.edu/introducing-iota-school/"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Iota School - Accessible Technical Training
+    h1: null
+- url: https://jorgenschaefer.github.io/packages/
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 35
+  - file: _data/archives.yml
+    line: 815
+  source_excerpt: "(require 'package)\n(add-to-list 'package-archives\n\t\t\t\t\t\t\
+    \ '(\"elpy\" . \"https://jorgenschaefer.github.io/packages/\"))\n```\n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: null
+    h1: Elpy Package Archive
+- url: https://m.gc.cuny.edu/News/Detail?id=60526
+  found_in:
+  - file: cv.md
+    line: 396
+  - file: _data/archives.yml
+    line: 865
+  source_excerpt: "Astrobites, 2023  \n\n[A Graduate Center Fellowship That Builds\
+    \ Digital Skills Also Yields Jobs for Alumni](https://m.gc.cuny.edu/News/Detail?id=60526)\
+    \  \nCUNY News, 2021  \n"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://numfocus.org/project/pandas
+  found_in:
+  - file: about.md
+    line: 8
+  - file: _data/archives.yml
+    line: 875
+  source_excerpt: 'Dr. Patrick Smyth is a Principal Developer Relations Engineer at
+    [Chainguard](https://www.chainguard.dev/), where he works on AI and software supply
+    chain security. He has presented on ML pipeline and software supply chain security
+    at RSAC, PyCon, and PyTorch and received Best Speaker for a talk on ML security
+    at SwampUP 2024.
+
+
+    In a former life, Patrick ran data science bootcamps for researchers at Columbia
+    University and later founded Iota, a consultancy focused on accessible technical
+    training and infrastructure. Through Iota, he worked with organizations including
+    [Space Telescope Science Institute](https://www.stsci.edu/), [Pandas](https://numfocus.org/project/pandas),
+    and [Sigstore](https://www.sigstore.dev/).
+
+
+    Patrick''s PhD dissertation, [Negotiated Access: Haccessibility, Autonomy, and
+    Infrastructure in the Age of the Abstraction](https://academicworks.cuny.edu/gc_etds/4311/),
+    explores hacking as a way to express autonomy, particularly for the disabled.
+    It received the Alumni and Doctoral Faculty Prize for the Most Distinguished Dissertation
+    of the Year from the PhD program in English at the Graduate Center, CUNY, as well
+    as the prize for Best Prospectus.'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: pandas - NumFOCUS
+    h1: null
+- url: https://nycdh.org/nyc-dh-graduate-student-project-award/
+  found_in:
+  - file: cv.md
+    line: 371
+  - file: _data/archives.yml
+    line: 885
+  source_excerpt: "2018-2019  \n\n[NYCDH Graduate Student Digital Project Award](https://nycdh.org/nyc-dh-graduate-student-project-award/),\
+    \ \"Futures Past Archive\" (Second place)  \n2016  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: NYCDH Graduate Student Project Award | NYC Digital Humanities
+    h1: NYCDH Graduate Student Project Award
+- url: https://programminghistorian.org/lessons/creating-apis-with-python-and-flask
+  found_in:
+  - file: cv.md
+    line: 121
+  - file: _data/archives.yml
+    line: 895
+  source_excerpt: "\"Creating Web APIs with Python and Flask\"  \nProgramming Historian,\
+    \ 2018  \n[Read article](https://programminghistorian.org/lessons/creating-apis-with-python-and-flask)\
+    \  \n\n\"DH Box and Access in the Digital Humanities\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Redirecting&hellip;
+    h1: Redirecting&hellip;
+- url: https://publicslab.gc.cuny.edu/
+  found_in:
+  - file: cv.md
+    line: 49
+  - file: _data/archives.yml
+    line: 905
+  source_excerpt: "\nPostdoctoral Fellow in Humanities Entrepreneurship  \n[Publics\
+    \ Lab](https://publicslab.gc.cuny.edu/)  \nThe Graduate Center, CUNY  \nAugust\
+    \ 2021 — August 2022  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Publics Lab &#8211; Transforming Doctoral Education in the Humanities at
+      the CUNY Graduate Center
+    h1: null
+- url: https://publicslab.gc.cuny.edu/introducing-iota-school/
+  found_in:
+  - file: _projects/iota.md
+    line: 14
+  - file: _data/archives.yml
+    line: 915
+  source_excerpt: "   link: https://iotaschool.com/subscribe\n - text: Announcing\
+    \ Iota School\n   link: https://publicslab.gc.cuny.edu/introducing-iota-school/\n\
+    ---\n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Introducing Iota School &#8211; Publics Lab
+    h1: null
+- url: https://pytorch2024.sched.com/
+  found_in:
+  - file: _posts/2024-09-19-beyond-zero-pytorch.md
+    line: 14
+  - file: _data/archives.yml
+    line: 925
+  source_excerpt: "    link: \"https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/\"\
+    \n  - text: \"PyTorch Conference 2024 schedule\"\n    link: \"https://pytorch2024.sched.com/\"\
+    \n  - text: \"Chainguard's PyTorch image\"\n    link: \"https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'PyTorch Conference 2024: Schedule'
+    h1: null
+- url: https://pyvideo.org/pycon-us-2025/cheese-must-stand-defending-the-python-library-ecosystem-in-2025.html
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 17
+  - file: _data/archives.yml
+    line: 935
+  source_excerpt: "    link: \"https://us.pycon.org/2025/schedule/presentation/98/\"\
+    \n  - text: \"PyVideo\"\n    link: \"https://pyvideo.org/pycon-us-2025/cheese-must-stand-defending-the-python-library-ecosystem-in-2025.html\"\
+    \n  - text: \"LinkedIn (recap)\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7337915286861340675/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'PyVideo.org &middot; Cheese Must Stand: Defending the Python Library Ecosystem
+      in 2025'
+    h1: null
+- url: https://rcfoundations.research.columbia.edu/
+  found_in:
+  - file: cv.md
+    line: 53
+  - file: _projects/foundations.md
+    line: 5
+  - file: _data/projects.yml
+    line: 17
+  - file: _data/archives.yml
+    line: 945
+  source_excerpt: "August 2021 — August 2022  \n\nResearch Software Engineer, [Foundations\
+    \ for Research Computing](https://rcfoundations.research.columbia.edu/)  \nColumbia\
+    \ University  \nJanuary 2019 — August 2021  "
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program
+  found_in:
+  - file: _projects/foundations.md
+    line: 13
+  - file: _projects/foundations.md
+    line: 21
+  - file: _data/archives.yml
+    line: 959
+  source_excerpt: "   link: https://rcfoundations.research.columbia.edu/content/python-user-group\n\
+    \ - text: Curriculum Innovation Grant Program\n   link: https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program\n\
+    ---\n"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://rcfoundations.research.columbia.edu/content/python-user-group
+  found_in:
+  - file: _projects/foundations.md
+    line: 11
+  - file: _projects/foundations.md
+    line: 21
+  - file: _data/archives.yml
+    line: 971
+  source_excerpt: "resources:\n - text: Python User Group\n   link: https://rcfoundations.research.columbia.edu/content/python-user-group\n\
+    \ - text: Curriculum Innovation Grant Program\n   link: https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://red.anthropic.com/2026/mythos-preview/
+  found_in:
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 17
+  - file: _data/archives.yml
+    line: 983
+  source_excerpt: '---
+
+
+    > A remote crash bug landed in OpenBSD in 1998. It stayed there, lurking in a
+    system famous for its security hardening, surviving decades of human review and
+    millions of automated tests. According to [Anthropic''s red team report on Mythos
+    Preview](https://red.anthropic.com/2026/mythos-preview/), the model found the
+    bug, confirmed it, and wrote a working exploit — with no human in the loop. The
+    whole run cost under $50.
+
+
+    I wrote a [post for Chainguard''s Unchained](https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now)
+    talking about ways to think about Mythos and how to build securely in a post-Mythos
+    world.'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Claude Mythos Preview \ red.anthropic.com
+    h1: Assessing Claude Mythos Preview’s cybersecurity capabilities
+- url: https://slsa.dev/
+  found_in:
+  - file: _posts/2025-04-20-boston-csa.md
+    line: 25
+  - file: _data/archives.yml
+    line: 993
+  source_excerpt: '</style>
+
+
+    I spoke at the [Cloud Security Alliance](https://cloudsecurityalliance.org/) Boston
+    chapter this Thursday (April 17th, 2025) on software supply chain security. We
+    defined the space, walked through a couple major incidents, and looked at ways
+    to move forward using the CVE system / scanning and [SLSA](https://slsa.dev/)
+    among other approaches.
+
+
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1"
+    height="263" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: SLSA • Supply-chain Levels for Software Artifacts
+    h1: Safeguarding artifact integrity across any software supply chain
+- url: https://style.mla.org/
+  found_in:
+  - file: _posts/2015-08-06-citing-ebooks.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1003
+  source_excerpt: "\t<p>Most scholars in the humanities avoid using e-books for research.\
+    \ The difficulty is mostly citation—one immediately runs into problems when quoting\
+    \ digital editions, and the solutions proposed by MLA and other major arbiters\
+    \ of style are inelegant at best.</p>\n<p>The primary difficulty lies in determining\
+    \ page numbers. When working from a scanned book, essentially a facsimile of the\
+    \ print edition, finding a page number is not a problem, since pages are of a\
+    \ uniform size across devices and display modes. But flowing text file formats\
+    \ such as .mobi and .epub do not generally display standardized page numbers.\
+    \ Instead, page numbers differ based on font, screen size, text size, and myriad\
+    \ other factors. The result is that every user sees different page numbers, and\
+    \ these numbers are therefore useless in citation.</p>\n<p><a href=\"https://style.mla.org/\"\
+    >MLA recommends</a> that writers use other markers, such as chapter heading, instead\
+    \ of the page number in parenthetical citations and bibliographies. Besides its\
+    \ imprecision, this solution also lacks a certain aesthetic appeal. It&#8217;s\
+    \ a stop-gap fix, and the lack of a proper method of e-book citation leads most\
+    \ academics in the humanities to prefer print books to e-books when conducting\
+    \ serious research.</p>\n<p>Yet there is some hope for those who wish to continue\
+    \ using e-books for writing and research. Here are two workarounds for quoting\
+    \ digital editions:</p>\n<p><b>Google Books Wordaround</b></p>"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: MLA Style Center | MLA Style Center, the only authorized Web site on MLA
+      style, provides free resources on research, writing, and documentation.
+    h1: The MLA Style Center
+- url: https://texhour.github.io/2023/01/19/stem-access-author-reader/
+  found_in:
+  - file: cv.md
+    line: 221
+  - file: _data/archives.yml
+    line: 1013
+  source_excerpt: "TeX Hour Mini-Conference  \n2023, Online  \n[Event page](https://texhour.github.io/2023/01/19/stem-access-author-reader/)\
+    \  \n\n\"The Accessible Laboratory\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'STEM access: From author to reader (talks) | TeX Hour'
+    h1: TeX Hour
+- url: https://text.mla.hcommons.org/
+  found_in:
+  - file: cv.md
+    line: 252
+  - file: _data/archives.yml
+    line: 1023
+  source_excerpt: "\n\"DH Box\"  \n[Open Source Lit, Open Source Crit panel](https://text.mla.hcommons.org/)\
+    \  \nMLA Convention  \n2017 — Philadelphia, PA  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Open Source Lit, Open Source Crit &#8211; MLA 2017 Special Session #s12
+      #mla17'
+    h1: Session Details
+- url: https://us.pycon.org/2025/schedule/presentation/98/
+  found_in:
+  - file: _posts/2025-05-18-cheese-must-stand-pycon.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1033
+  source_excerpt: "    link: \"https://www.youtube.com/watch?v=5cdC5pVkCvU\"\n  -\
+    \ text: \"PyCon US 2025 program\"\n    link: \"https://us.pycon.org/2025/schedule/presentation/98/\"\
+    \n  - text: \"PyVideo\"\n    link: \"https://pyvideo.org/pycon-us-2025/cheese-must-stand-defending-the-python-library-ecosystem-in-2025.html\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: "Cheese Must Stand: Defending the Python Library Ecosystem in 2025\n  \
+      \          \n            \n            - PyCon US 2025"
+    h1: 'Cheese Must Stand: Defending the Python Library Ecosystem in 2025'
+- url: https://vibelympics.splashthat.com/
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 19
+  - file: _data/archives.yml
+    line: 1043
+  source_excerpt: "    link: \"https://github.com/chainguard-demo/vibelympics\"\n\
+    \  - text: \"Vibelympics site\"\n    link: \"https://vibelympics.splashthat.com/\"\
+    \n  - text: \"Finals recap (LinkedIn)\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7407842728111157248/\""
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://wordpress.org/plugins/zotpress/
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 1053
+  source_excerpt: '<h2> Zotero with Plugins and Add-ons</h2>
+
+
+    An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety
+    of plugins</a> that can extend Zotero’s functionality. Whether you want to <a
+    href="https://code.google.com/archive/p/delicious-library-export">import items
+    from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate
+    Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create
+    advanced visualizations</a>, or simply <a href="https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce
+    up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving,
+    displaying, and exporting data.<br><br>
+
+
+    See also:<br>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Zotpress &#8211; WordPress plugin &#124; WordPress.org
+    h1: null
+- url: https://www.chainguard.dev/
+  found_in:
+  - file: cv.md
+    line: 27
+  - file: cv.md
+    line: 36
+  - file: about.md
+    line: 6
+  - file: _projects/chainguard.md
+    line: 6
+  - file: _projects/chainguard.md
+    line: 13
+  - file: _projects/chainguard.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1063
+  source_excerpt: "\nPrincipal Developer Relations Engineer  \n[Chainguard](https://www.chainguard.dev/)\
+    \  \nOctober 2025 — present  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: The trusted source for open source | Chainguard
+    h1: null
+- url: https://www.chainguard.dev/events/assemble-2025
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 21
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 28
+  - file: _data/archives.yml
+    line: 1083
+  source_excerpt: "    link: \"https://www.youtube.com/playlist?list=PLLjvkjPNmuZmGGB1lPRfIujzsVgwvesbt\"\
+    \n  - text: \"Chainguard Assemble\"\n    link: \"https://www.chainguard.dev/events/assemble-2025\"\
+    \n  - text: \"LinkedIn (preview)\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7307799598427746305/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Chainguard Assemble 2025
+    h1: 'Assemble 2025: Opening Keynote'
+- url: https://www.chainguard.dev/events/assemble-2026
+  found_in:
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 15
+  - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
+    line: 23
+  - file: _data/archives.yml
+    line: 1095
+  source_excerpt: "    link: \"https://www.youtube.com/watch?v=DYyEXLwKT2U\"\n  -\
+    \ text: \"Chainguard Assemble 2026\"\n    link: \"https://www.chainguard.dev/events/assemble-2026\"\
+    \n  - text: \"LinkedIn\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7441872654854320128/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Chainguard Assemble 2026
+    h1: null
+- url: https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks
+  found_in:
+  - file: cv.md
+    line: 91
+  - file: _data/archives.yml
+    line: 1107
+  source_excerpt: "\"2026: The Year of AI-Assisted Attacks\"  \nChainguard Unchained,\
+    \ April 2026  \n[Read article](https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks)\
+    \  \n\n\"Attacks Rewritten: Where Malware Enters the Build\" (with Manfred Moser)\
+    \  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: '2026: The year of AI-assisted attacks'
+    h1: '2026: The year of AI-assisted attacks'
+- url: https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build
+  found_in:
+  - file: cv.md
+    line: 95
+  - file: cv.md
+    line: 147
+  - file: _data/archives.yml
+    line: 1117
+  source_excerpt: "\"Attacks Rewritten: Where Malware Enters the Build\" (with Manfred\
+    \ Moser)  \nChainguard Unchained, April 2026  \n[Read article](https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build)\
+    \  \n\n\"Going Deep: Upstream Distros and Hidden CVEs\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Attacks rewritten: Where malware enters the build'
+    h1: 'Attacks rewritten: Where malware enters the build'
+- url: https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves
+  found_in:
+  - file: cv.md
+    line: 99
+  - file: _data/archives.yml
+    line: 1129
+  source_excerpt: "\"Going Deep: Upstream Distros and Hidden CVEs\"  \nChainguard\
+    \ Unchained / Chainguard Research, February 2026  \n[Read article](https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves)\
+    \  \n\n\"The Maturity Gap in ML Pipeline Infrastructure\"  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'Going deep: Upstream distros and hidden CVEs'
+    h1: 'Going deep: Upstream distros and hidden CVEs'
+- url: https://www.chainguard.dev/unchained/key-takeaways-from-chainguard-assemble-2025
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1139
+  source_excerpt: "    link: \"https://www.chainguard.dev/unchained/what-to-expect-at-chainguard-assemble-2025\"\
+    \n  - text: \"Key Takeaways from Assemble 2025\"\n    link: \"https://www.chainguard.dev/unchained/key-takeaways-from-chainguard-assemble-2025\"\
+    \n  - text: \"Assemble 2025 session playlist\"\n    link: \"https://www.youtube.com/playlist?list=PLLjvkjPNmuZmGGB1lPRfIujzsVgwvesbt\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Key Takeaways from Chainguard Assemble 2025
+    h1: Key Takeaways from Chainguard Assemble 2025
+- url: https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now
+  found_in:
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 12
+  - file: _posts/2026-04-27-mythos-zero-days.md
+    line: 19
+  - file: cv.md
+    line: 87
+  - file: _data/archives.yml
+    line: 1149
+  source_excerpt: "resources:\n  - text: \"Chainguard Unchained post\"\n    link:\
+    \ \"https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now\"\
+    \n  - text: \"LinkedIn\"\n    link: \"https://www.linkedin.com/feed/update/urn:li:activity:7454573513572802560/\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Mythos pulls zero-days forward. Here&#x27;s what you need to know now.
+    h1: Mythos pulls zero-days forward. Here&#x27;s what you need to know now.
+- url: https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure
+  found_in:
+  - file: cv.md
+    line: 103
+  - file: _data/archives.yml
+    line: 1163
+  source_excerpt: "\"The Maturity Gap in ML Pipeline Infrastructure\"  \nChainguard\
+    \ Unchained, January 2026  \n[Read article](https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure)\
+    \  \n\n\"The Only Rule: Don't Look at the Code\" (Chainguard Vibelympics retrospective)\
+    \  "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: The maturity gap in ML pipeline infrastructure
+    h1: The maturity gap in ML pipeline infrastructure
+- url: https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code
+  found_in:
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 15
+  - file: _posts/2025-12-29-vibelympics-2025.md
+    line: 28
+  - file: cv.md
+    line: 107
+  - file: _data/archives.yml
+    line: 1173
+  source_excerpt: "    link: \"https://www.youtube.com/watch?v=1YEjCrDcZOc\"\n  -\
+    \ text: \"Chainguard Unchained recap\"\n    link: \"https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code\"\
+    \n  - text: \"Vibelympics repo\"\n    link: \"https://github.com/chainguard-demo/vibelympics\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'The only rule: Don’t look at the code'
+    h1: 'The only rule: Don’t look at the code'
+- url: https://www.chainguard.dev/unchained/what-to-expect-at-chainguard-assemble-2025
+  found_in:
+  - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1187
+  source_excerpt: "    link: \"https://www.youtube.com/watch?v=hmhKWjOyI0U\"\n  -\
+    \ text: \"What to Expect at Assemble 2025 (talk preview)\"\n    link: \"https://www.chainguard.dev/unchained/what-to-expect-at-chainguard-assemble-2025\"\
+    \n  - text: \"Key Takeaways from Assemble 2025\"\n    link: \"https://www.chainguard.dev/unchained/key-takeaways-from-chainguard-assemble-2025\""
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: What to Expect at Chainguard Assemble 2025
+    h1: What to Expect at Chainguard Assemble 2025
+- url: https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 45
+  - file: _data/archives.yml
+    line: 1197
+  source_excerpt: '<p><a href="https://www.zotero.org/support/tips_and_tricks">Zotero
+    Tips and Tricks</a><br />
+
+    <a href="https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html">Geek
+    and Girlie Stuff Guide to Zotero</a><br />
+
+    <a href="https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote">Zotero
+    vs. Endnote</a></p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'ProfHacker: Zotero vs. EndNote'
+    h1: null
+- url: https://www.dhinstitutes.org/
+  found_in:
+  - file: _projects/dri_curriculum.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1207
+  source_excerpt: "   link: https://gcdri.commons.gc.cuny.edu/\n - text: DHRI Site\n\
+    \   link: https://www.dhinstitutes.org/\n - text: DHRIFT (successor curriculum)\n\
+    \   link: https://dhrift.org/"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Digital Humanities Research Institute
+    h1: Further Expanding Digital Humanities Communities of Practice
+- url: https://www.dropbox.com
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 25
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 26
+  - file: _data/archives.yml
+    line: 1217
+  source_excerpt: '<p>Alternatives: <a href="https://coggle.it/">Coggle</a>, <a href="http://www.xmind.net/">XMind</a>.</p>
+
+    <p>Google Drive</p>
+
+    <p>Having a cloud-based system for file management is becoming increasingly important
+    for class management, collaboration, and maintaining backup data. Google Drive
+    (formerly Google Docs) and rival <a href="https://www.dropbox.com">Dropbox</a>
+    solve a number of problems for the modern academic, and the first time you collaborate
+    on a Doc with another research in real time you&#8217;ll be sold on Google&#8217;s
+    technology. On the other hand, services such as <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a>
+    offers more space and more storage and sharing features.</p>
+
+    <p>Alternatives: <a href="https://www.dropbox.com">Dropbox</a>, <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a></p>
+
+    <p>Khan Academy</p>'
+  fetch:
+    http_status: '200'
+    final_url: https://www.dropbox.com/
+    title: Dropbox.com
+    h1: null
+- url: https://www.easybib.com/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1229
+  source_excerpt: '<p><a href="https://www.zotero.org/">Zotero</a> Citation Manager</p>
+
+    <p>Zotero is a citation manager that allows scholars to organize research, create
+    bibliographies, and maintain a personal library. Zotero started out as a Firefox
+    extension, and one of its most impressive features is still its ability to pull
+    full articles and citations from popular databases with one click. The application
+    maintains lists of books and articles that can be readily converted into bibliographies
+    in MLA, APA, or any major citation format. Rival citation manager <a href="http://www.refworks.com/">RefWorks</a>
+    is also worth a look.</p>
+
+    <p>Alternatives: <a href="http://www.refworks.com/">RefWorks</a>, <a href="https://endnote.com/">Endnote</a>.
+    <a href="https://www.easybib.com/">EasyBib</a> for dilitantes or the half-hearted.</p>
+
+    <p><a href="https://calibre-ebook.com/">Calibre</a></p>
+
+    <p>Calibre is a unified ebook management platform that allows users to integrate
+    their ebook libraries, convert ebook files between formats, and transfer ebooks
+    to various devices. It&#8217;s also handy for reading .epub or .mobi files on
+    a PC or Mac without many of the annoying restrictions one encounters on readers
+    from Adobe, Google, or Amazon. Calibre can also be configured to remove pesky
+    DRM from purchased ebooks, although this accessing this functionality requires
+    some tweaking. In any case, Calibre is the perfect organizational tool for those
+    (like me) who use digital books in their research.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'EasyBib®: Free Bibliography Generator - MLA, APA, Chicago citation styles'
+    h1: null
+- url: https://www.enthought.com/
+  found_in:
+  - file: cv.md
+    line: 335
+  - file: _data/archives.yml
+    line: 1239
+  source_excerpt: "\nEnthought Edge Platform Documentation  \n[Enthought](https://www.enthought.com/)\
+    \  \n2023  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Enthought | Purpose-Built AI for Scientific R&amp;D
+    h1: null
+- url: https://www.gc.cuny.edu/
+  found_in:
+  - file: cv.md
+    line: 331
+  - file: _data/archives.yml
+    line: 1249
+  source_excerpt: "\nDigital Humanities Research Infrastructure for Teaching (DHRIFT)\
+    \  \n[The Graduate Center](https://www.gc.cuny.edu/), City University of New York\
+    \  \n2023 — 2024  \n"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy
+  found_in:
+  - file: cv.md
+    line: 20
+  - file: _data/archives.yml
+    line: 1259
+  source_excerpt: "Certified Instructor, [Software Carpentry](https://carpentries.org/about-us/#our-mission),\
+    \ 2017  \n\nCertificate, [Interactive Technology and Pedagogy (ITP)](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy),\
+    \ 2016  \n\n"
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://www.gnu.org/software/emacs/
+  found_in:
+  - file: _posts/2016-04-27-pyenv-elpy.md
+    line: 12
+  - file: _data/archives.yml
+    line: 1269
+  source_excerpt: '---
+
+
+    I use [Emacs](https://www.gnu.org/software/emacs/) to write code in Python. As
+    someone who prefers to use the keyboard over the mouse and who doesn''t mind memorizing
+    key combinations, I''ve found that Emacs is great for managing both small scripts
+    and large projects. Until recently, I''d used the built-in Python mode that comes
+    with Emacs, which did a decent job of handling indentation, whitespace, and some
+    syntax highlighting. While I didn''t have fancy code completion, the built-in
+    dabbrev-expand command in Emacs, which completes words based on context, did a
+    decent job in lieu of real completion. However, I always knew there were good
+    libraries for syntax highlighting, linting, completion, refactoring, project management,
+    and navigation out there, and recently I decided to take the plunge and get a
+    proper Python programming environment set up in Emacs.
+
+
+    I use [pyenv](https://github.com/pyenv/pyenv) to manage Python versions, allowing
+    me to quickly switch between 2.7, 3.5, and Anaconda on a project-by-project basis.
+    Any solution I came up with, therefore, would have to work seamlessly with pyenv.
+    I''d also had the Elpy framework recommended to me as a good library for managing
+    IDE features in Emacs. This post will walk you through the steps of getting Elpy
+    to work with pyenv, and by the end you''ll be able to switch between Python versions
+    while also taking advantage of the cool IDE features afforded by Elpy.'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: GNU Emacs - GNU Project
+    h1: GNU Emacs
+- url: https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 92
+  - file: _data/archives.yml
+    line: 1279
+  source_excerpt: "\n[buffers, windows, and frames on Blasphemous Bits](https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/)\
+    \  \n[Using Multiple Buffers](https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html)\
+    \  \n[Working with Windows and Frames by Hack Emacs](https://www.youtube.com/watch?v=aIMECr7K35Q)\
+    \  \n[\"What's the difference between a buffer, a file, a window, and a frame?\"\
+    \ on StackExchange](https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame)\
+    \   "
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Buffers (GNU Emacs Manual)
+    h1: null
+- url: https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 85
+  - file: _data/archives.yml
+    line: 1289
+  source_excerpt: "Buffers are cool because they break with the idea that everything\
+    \ the computer does has to be currently visible to the user. If you're using,\
+    \ say, iTunes, then there's usually a representation of that program on the screen,\
+    \ even if it's minimized. In Emacs, files and processes can still be open and\
+    \ easily accessible while staying entirely out of your way. \n\nThere are a few\
+    \ other advantages as well. If you're working on a large text file, you can have\
+    \ buffers open to different segments of that file, and with [narrowing](https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html)\
+    \ you can even treat segments of the same file as if they were completely different\
+    \ files in their own right. The consistent buffer interface means that any command\
+    \ that works on one buffer is likely to work on others, which makes buffers easy\
+    \ to manipulate and script.\n\nThat's the weird and wonderful world of Emacs buffers,\
+    \ windows, and frames for you. Drop me a line if you find any of these explanations\
+    \ unclear."
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Narrowing (GNU Emacs Manual)
+    h1: null
+- url: https://www.hikma.studio/
+  found_in:
+  - file: cv.md
+    line: 343
+  - file: _data/archives.yml
+    line: 1299
+  source_excerpt: "\nBadging infrastructure Development Project  \n[Hikma Studio](https://www.hikma.studio/)\
+    \  \n2023 — 2024  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Welcome to Hikma
+    h1: We help&nbsp;scholars and research professionals attract funding, connect
+      with new audiences, and build partnerships.
+- url: https://www.neh.gov/
+  found_in:
+  - file: _projects/neh.md
+    line: 8
+  - file: _projects/neh.md
+    line: 9
+  - file: _projects/neh.md
+    line: 23
+  - file: _data/projects.yml
+    line: 26
+  - file: _data/archives.yml
+    line: 1611
+  source_excerpt: 'role: Creator
+
+    image: neh-impact.jpg
+
+    description: The NEH Impact Index makes visible the impact of the <a href="https://www.neh.gov/">National
+    Endowment for the Humanities</a> on local communities and cultural institutions.
+    Enter a zip code and search radius to find projects funded by the NEH in that
+    region. Projects are color-coded by category to show their impact in areas such
+    as education, preservation, and public programs. Covered in <a href="https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care">PC
+    Magazine</a>.
+
+    description-short: The NEH Impact Index makes visible the impact of the <a href="https://www.neh.gov/">National
+    Endowment for the Humanities</a> on local communities and cultural institutions.
+    Enter a zip code and search radius to find projects funded by the NEH in that
+    region.
+
+    resources:'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: National Endowment for the Humanities
+    h1: null
+- url: https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities
+  found_in:
+  - file: cv.md
+    line: 67
+  - file: _data/archives.yml
+    line: 1627
+  source_excerpt: "\nLead Curriculum Designer, Digital Humanities Research Institute\
+    \  \n[Institutes for Advanced Topics in the Digital Humanities](https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities),\
+    \ NEH grant  \nSeptember 2017 — August 2018  \n[View Website](http://dhinstitutes.org)\
+    \  "
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://www.newgrounds.com/
+  found_in:
+  - file: _posts/2025-04-13-uniquely-annoying-internet.md
+    line: 17
+  - file: _data/archives.yml
+    line: 1637
+  source_excerpt: 'Some different internet eras that I''ve lived through:
+
+
+    - Early 2000s, [Newgrounds](https://www.newgrounds.com/) and weird Flash stuff.
+    This was a surprisingly rich culture and the artifacts are mostly lost in the
+    [great unflashening](https://en.wikipedia.org/wiki/Thoughts_on_Flash). My friends
+    and I had an old school forum on some hidden site we would talk in. Many things
+    were broken but there was a lot of energy.
+
+    - Mid-2000s. This is where you have some of the modern platforms pop up. Early
+    Facebook was dumb but at least not obnoxious, you learned that all your friends
+    liked Napoleon Dynamite and Fight Club. Early Twitter. Bittorrent became a big
+    thing. YouTube had everything on it since they didn''t take anything down.
+
+    - Early 2010s. Cypherpunk, seemed like fighting the man online was a thing for
+    like six months. Only a few people have phones, blogs are still a thing and coexist
+    with Twitter. '
+  fetch:
+    http_status: '403'
+    final_url: null
+    title: null
+    h1: null
+- url: https://www.pbk.org/patrick-smyth
+  found_in:
+  - file: cv.md
+    line: 399
+  - file: _projects/neh.md
+    line: 16
+  - file: _data/archives.yml
+    line: 1647
+  source_excerpt: "CUNY News, 2021  \n\n[Behind the Key — Patrick Smyth](https://www.pbk.org/patrick-smyth)\
+    \  \nPhi Beta Kappa website, 2017  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'PBK - Behind the Key: Patrick Smyth'
+    h1: Patrick Smyth
+- url: https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
+  found_in:
+  - file: _projects/neh.md
+    line: 8
+  - file: _data/projects.yml
+    line: 26
+  - file: _data/archives.yml
+    line: 1659
+  source_excerpt: 'role: Creator
+
+    image: neh-impact.jpg
+
+    description: The NEH Impact Index makes visible the impact of the <a href="https://www.neh.gov/">National
+    Endowment for the Humanities</a> on local communities and cultural institutions.
+    Enter a zip code and search radius to find projects funded by the NEH in that
+    region. Projects are color-coded by category to show their impact in areas such
+    as education, preservation, and public programs. Covered in <a href="https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care">PC
+    Magazine</a>.
+
+    description-short: The NEH Impact Index makes visible the impact of the <a href="https://www.neh.gov/">National
+    Endowment for the Humanities</a> on local communities and cultural institutions.
+    Enter a zip code and search radius to find projects funded by the NEH in that
+    region.
+
+    resources:'
+  fetch:
+    http_status: '200'
+    final_url: https://www.pcmag.com/opinions/trump-budget-slashes-neh-funding-why-you-should-care
+    title: 'Trump Budget Slashes NEH Funding: Why You Should Care | PCMag'
+    h1: null
+- url: https://www.phraseexpress.com/
+  found_in:
+  - file: _posts/2016-03-05-expanders.md
+    line: 22
+  - file: _data/archives.yml
+    line: 1671
+  source_excerpt: '<p>Because I receive, grade, and return papers electronically,
+    I’ve found a method that alleviates some of the tedium of repeating stock phrases
+    over and over. Text expanders are programs that automatically turn small snippets
+    of text (such as “syn1”) to larger phrases (such as “Use a synonym to avoid repetition.”)
+    By loading up a text expander with a library of frequently-used comments, a essay
+    grader can substantially reduce the amount of typing necessary to leave a comment.</p>
+
+    <p>Using a text expander to aid in grading has some substantial advantages. Because
+    leaving certain comments becomes easier, one is less tempted to leave cryptic
+    marks (“?” or “!”) or simply underline text to indicate mistakes. While these
+    corrective marks might seem clear to teachers, they are often baffling to students
+    who might not be familiar with the underlying principles to which these marks
+    refer. By freeing up effort usually spent on addressing common mistakes, one often
+    finds it easier to comment on an essay more holistically, responding to the content
+    of the paper rather than focusing exclusively on form.</p>
+
+    <p>For my own grading, the free version of the <a href="https://www.phraseexpress.com/">PhraseExpress</a>
+    text expander is more than adequate, although faster and more feature-laden expanders
+    such as Texter also exist. In Windows, after installing PhraseExpress, double
+    click its icon in the system tray to bring it up. Hit File &gt; New &gt; Local
+    phrase file to create a new set of phrases that can be backed up and transferred
+    between computers. Then hit CTRL-N to create a new comment template. Type the
+    full version of the comment in the “Phrase Content” box, then add a shortcut phrase
+    (such as “syn1”) to the Autotext box. Hit OK, and repeat for all your frequently
+    used comments. Remember that the short phrase you enter in Autotext should be
+    something you would only type deliberately, or else you will trigger the text
+    expansion automatically.</p>
+
+    <p>Now, as you enter comments in paper, simply type your short Autotext phrase
+    (“syn1”) to automatically generate the longer comment (“Use a synonym to avoid
+    repetition”). I usually add different versions of the same general comment for
+    use within the same paper—“syn2” might fill in as “Use a different word here.”
+    You might also load up your expander with some stock examples—“The boy throws
+    the ball.”—to illuminate concepts such as subject-verb agreement or parallel structure.</p>
+
+    <p>Text expanders can also be invaluable if you often switch between email signatures,
+    such as when switching between administrative and faculty roles.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Autotext - Text Expander - Macro Software
+    h1: Text Expander and Autotext Software
+- url: https://www.reddit.com/user/emacsclient/
+  found_in:
+  - file: _posts/2017-06-01-emacs-buffers.md
+    line: 79
+  - file: _data/archives.yml
+    line: 1681
+  source_excerpt: "\tC-x 5 o\n\t\nto switch between frames. (Thanks to user [emacsclient](https://www.reddit.com/user/emacsclient/)\
+    \ on Reddit for pointing this out.)\n\n# Why Buffers Are Cool<a id=\"orgheadline2\"\
+    ></a>"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Reddit - Please wait for verification
+    h1: null
+- url: https://www.sigstore.dev/
+  found_in:
+  - file: cv.md
+    line: 339
+  - file: about.md
+    line: 8
+  - file: _data/archives.yml
+    line: 1691
+  source_excerpt: "\nGoogle Summer of Documentation Initiative  \n[SigStore](https://www.sigstore.dev/)\
+    \  \n2023 — 2024  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Sigstore
+    h1: null
+- url: https://www.stsci.edu/
+  found_in:
+  - file: cv.md
+    line: 327
+  - file: about.md
+    line: 8
+  - file: _data/archives.yml
+    line: 1703
+  source_excerpt: "\nAstronomy Notebooks for All  \n[Space Telescope Science Institute](https://www.stsci.edu/)\
+    \  \n2022 — 2024  \n"
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Home | STScI
+    h1: null
+- url: https://www.sugarsync.com/#googtrans(en|en
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 25
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 26
+  - file: _data/archives.yml
+    line: 1715
+  source_excerpt: '<p>Alternatives: <a href="https://coggle.it/">Coggle</a>, <a href="http://www.xmind.net/">XMind</a>.</p>
+
+    <p>Google Drive</p>
+
+    <p>Having a cloud-based system for file management is becoming increasingly important
+    for class management, collaboration, and maintaining backup data. Google Drive
+    (formerly Google Docs) and rival <a href="https://www.dropbox.com">Dropbox</a>
+    solve a number of problems for the modern academic, and the first time you collaborate
+    on a Doc with another research in real time you&#8217;ll be sold on Google&#8217;s
+    technology. On the other hand, services such as <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a>
+    offers more space and more storage and sharing features.</p>
+
+    <p>Alternatives: <a href="https://www.dropbox.com">Dropbox</a>, <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a></p>
+
+    <p>Khan Academy</p>'
+  fetch:
+    http_status: '200'
+    final_url: https://www1.sugarsync.com#googtrans(en%7Cen
+    title: Cloud File Sharing, File Sync & Online Backup From Any Device | SugarSync
+      | SugarSync
+    h1: null
+- url: https://www.ted.com/talks
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 28
+  - file: _data/archives.yml
+    line: 1727
+  source_excerpt: '<p>Alternatives: <a href="https://www.dropbox.com">Dropbox</a>,
+    <a href="https://www.sugarsync.com/#googtrans(en|en)">SugarSync</a></p>
+
+    <p>Khan Academy</p>
+
+    <p>Good learners make great teachers, and a number of sites have popped up in
+    recent years that allow easy access to new skills and training. One of my personal
+    favorites is Khan Academy, which offers videos and tutorials on a wide variety
+    of topics. Khan Academy is slowly transforming into a digital learning platform
+    that offers assessment and live tutoring in addition to video lectures. This trend
+    is being followed by other digital learning platforms, including Apple&#8217;s
+    <a href="https://en.wikipedia.org/wiki/ITunes_U">iTunes U</a>. <a href="https://www.ted.com/talks">TED
+    Talks</a> is another accessible way to stay up-to-date on the latest developments
+    inside and outside academia.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: 'TED: Ideas change everything'
+    h1: null
+- url: https://www.zotero.org/
+  found_in:
+  - file: _posts/2015-11-22-killer-apps.md
+    line: 15
+  - file: _data/archives.yml
+    line: 1955
+  source_excerpt: '<p>That&#8217;s why it&#8217;s so nice when an app simply <em>works</em>.
+    These five applications can make some common tasks considerably easier for the
+    modern scholar.</p>
+
+    <p>&nbsp;</p>
+
+    <p><a href="https://www.zotero.org/">Zotero</a> Citation Manager</p>
+
+    <p>Zotero is a citation manager that allows scholars to organize research, create
+    bibliographies, and maintain a personal library. Zotero started out as a Firefox
+    extension, and one of its most impressive features is still its ability to pull
+    full articles and citations from popular databases with one click. The application
+    maintains lists of books and articles that can be readily converted into bibliographies
+    in MLA, APA, or any major citation format. Rival citation manager <a href="http://www.refworks.com/">RefWorks</a>
+    is also worth a look.</p>
+
+    <p>Alternatives: <a href="http://www.refworks.com/">RefWorks</a>, <a href="https://endnote.com/">Endnote</a>.
+    <a href="https://www.easybib.com/">EasyBib</a> for dilitantes or the half-hearted.</p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Zotero | Your personal research assistant
+    h1: Meet Zotero.
+- url: https://www.zotero.org/support/adding_items_to_zotero
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 14
+  - file: _data/archives.yml
+    line: 1965
+  source_excerpt: 'Zotero is an excellent citation manager, but it can be so much
+    more. These underused features allow Zotero users to go beyond simply creating
+    bibliographies, transforming Zotero into a platform for reading, visualizing,
+    and storing academic work.
+
+
+    Most Zotero users know that the citation manager can <a href="https://www.zotero.org/support/adding_items_to_zotero">store
+    local copies of journal articles</a> accessed on repositories such as JSTOR and
+    Project MUSE. However, Zotero can also be used to store and retrieve ebooks that
+    have been saved to your hard drive. In Zotero Standalone, simply right click an
+    entry for a book and select Add Attachment &gt; Attach Stored Copy of File. Navigate
+    to the location where your ebook is saved and double-click to make the book a
+    permanent part of your Zotero library. The ebook will be stored in a separate
+    folder that is backed up along with your Zotero library, so with this feature
+    you can create an ebook collection that moves with you from computer to computer.
+    For an even stronger collection, use an ebook manager such as <a href="https://calibre-ebook.com/">Calibre</a>
+    to convert your ebook to your desired format before storing it in Zotero.
+
+
+    This feature is also a great way to keep track of your own work. Simply create
+    an entry for your paper or publication, and attach a .docx or .pdf of your writing.
+    Whenever you <a href="https://www.zotero.org/support/zotero_data">back up your
+    Zotero library</a>, your past work will also be saved.'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Adding Items to Zotero | Zotero Documentation
+    h1: null
+- url: https://www.zotero.org/support/mobile
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 34
+  - file: _data/archives.yml
+    line: 1975
+  source_excerpt: 'Although it takes some setting up, apps such as Zotero Reader and
+    ZotPad allow you to access your Zotero library even when you’re away from your
+    laptop. This can be invaluable for summer reading, preparing for classes, or quickly
+    refreshing your memory of a colleague’s work at a conference. Check out these
+    tutorials to get yourself up and running on your favorite device:
+
+
+    <p><a href="https://www.zotero.org/support/mobile">Zotero Mobile Documentation</a><br
+    />
+
+    ZotPad Manual<br />
+
+    iPad Workflow: Zotero + Zotfile + ZotPad'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Zotero for Mobile | Zotero Documentation
+    h1: null
+- url: https://www.zotero.org/support/plugins
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 40
+  - file: _data/archives.yml
+    line: 1985
+  source_excerpt: '<h2> Zotero with Plugins and Add-ons</h2>
+
+
+    An active community of developers has created a <a href="https://www.zotero.org/support/plugins">variety
+    of plugins</a> that can extend Zotero’s functionality. Whether you want to <a
+    href="https://code.google.com/archive/p/delicious-library-export">import items
+    from Delicious into Zotero</a>, <a href="https://wordpress.org/plugins/zotpress/">integrate
+    Zotero with WordPress</a>, <a href="https://github.com/papermachines/papermachines">create
+    advanced visualizations</a>, or simply <a href="https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/">spruce
+    up Zotero’s GUI</a>, these add-ons can turn Zotero into a versatile tool for saving,
+    displaying, and exporting data.<br><br>
+
+
+    See also:<br>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Plugins for Zotero | Zotero Documentation
+    h1: null
+- url: https://www.zotero.org/support/tips_and_tricks
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 43
+  - file: _data/archives.yml
+    line: 1995
+  source_excerpt: '
+
+    See also:<br>
+
+    <p><a href="https://www.zotero.org/support/tips_and_tricks">Zotero Tips and Tricks</a><br
+    />
+
+    <a href="https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html">Geek
+    and Girlie Stuff Guide to Zotero</a><br />
+
+    <a href="https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote">Zotero
+    vs. Endnote</a></p>'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: Tips and Tricks | Zotero Documentation
+    h1: null
+- url: https://www.zotero.org/support/zotero_data
+  found_in:
+  - file: _posts/2016-03-03-underrated-zotero.md
+    line: 16
+  - file: _data/archives.yml
+    line: 2005
+  source_excerpt: 'Most Zotero users know that the citation manager can <a href="https://www.zotero.org/support/adding_items_to_zotero">store
+    local copies of journal articles</a> accessed on repositories such as JSTOR and
+    Project MUSE. However, Zotero can also be used to store and retrieve ebooks that
+    have been saved to your hard drive. In Zotero Standalone, simply right click an
+    entry for a book and select Add Attachment &gt; Attach Stored Copy of File. Navigate
+    to the location where your ebook is saved and double-click to make the book a
+    permanent part of your Zotero library. The ebook will be stored in a separate
+    folder that is backed up along with your Zotero library, so with this feature
+    you can create an ebook collection that moves with you from computer to computer.
+    For an even stronger collection, use an ebook manager such as <a href="https://calibre-ebook.com/">Calibre</a>
+    to convert your ebook to your desired format before storing it in Zotero.
+
+
+    This feature is also a great way to keep track of your own work. Simply create
+    an entry for your paper or publication, and attach a .docx or .pdf of your writing.
+    Whenever you <a href="https://www.zotero.org/support/zotero_data">back up your
+    Zotero library</a>, your past work will also be saved.
+
+
+    ## Create a Timeline of Your Past Work'
+  fetch:
+    http_status: '200'
+    final_url: null
+    title: The Zotero Data Directory | Zotero Documentation
+    h1: null

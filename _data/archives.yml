@@ -16,6 +16,12 @@
     local: null
   archived_at: '2026-05-14T20:56:16+00:00'
   status: archived
+  notes:
+    singlefile: 'error: no output file'
+  triage:
+    verdict: unsure
+    reason: Server returned 403 with no title or h1; cannot verify whether the dh+lib
+      article content still exists or has been restricted.
 - url: http://dhbox.org/
   found_in:
   - file: cv.md
@@ -30,8 +36,13 @@
       timestamp: '20260317115229'
     archive_ph: null
     local: null
+    singlefile: null
   archived_at: '2026-05-14T20:56:16+00:00'
-  status: archived
+  status: pending
+  triage:
+    verdict: squatted
+    reason: Source links to a CUNY Graduate Center DH-tool project; current page is
+      an Indonesian Clash-of-Clans-style mobile game ad.
 - url: http://dhinstitutes.org
   found_in:
   - file: cv.md
@@ -42,10 +53,19 @@
     wayback: null
     archive_ph: null
     local: null
+    singlefile:
+      path: /home/patrick/projects/hoard/smythp/singlefile/9b8df1818c081d46.html
+      url_hash: 9b8df1818c081d46
+      size_bytes: 6104261
+      captured_at: '2026-05-14T21:31:10+00:00'
   archived_at: null
-  status: pending
+  status: archived
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: redirected_legit
+    reason: Redirected from bare domain to www subdomain; title and h1 confirm it
+      is still the Digital Humanities Research Institute site.
 - url: http://freemind.sourceforge.net/wiki/index.php/Main_Page
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -60,6 +80,10 @@
     local: null
   archived_at: '2026-05-14T20:56:16+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: Redirected to HTTPS but returned 403 with no title or h1; cannot confirm
+      whether the FreeMind wiki content is still present.
 - url: http://gcdigitalfellows.github.io/
   found_in:
   - file: _posts/2016-05-23-good-workshops.md
@@ -76,6 +100,10 @@
     local: null
   archived_at: '2026-05-14T20:56:17+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Welcome to the GC Digital Research Institute" and h1 "GC Digital
+      Research Institute" match the source context exactly.
 - url: http://htmlpreview.github.io/?https://github.com/smythp/blind-hackers/blob/master/presentation/foo.html
   found_in:
   - file: cv.md
@@ -90,6 +118,10 @@
     local: null
   archived_at: '2026-05-14T20:56:16+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: Agent saw htmlpreview.github.io landing page; the actual linked presentation
+      does render in a browser. Manual review.
 - url: http://htmlpreview.github.io/?https://github.com/smythp/ebooks-as-applications/blob/master/presentation.html#/sec-title-slide
   found_in:
   - file: cv.md
@@ -104,6 +136,10 @@
     local: null
   archived_at: '2026-05-14T20:56:17+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: Agent saw htmlpreview.github.io landing page; the actual linked presentation
+      does render in a browser. Manual review.
 - url: http://htmlpreview.github.io/?https://github.com/smythp/security-workshop/blob/master/presentation/index.html#/sec-title-slide
   found_in:
   - file: cv.md
@@ -118,6 +154,10 @@
     local: null
   archived_at: '2026-05-14T20:56:21+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: Agent saw htmlpreview.github.io landing page; the actual linked presentation
+      does render in a browser. Manual review.
 - url: http://nehimpact.org/
   found_in:
   - file: _projects/neh.md
@@ -132,6 +172,10 @@
     local: null
   archived_at: '2026-05-14T20:56:20+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https; title "Home - NEH Impact Index" matches the
+      source context for the NEH Impact Index project.
 - url: http://nehimpact.org/about
   found_in:
   - file: _projects/neh.md
@@ -146,6 +190,10 @@
     local: null
   archived_at: '2026-05-14T20:56:17+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https; title "About - NEH Impact Index" and h1 "About"
+      match the expected About page for the project.
 - url: http://nyacc.org/
   found_in:
   - file: cv.md
@@ -160,6 +208,10 @@
     local: null
   archived_at: '2026-05-14T20:56:18+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https; title "New York Amateur Computer Club, Inc."
+      matches the source context exactly.
 - url: http://www.aiip.org/
   found_in:
   - file: cv.md
@@ -174,6 +226,10 @@
     local: null
   archived_at: '2026-05-14T20:56:17+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https with domain simplification; title "Association
+      of Independent Information Professionals (AIIP)" matches the source context.
 - url: http://www.nehimpact.org/
   found_in:
   - file: cv.md
@@ -194,6 +250,10 @@
     local: null
   archived_at: '2026-05-14T20:56:21+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https; title "Home - NEH Impact Index" matches the
+      NEH Impact Index project referenced in source.
 - url: http://www.nehimpact.org/faq
   found_in:
   - file: cv.md
@@ -208,6 +268,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https; title "FAQ - NEH Impact Index" and h1 "FAQ"
+      match the expected FAQ page for the project.
 - url: http://www.npr.org/2017/03/16/520379061/read-president-trumps-budget-blueprint
   found_in:
   - file: _projects/neh.md
@@ -222,6 +286,10 @@
     local: null
   archived_at: '2026-05-14T20:56:19+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected http to https; title confirms it is still the NPR article about
+      Trump's 2018 budget blueprint referenced in source.
 - url: http://www.pcmag.com/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
   found_in:
   - file: cv.md
@@ -240,6 +308,10 @@
     local: null
   archived_at: '2026-05-14T20:56:19+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: 'Redirected to a restructured PCMag URL; title "Trump Budget Slashes NEH
+      Funding: Why You Should Care | PCMag" matches the article referenced in source.'
 - url: http://www.refworks.com/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -256,6 +328,10 @@
     local: null
   archived_at: '2026-05-14T20:56:20+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: RefWorks redirected to ProQuest's RefWorks learn-more page after acquisition;
+      content is still about RefWorks as a citation manager.
 - url: http://www.w3.org/2000/svg
   found_in:
   - file: _data/archives.yml
@@ -270,6 +346,10 @@
     local: null
   archived_at: '2026-05-14T20:56:21+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: This is an SVG XML namespace URI rather than a content page, and the 403
+      response with no title provides no signal to evaluate.
 - url: http://www.writingstudiestree.org/
   found_in:
   - file: cv.md
@@ -284,6 +364,10 @@
     local: null
   archived_at: '2026-05-14T20:56:22+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected to https with a /live/ path; title "Writing Studies Tree" matches
+      the CUNY Graduate Center project referenced in source.
 - url: http://www.xmind.net/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -298,6 +382,10 @@
     local: null
   archived_at: '2026-05-14T20:56:22+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected from old domain xmind.net to xmind.com; title "Xmind - Mind
+      Map & Brainstorm Tool" matches the mind-mapping app referenced in source.
 - url: https://2025.allthingsopen.org/sessions/frankenpipe-bringing-secure-ml-pipelines-to-life
   found_in:
   - file: cv.md
@@ -312,6 +400,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title and h1 match the "Frankenpipe" session at All Things Open 2025 exactly
+      as referenced in source.
 - url: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5363&context=gc_etds
   found_in:
   - file: _projects/negotiated_access.md
@@ -326,6 +418,10 @@
     local: null
   archived_at: '2026-05-14T20:56:21+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: Server returned 202 Accepted with no title or h1; cannot confirm the dissertation
+      PDF is being served correctly.
 - url: https://academicworks.cuny.edu/gc_etds/4311/
   found_in:
   - file: about.md
@@ -342,6 +438,10 @@
     local: null
   archived_at: '2026-05-14T20:56:24+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title confirms it is Patrick Smyth's dissertation "Negotiated Access"
+      on CUNY Academic Works, matching the source context exactly.
 - url: https://apps.mla.org/program_details?prog_id=75&year=2017
   found_in:
   - file: cv.md
@@ -356,6 +456,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: redirected_legit
+    reason: Redirected to a restructured MLA URL preserving the same prog_id and year;
+      title "Session Details" is consistent with a conference panel page.
 - url: https://astrobites.org/2023/06/10/notebooks-for-all/
   found_in:
   - file: cv.md
@@ -370,6 +474,10 @@
     local: null
   archived_at: '2026-05-14T20:56:22+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "Notebooks For All: Making Jupyter Notebooks More Accessible |
+      astrobites" matches the source reference exactly.'
 - url: https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/
   found_in:
   - file: _posts/2017-06-01-emacs-buffers.md
@@ -384,6 +492,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: 'Title "Learning emacs part 4: buffers, windows, and frames – Blasphemous
+      Bits" matches the source link anchor text exactly.'
 - url: https://books.google.com/
   found_in:
   - file: _posts/2015-08-06-citing-ebooks.md
@@ -398,6 +510,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: 'Title "Google Books: Find, Preview, and Read Books Online." matches the
+      Google Books service referenced in source.'
 - url: https://calibre-ebook.com/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -414,6 +530,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "calibre - E-book management" matches the Calibre ebook tool referenced
+      in source.
 - url: https://carpentries.org/
   found_in:
   - file: _projects/foundations.md
@@ -428,6 +548,10 @@
     local: null
   archived_at: '2026-05-14T20:56:23+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "The Carpentries" and H1 confirm the organization that trains Software
+      Carpentry instructors, matching the source context exactly.
 - url: https://carpentries.org/about-us/#our-mission
   found_in:
   - file: cv.md
@@ -442,6 +566,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "About Us | The Carpentries" matches the source's use of this URL
+      for a Software Carpentry instructor certification credential.
 - url: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
   found_in:
   - file: _data/archives.yml
@@ -456,6 +584,10 @@
     local: null
   archived_at: '2026-05-14T20:56:25+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: CDN returns 200 for a JS file; no title/h1 expected, and the URL structure
+      confirms it is serving the expected Bootstrap 5.1.3 bundle.
 - url: https://chainguard.registration.goldcast.io/webinar/92f51147-f099-4efb-8247-4410a2847355
   found_in:
   - file: _posts/2026-05-05-supply-chain-attack-takeaways-webinar.md
@@ -472,6 +604,10 @@
     local: null
   archived_at: '2026-05-14T20:56:25+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Registration URL redirected to the same event's on-demand replay on the
+      same Goldcast platform after the May 12 webinar concluded.
 - url: https://cloudsecurityalliance.org/
   found_in:
   - file: _posts/2025-04-20-boston-csa.md
@@ -486,6 +622,10 @@
     local: null
   archived_at: '2026-05-14T20:56:26+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Home | CSA" confirms this is still the Cloud Security Alliance
+      organization homepage referenced in the source.
 - url: https://code.google.com/archive/p/delicious-library-export
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -500,6 +640,10 @@
     local: null
   archived_at: '2026-05-14T20:56:26+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Google Code Archive - Long-term storage for Google Code Project
+      Hosting" confirms the archived project page is still accessible.
 - url: https://coggle.it/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -514,6 +658,10 @@
     local: null
   archived_at: '2026-05-14T20:56:27+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and H1 confirm Coggle is still a mind mapping tool, matching the
+      source's use of it as a FreeMind alternative.
 - url: https://dev.to/chainguard/deep-dive-where-does-grype-data-come-from-n9e
   found_in:
   - file: cv.md
@@ -528,6 +676,10 @@
     local: null
   archived_at: '2026-05-14T20:56:26+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "Deep Dive 🤿: Where Does Grype Data Come From? - DEV Community"
+      matches the article title in the source exactly.'
 - url: https://dev.to/chainguard/securely-containerize-a-python-application-with-chainguard-images-bn8
   found_in:
   - file: cv.md
@@ -542,6 +694,9 @@
     local: null
   archived_at: '2026-05-14T20:56:27+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and H1 match the article name in the source excerpt exactly.
 - url: https://dhbox.org/
   found_in:
   - file: cv.md
@@ -558,6 +713,10 @@
     local: null
   archived_at: '2026-05-14T20:56:27+00:00'
   status: archived
+  triage:
+    verdict: squatted
+    reason: Source links to a CUNY Digital Humanities lab tool; current page title
+      is "Epic Clan War - Perang Clan Penuh Strategi," a mobile game ad.
 - url: https://dhrift.org/
   found_in:
   - file: _projects/dri_curriculum.md
@@ -572,6 +731,10 @@
     local: null
   archived_at: '2026-05-14T20:56:28+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "DHRIFT" and H1 "Introducing DHRIFT" match the source's link to
+      the DHRIFT successor curriculum project.
 - url: https://digitalfellows.commons.gc.cuny.edu/2017/04/10/exploring-the-local-impact-of-the-neh-neh-impact-index/
   found_in:
   - file: cv.md
@@ -588,6 +751,10 @@
     local: null
   archived_at: '2026-05-14T20:56:28+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 — CUNY commons bot-blocks; page likely alive. Manual verification
+      needed.
 - url: https://digitalfellows.commons.gc.cuny.edu/?team=hannah-aizenman
   found_in:
   - file: _posts/2016-05-23-good-workshops.md
@@ -602,6 +769,10 @@
     local: null
   archived_at: '2026-05-14T20:56:28+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 — CUNY commons bot-blocks; page likely alive. Manual verification
+      needed.
 - url: https://edu.chainguard.dev/chainguard/chainguard-images/about/beyond_zero_pytorch_2024/
   found_in:
   - file: _posts/2024-09-19-beyond-zero-pytorch.md
@@ -618,6 +789,10 @@
     local: null
   archived_at: '2026-05-14T20:56:28+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title confirms "Beyond Zero: Eliminating Vulnerabilities in PyTorch Container
+      Images (PyTorch 2024)" on Chainguard Academy, matching the source.'
 - url: https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/
   found_in:
   - file: _posts/2024-09-19-beyond-zero-pytorch.md
@@ -632,6 +807,10 @@
     local: null
   archived_at: '2026-05-14T20:56:29+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Getting Started with the PyTorch Chainguard Container — Chainguard
+      Academy" matches the source's link for Chainguard's PyTorch image documentation.
 - url: https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame
   found_in:
   - file: _posts/2017-06-01-emacs-buffers.md
@@ -646,6 +825,10 @@
     local: null
   archived_at: '2026-05-14T20:56:29+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title matches the linked StackExchange question about Emacs buffers, files,
+      windows, and frames exactly.
 - url: https://en.wikipedia.org/wiki/ITunes_U
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -660,6 +843,11 @@
     local: null
   archived_at: '2026-05-14T20:56:29+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: URL targets the iTunes U article but title and H1 say "iTunes Store,"
+      suggesting the article was merged or redirected within Wikipedia, but no HTTP
+      redirect was recorded.
 - url: https://en.wikipedia.org/wiki/Thoughts_on_Flash
   found_in:
   - file: _posts/2025-04-13-uniquely-annoying-internet.md
@@ -674,6 +862,10 @@
     local: null
   archived_at: '2026-05-14T20:56:31+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Thoughts on Flash - Wikipedia" matches the linked article about
+      Apple's open letter on Flash.
 - url: https://endnote.com/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -688,6 +880,10 @@
     local: null
   archived_at: '2026-05-14T20:56:29+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "EndNote - The Best Citation & Reference Management Tool" confirms
+      the site still serves the citation manager referenced in the source.
 - url: https://forums.zotero.org/discussion/18166/zotero-item-history-plugin/
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -702,6 +898,10 @@
     local: null
   archived_at: '2026-05-14T20:56:30+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and H1 "Zotero Item History [plugin]" match the forum thread linked
+      for a Zotero GUI plugin.
 - url: https://fosstodon.org/@patric
   found_in:
   - file: _data/archives.yml
@@ -716,6 +916,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "Patrick Smyth (@patric@fosstodon.org) - Fosstodon" confirms the
+      profile page belongs to the blog author.
 - url: https://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities
   found_in:
   - file: cv.md
@@ -730,6 +934,10 @@
     local: null
   archived_at: '2026-05-14T20:56:30+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 — CUNY commons bot-blocks; page likely alive. Manual verification
+      needed.
 - url: https://gcdi.commons.gc.cuny.edu/
   found_in:
   - file: _projects/neh.md
@@ -744,6 +952,10 @@
     local: null
   archived_at: '2026-05-14T20:56:30+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 — CUNY commons bot-blocks; page likely alive. Manual verification
+      needed.
 - url: https://gcdri.commons.gc.cuny.edu/
   found_in:
   - file: _projects/dri_curriculum.md
@@ -758,6 +970,10 @@
     local: null
   archived_at: '2026-05-14T20:56:30+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 — CUNY commons bot-blocks; page likely alive. Manual verification
+      needed.
 - url: https://geekandgirliestuff.blogspot.com/2013/03/going-all-in-with-zotero-zotpad-and.html
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -772,6 +988,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: 'Title "Geek & Girlie Stuff: going ''all in'' with Zotero, Zotpad, and
+      Zotfile" matches the linked Zotero guide in the source.'
 - url: https://github.com/DH-Box/dhbox
   found_in:
   - file: _projects/dh_box.md
@@ -786,6 +1006,10 @@
     local: null
   archived_at: '2026-05-14T20:56:31+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "GitHub - DH-Box/dhbox: A push-button Digital Humanities laboratory."
+      confirms the DH Box GitHub repository linked in the source.'
 - url: https://github.com/DHRI-Curriculum
   found_in:
   - file: cv.md
@@ -802,6 +1026,10 @@
     local: null
   archived_at: '2026-05-14T20:56:31+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Digital Humanities Research Institute · GitHub" matches the DHRI
+      curriculum GitHub organization linked in the source.
 - url: https://github.com/Iota-School/notebooks-for-all
   found_in:
   - file: _projects/stsci.md
@@ -816,6 +1044,10 @@
     local: null
   archived_at: '2026-05-14T20:56:32+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title confirms the Iota-School/notebooks-for-all GitHub repository linked
+      as the project repository in the source.
 - url: https://github.com/chainguard-demo/ml-pipeline-security
   found_in:
   - file: _posts/2026-03-27-rsac-ml-pipelines.md
@@ -830,6 +1062,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title matches exactly — GitHub repo for ML Pipeline Security Learning
+      Lab at RSAC 2026, which is what the source links as workshop materials.
 - url: https://github.com/chainguard-demo/vibelympics
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -844,6 +1080,10 @@
     local: null
   archived_at: '2026-05-14T20:56:31+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title matches — GitHub repo for Vibelympics tournament, consistent with
+      the source's "Vibelympics repo" anchor text.
 - url: https://github.com/jorgenschaefer/elpy#quick-installation
   found_in:
   - file: _posts/2016-04-27-pyenv-elpy.md
@@ -858,6 +1098,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title identifies the repo as "Emacs Python Development Environment," matching
+      the source's reference to installing Elpy.
 - url: https://github.com/papermachines/papermachines
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -872,6 +1116,11 @@
     local: null
   archived_at: '2026-05-14T20:56:32+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title confirms this is still the papermachines Zotero extension for DH
+      visualization, matching the source context exactly (now marked unmaintained
+      but still the same project).
 - url: https://github.com/pyenv/pyenv
   found_in:
   - file: _posts/2016-04-27-pyenv-elpy.md
@@ -886,6 +1135,10 @@
     local: null
   archived_at: '2026-05-14T20:56:32+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Simple Python version management" matches the source's description
+      of pyenv as a Python version manager.
 - url: https://github.com/pyenv/pyenv#installation
   found_in:
   - file: _posts/2016-04-27-pyenv-elpy.md
@@ -900,6 +1153,10 @@
     local: null
   archived_at: '2026-05-14T20:56:32+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Page is the pyenv GitHub repo with an installation anchor, matching the
+      source's "install pyenv" link.
 - url: https://github.com/pyenv/pyenv-virtualenv#installation
   found_in:
   - file: _posts/2016-04-27-pyenv-elpy.md
@@ -914,6 +1171,10 @@
     local: null
   archived_at: '2026-05-14T20:56:32+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title confirms this is the pyenv-virtualenv plugin repo, matching the
+      source's reference to the pyenv-virtualenv plugin.
 - url: https://github.com/smythp
   found_in:
   - file: _data/archives.yml
@@ -928,6 +1189,10 @@
     local: null
   archived_at: '2026-05-14T20:56:36+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "smythp (Patrick Smyth) · GitHub" confirms this is the blog author's
+      own GitHub profile.
 - url: https://github.com/smythp/blind-hackers
   found_in:
   - file: cv.md
@@ -942,6 +1207,10 @@
     local: null
   archived_at: '2026-05-14T20:56:33+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title matches — repo described as "Notes and resources from my talk, Blind
+      Hackers," consistent with the source's "View notes" link for that talk.
 - url: https://github.com/smythp/ebooks-as-applications#ebooks-as-applications
   found_in:
   - file: cv.md
@@ -956,6 +1225,10 @@
     local: null
   archived_at: '2026-05-14T20:56:33+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title confirms this is the MLA 2017 ebooks-as-applications presentation
+      repo, matching the source's "View notes" link.
 - url: https://github.com/smythp/eloud
   found_in:
   - file: cv.md
@@ -974,6 +1247,10 @@
     local: null
   archived_at: '2026-05-14T20:56:33+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Lightweight, interactive screen reader for Emacs" matches the source's
+      reference to the Eloud screen reader.
 - url: https://github.com/smythp/tine
   found_in:
   - file: _projects/tine.md
@@ -988,6 +1265,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title matches the tine project repo for driving a GNOME Wayland desktop
+      from AI agents, consistent with the project link.
 - url: https://github.com/szweibel/DHSI-API-workshop#web-apis-with-python
   found_in:
   - file: cv.md
@@ -1002,6 +1283,10 @@
     local: null
   archived_at: '2026-05-14T20:56:33+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Web APIs with Python" matches the source's DHSI API workshop materials
+      link.
 - url: https://humanitiesny.org/
   found_in:
   - file: cv.md
@@ -1016,6 +1301,10 @@
     local: null
   archived_at: '2026-05-14T20:56:34+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected from humanitiesny.org to www.humanitiesny.org; title "Humanities
+      New York" matches the source's fellowship link.
 - url: https://iota-school.github.io/accessibility_hackathon/
   found_in:
   - file: cv.md
@@ -1030,6 +1319,10 @@
     local: null
   archived_at: '2026-05-14T20:56:34+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 confirm this is the STScI Accessible Notebooks Hackathon
+      event page, matching the source exactly.
 - url: https://iota-school.github.io/accessibility_hackathon/hack
   found_in:
   - file: cv.md
@@ -1044,6 +1337,10 @@
     local: null
   archived_at: '2026-05-14T20:56:34+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title is the hackathon site and h1 "Notebook Accessibility Minihack" matches
+      the source's "Activity page" link for the hackathon.
 - url: https://iota-school.github.io/day_accessibility/
   found_in:
   - file: cv.md
@@ -1058,6 +1355,10 @@
     local: null
   archived_at: '2026-05-14T20:56:34+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "STScI Day of Accessibility" and h1 "Day of Accessibility" match
+      the source's event page link.
 - url: https://iota-school.github.io/nonvisual_data_science_workshops/
   found_in:
   - file: cv.md
@@ -1072,6 +1373,10 @@
     local: null
   archived_at: '2026-05-14T20:56:34+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 confirm this is the Nonvisual Data Science Workshop Series,
+      matching the source's reference to this NumFOCUS-funded project.
 - url: https://iotaschool.com/
   found_in:
   - file: cv.md
@@ -1090,6 +1395,10 @@
     local: null
   archived_at: '2026-05-14T20:56:35+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Iota School - Accessible Technical Training" matches the source's
+      reference to Iota School.
 - url: https://iotaschool.com/resource/iota/u/patrick/i/iota-announces-collaboration-with-space-telescope-science-institute
   found_in:
   - file: _projects/stsci.md
@@ -1106,6 +1415,10 @@
     local: null
   archived_at: '2026-05-14T20:56:35+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 confirm the Iota/STScI collaboration announcement, matching
+      the source project link for Astronomy Notebooks for All.
 - url: https://iotaschool.com/subscribe
   found_in:
   - file: _projects/iota.md
@@ -1120,6 +1433,10 @@
     local: null
   archived_at: '2026-05-14T20:56:35+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Page returns 200 on the iotaschool.com domain with the site title; no
+      redirect or error signal, consistent with a subscribe page on the same site.
 - url: https://jorgenschaefer.github.io/packages/
   found_in:
   - file: _posts/2016-04-27-pyenv-elpy.md
@@ -1134,6 +1451,10 @@
     local: null
   archived_at: '2026-05-14T20:56:35+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: h1 "Elpy Package Archive" matches exactly what the source uses this URL
+      for — an Emacs package archive entry for Elpy.
 - url: https://lnkd.in/dXwRpq3g
   found_in:
   - file: _drafts/2026-04-06-the-trivy-supply-chain-attack-had-a-simple-root.md
@@ -1148,6 +1469,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://lnkd.in/eDbuK_3u
   found_in:
   - file: _drafts/2026-04-22-something-big-has-changed-in-the-last-year.md
@@ -1162,6 +1484,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://lnkd.in/eTVNZa3D
   found_in:
   - file: _drafts/2026-04-14-in-february-2025-three-teens-hit-rakuten-mobile.md
@@ -1176,6 +1499,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://lnkd.in/gq2vjcFZ
   found_in:
   - file: _drafts/2026-04-28-how-are-you-feeling-when-incidents-fire-drills.md
@@ -1190,6 +1514,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://m.gc.cuny.edu/News/Detail?id=60526
   found_in:
   - file: cv.md
@@ -1204,6 +1529,10 @@
     local: null
   archived_at: '2026-05-14T20:56:37+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 — CUNY commons bot-blocks; page likely alive. Manual verification
+      needed.
 - url: https://numfocus.org/project/pandas
   found_in:
   - file: about.md
@@ -1218,6 +1547,10 @@
     local: null
   archived_at: '2026-05-14T20:56:36+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "pandas - NumFOCUS" matches the source's reference to Pandas as
+      an organization Patrick worked with through Iota.
 - url: https://nycdh.org/nyc-dh-graduate-student-project-award/
   found_in:
   - file: cv.md
@@ -1232,6 +1565,10 @@
     local: null
   archived_at: '2026-05-14T20:56:37+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 "NYCDH Graduate Student Project Award" match the source's
+      award link exactly.
 - url: https://programminghistorian.org/lessons/creating-apis-with-python-and-flask
   found_in:
   - file: cv.md
@@ -1246,6 +1583,10 @@
     local: null
   archived_at: '2026-05-14T20:56:39+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: Page returns 200 but both title and h1 are "Redirecting…" with no recorded
+      final_url, indicating a client-side redirect to an unknown destination.
 - url: https://publicslab.gc.cuny.edu/
   found_in:
   - file: cv.md
@@ -1260,6 +1601,10 @@
     local: null
   archived_at: '2026-05-14T20:56:37+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title confirms this is the Publics Lab at CUNY Graduate Center, matching
+      the source's postdoctoral fellowship reference.
 - url: https://publicslab.gc.cuny.edu/introducing-iota-school/
   found_in:
   - file: _projects/iota.md
@@ -1274,6 +1619,10 @@
     local: null
   archived_at: '2026-05-14T20:56:37+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Introducing Iota School – Publics Lab" matches the source's "Announcing
+      Iota School" link.
 - url: https://pytorch2024.sched.com/
   found_in:
   - file: _posts/2024-09-19-beyond-zero-pytorch.md
@@ -1288,6 +1637,10 @@
     local: null
   archived_at: '2026-05-14T20:56:38+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "PyTorch Conference 2024: Schedule" matches the source anchor text
+      "PyTorch Conference 2024 schedule" exactly.'
 - url: https://pyvideo.org/pycon-us-2025/cheese-must-stand-defending-the-python-library-ecosystem-in-2025.html
   found_in:
   - file: _posts/2025-05-18-cheese-must-stand-pycon.md
@@ -1302,6 +1655,10 @@
     local: null
   archived_at: '2026-05-14T20:56:38+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title matches the talk title and context; page is serving the PyVideo
+      recording for this PyCon 2025 presentation.
 - url: https://rcfoundations.research.columbia.edu/
   found_in:
   - file: cv.md
@@ -1320,6 +1677,10 @@
     local: null
   archived_at: '2026-05-14T20:56:40+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; cannot verify content, though domain is
+      consistent with Columbia University's research computing unit.
 - url: https://rcfoundations.research.columbia.edu/content/foundations-curriculum-innovation-grant-program
   found_in:
   - file: _projects/foundations.md
@@ -1336,6 +1697,10 @@
     local: null
   archived_at: '2026-05-14T20:56:38+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; cannot verify whether the curriculum grant
+      program page still exists.
 - url: https://rcfoundations.research.columbia.edu/content/python-user-group
   found_in:
   - file: _projects/foundations.md
@@ -1352,6 +1717,10 @@
     local: null
   archived_at: '2026-05-14T20:56:39+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; cannot verify whether the Python User Group
+      page still exists.
 - url: https://red.anthropic.com/2026/mythos-preview/
   found_in:
   - file: _posts/2026-04-27-mythos-zero-days.md
@@ -1366,6 +1735,10 @@
     local: null
   archived_at: '2026-05-14T20:56:38+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 match the source's description of Anthropic's red team report
+      assessing Claude Mythos Preview's cybersecurity capabilities.
 - url: https://slsa.dev/
   found_in:
   - file: _posts/2025-04-20-boston-csa.md
@@ -1380,6 +1753,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "SLSA - Supply-chain Levels for Software Artifacts" matches the
+      source reference to SLSA in the context of software supply chain security.
 - url: https://style.mla.org/
   found_in:
   - file: _posts/2015-08-06-citing-ebooks.md
@@ -1394,6 +1771,10 @@
     local: null
   archived_at: '2026-05-14T20:56:39+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "The MLA Style Center" matches the source's reference to MLA recommendations
+      for citation style.
 - url: https://texhour.github.io/2023/01/19/stem-access-author-reader/
   found_in:
   - file: cv.md
@@ -1408,6 +1789,10 @@
     local: null
   archived_at: '2026-05-14T20:56:51+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "STEM access: From author to reader (talks) | TeX Hour" matches
+      the source reference to this TeX Hour event page.'
 - url: https://text.mla.hcommons.org/
   found_in:
   - file: cv.md
@@ -1422,6 +1807,10 @@
     local: null
   archived_at: '2026-05-14T20:56:39+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Open Source Lit, Open Source Crit - MLA 2017 Special Session" matches
+      the source reference to this MLA 2017 panel.
 - url: https://us.pycon.org/2025/schedule/presentation/98/
   found_in:
   - file: _posts/2025-05-18-cheese-must-stand-pycon.md
@@ -1436,6 +1825,10 @@
     local: null
   archived_at: '2026-05-14T20:56:40+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title and h1 "Cheese Must Stand: Defending the Python Library Ecosystem
+      in 2025" at PyCon US 2025 match the source reference exactly.'
 - url: https://vibelympics.splashthat.com/
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -1450,6 +1843,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; splashthat is an event platform so 403 may
+      indicate a closed event page rather than rot, but content cannot be verified.
 - url: https://wordpress.org/plugins/zotpress/
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -1464,6 +1861,10 @@
     local: null
   archived_at: '2026-05-14T20:58:08+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Zotpress - WordPress plugin | WordPress.org" matches the source's
+      reference to integrating Zotero with WordPress.
 - url: https://www.chainguard.dev/
   found_in:
   - file: cv.md
@@ -1488,6 +1889,10 @@
     local: null
   archived_at: '2026-05-14T20:58:10+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "The trusted source for open source | Chainguard" matches the source's
+      reference to Chainguard as the employer's company website.
 - url: https://www.chainguard.dev/events/assemble-2025
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -1504,6 +1909,10 @@
     local: null
   archived_at: '2026-05-14T20:58:12+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "Chainguard Assemble 2025" and h1 "Assemble 2025: Opening Keynote"
+      match the source reference to the Chainguard Assemble 2025 conference.'
 - url: https://www.chainguard.dev/events/assemble-2026
   found_in:
   - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
@@ -1520,6 +1929,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "Chainguard Assemble 2026" matches the source reference to the Chainguard
+      Assemble 2026 event.
 - url: https://www.chainguard.dev/unchained/2026-the-year-of-ai-assisted-attacks
   found_in:
   - file: cv.md
@@ -1534,6 +1947,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: 'Title and h1 "2026: The year of AI-assisted attacks" match the source
+      article reference exactly.'
 - url: https://www.chainguard.dev/unchained/attacks-rewritten-where-malware-enters-the-build
   found_in:
   - file: cv.md
@@ -1550,6 +1967,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title and h1 "Attacks rewritten - Where malware enters the build" match
+      the source reference exactly.
 - url: https://www.chainguard.dev/unchained/going-deep-upstream-distros-and-hidden-cves
   found_in:
   - file: cv.md
@@ -1564,6 +1985,10 @@
     local: null
   archived_at: '2026-05-14T20:58:30+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 "Going deep - Upstream distros and hidden CVEs" match the
+      source reference exactly.
 - url: https://www.chainguard.dev/unchained/key-takeaways-from-chainguard-assemble-2025
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -1578,6 +2003,10 @@
     local: null
   archived_at: '2026-05-14T20:58:32+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 "Key Takeaways from Chainguard Assemble 2025" match the source
+      anchor text exactly.
 - url: https://www.chainguard.dev/unchained/mythos-pulls-zero-days-forward-heres-what-you-need-to-know-now
   found_in:
   - file: _posts/2026-04-27-mythos-zero-days.md
@@ -1596,6 +2025,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title and h1 match the source reference to this Chainguard Unchained post
+      about Mythos and zero-days.
 - url: https://www.chainguard.dev/unchained/the-maturity-gap-in-ml-pipeline-infrastructure
   found_in:
   - file: cv.md
@@ -1610,6 +2043,10 @@
     local: null
   archived_at: '2026-05-14T20:58:36+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 "The maturity gap in ML pipeline infrastructure" match the
+      source reference exactly.
 - url: https://www.chainguard.dev/unchained/the-only-rule-dont-look-at-the-code
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -1628,6 +2065,10 @@
     local: null
   archived_at: '2026-05-14T20:58:38+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title and h1 "The only rule: Don''t look at the code" match the source
+      reference to this Chainguard Unchained Vibelympics recap.'
 - url: https://www.chainguard.dev/unchained/what-to-expect-at-chainguard-assemble-2025
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -1642,6 +2083,10 @@
     local: null
   archived_at: '2026-05-14T20:58:40+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title and h1 "What to Expect at Chainguard Assemble 2025" match the source
+      anchor text exactly.
 - url: https://www.chronicle.com/blogs/profhacker/zotero-vs-endnote
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -1656,6 +2101,10 @@
     local: null
   archived_at: '2026-05-14T20:58:42+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "ProfHacker: Zotero vs. EndNote" matches the source anchor text
+      "Zotero vs. Endnote".'
 - url: https://www.dhinstitutes.org/
   found_in:
   - file: _projects/dri_curriculum.md
@@ -1670,6 +2119,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "Digital Humanities Research Institute" matches the source reference
+      to the DHRI site.
 - url: https://www.dropbox.com
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -1686,6 +2139,10 @@
     local: null
   archived_at: '2026-05-14T20:58:51+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected to https://www.dropbox.com/ (trailing slash normalization);
+      Dropbox homepage is exactly what the source linked to.
 - url: https://www.easybib.com/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -1700,6 +2157,10 @@
     local: null
   archived_at: '2026-05-14T20:58:53+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "EasyBib - Free Bibliography Generator - MLA, APA, Chicago citation
+      styles" matches the source reference to EasyBib as a citation tool.
 - url: https://www.enthought.com/
   found_in:
   - file: cv.md
@@ -1714,6 +2175,10 @@
     local: null
   archived_at: '2026-05-14T20:58:55+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Enthought | Purpose-Built AI for Scientific R&D" matches the source
+      linking to Enthought as a company.
 - url: https://www.gc.cuny.edu/
   found_in:
   - file: cv.md
@@ -1728,6 +2193,10 @@
     local: null
   archived_at: '2026-05-14T20:58:57+00:00'
   status: archived
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; likely bot-blocking a live university site
+      but content cannot be confirmed.
 - url: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Interactive-Technology-and-Pedagogy
   found_in:
   - file: cv.md
@@ -1742,6 +2211,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; cannot confirm the ITP certificate page
+      still exists at this URL.
 - url: https://www.gnu.org/software/emacs/
   found_in:
   - file: _posts/2016-04-27-pyenv-elpy.md
@@ -1756,6 +2229,10 @@
     local: null
   archived_at: '2026-05-14T20:59:07+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "GNU Emacs - GNU Project" and h1 "GNU Emacs" match the source linking
+      to Emacs exactly.
 - url: https://www.gnu.org/software/emacs/manual/html_node/emacs/Buffers.html
   found_in:
   - file: _posts/2017-06-01-emacs-buffers.md
@@ -1770,6 +2247,10 @@
     local: null
   archived_at: '2026-05-14T20:59:09+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Buffers (GNU Emacs Manual)" matches the source anchor "Using Multiple
+      Buffers."
 - url: https://www.gnu.org/software/emacs/manual/html_node/emacs/Narrowing.html
   found_in:
   - file: _posts/2017-06-01-emacs-buffers.md
@@ -1784,6 +2265,10 @@
     local: null
   archived_at: '2026-05-14T20:59:11+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Narrowing (GNU Emacs Manual)" matches the source linking to Emacs
+      narrowing feature.
 - url: https://www.hikma.studio/
   found_in:
   - file: cv.md
@@ -1798,6 +2283,10 @@
     local: null
   archived_at: '2026-05-14T20:59:13+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Welcome to Hikma" and h1 about helping scholars aligns with the
+      source linking to Hikma Studio for a badging development project.
 - url: https://www.linkedin.com/embed/feed/update/urn:li:share:7316986746968104960?collapsed=1
   found_in:
   - file: _posts/2025-04-13-uniquely-annoying-internet.md
@@ -1812,6 +2301,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/embed/feed/update/urn:li:share:7318296406027350016?collapsed=1
   found_in:
   - file: _posts/2025-04-20-boston-csa.md
@@ -1826,6 +2316,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7242555626713726978/
   found_in:
   - file: _posts/2024-09-19-beyond-zero-pytorch.md
@@ -1840,6 +2331,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7247303027227791362/
   found_in:
   - file: _posts/2024-09-19-beyond-zero-pytorch.md
@@ -1854,6 +2346,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7307799598427746305/
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -1868,6 +2361,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7313198578162675712/
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -1882,6 +2376,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7328649267655467009/
   found_in:
   - file: _posts/2025-05-18-cheese-must-stand-pycon.md
@@ -1896,6 +2391,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7337915286861340675/
   found_in:
   - file: _posts/2025-05-18-cheese-must-stand-pycon.md
@@ -1910,6 +2406,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7388980751670644736/
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -1924,6 +2421,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7407842728111157248/
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -1938,6 +2436,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7411816969089277954/
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -1952,6 +2451,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7441872654854320128/
   found_in:
   - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
@@ -1966,6 +2466,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7443335126228324352/
   found_in:
   - file: _posts/2026-03-27-rsac-ml-pipelines.md
@@ -1980,6 +2481,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7445933776045563904/
   found_in:
   - file: _drafts/2026-04-03-lisa-tagliaferri-phd-and-trevor-dunlap-presenting.md
@@ -1994,6 +2496,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7446939802056163329/
   found_in:
   - file: _drafts/2026-04-06-the-trivy-supply-chain-attack-had-a-simple-root.md
@@ -2008,6 +2511,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7447333986143580160/
   found_in:
   - file: _drafts/2026-04-07-its-really-crazy-how-many-new-software-supply.md
@@ -2022,6 +2526,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7449867336108560384/
   found_in:
   - file: _drafts/2026-04-14-in-february-2025-three-teens-hit-rakuten-mobile.md
@@ -2036,6 +2541,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7450181139232669698/
   found_in:
   - file: _drafts/2026-04-15-hey-bro-all-the-writing-on-the-internet-is-ai.md
@@ -2050,6 +2556,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7452738469434396673/
   found_in:
   - file: _drafts/2026-04-22-something-big-has-changed-in-the-last-year.md
@@ -2064,6 +2571,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7454573513572802560/
   found_in:
   - file: _posts/2026-04-27-mythos-zero-days.md
@@ -2078,6 +2586,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7454925245938929666/
   found_in:
   - file: _drafts/2026-04-28-how-are-you-feeling-when-incidents-fire-drills.md
@@ -2092,6 +2601,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:activity:7457452813321715712/
   found_in:
   - file: _posts/2026-05-05-supply-chain-attack-takeaways-webinar.md
@@ -2106,6 +2616,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:share:7316428883413618689/
   found_in:
   - file: _posts/2025-04-20-boston-csa.md
@@ -2120,6 +2631,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/feed/update/urn:li:share:7318296406027350016/
   found_in:
   - file: _posts/2025-04-20-boston-csa.md
@@ -2134,6 +2646,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/in/dafnz/
   found_in:
   - file: _posts/2024-09-19-beyond-zero-pytorch.md
@@ -2148,6 +2661,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/in/kallewesterling/
   found_in:
   - file: _posts/2026-03-27-rsac-ml-pipelines.md
@@ -2162,6 +2676,8 @@
     local: null
   archived_at: '2026-05-14T21:00:37+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/in/smythp/
   found_in:
   - file: _data/archives.yml
@@ -2176,6 +2692,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/in/srishtih/
   found_in:
   - file: _posts/2025-05-18-cheese-must-stand-pycon.md
@@ -2192,6 +2709,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/posts/jfrog-ltd_swampup-activity-7240130790234169344-k2--
   found_in:
   - file: cv.md
@@ -2206,6 +2724,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.linkedin.com/posts/steven-syrek_i-miss-the-days-when-the-internet-was-just-activity-7316986747412779008-xxW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5qQKQBqhey1pJKeaLqNKZ6XzJnredlhqU
   found_in:
   - file: _posts/2025-04-13-uniquely-annoying-internet.md
@@ -2220,6 +2739,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://www.neh.gov/
   found_in:
   - file: _projects/neh.md
@@ -2240,6 +2760,10 @@
     local: null
   archived_at: '2026-05-14T21:00:54+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "National Endowment for the Humanities" matches the source anchor
+      text exactly.
 - url: https://www.neh.gov/grants/odh/institutes-advanced-topics-in-the-digital-humanities
   found_in:
   - file: cv.md
@@ -2254,6 +2778,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; cannot confirm the NEH grants page still
+      exists at this path.
 - url: https://www.newgrounds.com/
   found_in:
   - file: _posts/2025-04-13-uniquely-annoying-internet.md
@@ -2268,6 +2796,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: unsure
+    reason: HTTP 403 with no title or h1; Newgrounds is a known active site but content
+      cannot be confirmed due to bot-blocking.
 - url: https://www.pbk.org/patrick-smyth
   found_in:
   - file: cv.md
@@ -2284,6 +2816,10 @@
     local: null
   archived_at: '2026-05-14T21:01:13+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: 'Title "PBK - Behind the Key: Patrick Smyth" and h1 "Patrick Smyth" match
+      the source anchor "Behind the Key — Patrick Smyth" exactly.'
 - url: https://www.pcmag.com/g00/commentary/353904/trump-budget-slashes-neh-funding-why-you-should-care
   found_in:
   - file: _projects/neh.md
@@ -2300,6 +2836,10 @@
     local: null
   archived_at: '2026-05-14T21:01:15+00:00'
   status: archived
+  triage:
+    verdict: redirected_legit
+    reason: Redirected to a restructured PCMag URL with the same article title about
+      NEH funding cuts, matching the source context.
 - url: https://www.phraseexpress.com/
   found_in:
   - file: _posts/2016-03-05-expanders.md
@@ -2314,6 +2854,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "Autotext - Text Expander - Macro Software" and h1 "Text Expander
+      and Autotext Software" match the source linking to PhraseExpress as a text expander.
 - url: https://www.reddit.com/user/emacsclient/
   found_in:
   - file: _posts/2017-06-01-emacs-buffers.md
@@ -2328,6 +2872,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: unsure
+    reason: Page returned a Cloudflare verification screen rather than the user profile;
+      cannot confirm the Reddit user profile exists.
 - url: https://www.sigstore.dev/
   found_in:
   - file: cv.md
@@ -2344,6 +2892,10 @@
     local: null
   archived_at: '2026-05-14T21:01:21+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Sigstore" matches the source linking to SigStore for the Google
+      Summer of Documentation Initiative.
 - url: https://www.stsci.edu/
   found_in:
   - file: cv.md
@@ -2360,6 +2912,10 @@
     local: null
   archived_at: '2026-05-14T21:01:24+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Home | STScI" matches the source linking to Space Telescope Science
+      Institute (STScI).
 - url: https://www.sugarsync.com/#googtrans(en|en
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -2376,6 +2932,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: redirected_legit
+    reason: Redirected to www1.sugarsync.com with title confirming it is still the
+      SugarSync cloud file sync service.
 - url: https://www.ted.com/talks
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -2390,6 +2950,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: 'Title "TED: Ideas change everything" matches the source linking to TED
+      Talks as a learning resource.'
 - url: https://www.youtube.com/embed/
   found_in:
   - file: _data/archives.yml
@@ -2406,6 +2970,8 @@
     local: null
   archived_at: '2026-05-14T21:01:40+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/playlist?list=PLCPZgcYzVpj_WHHCTUpec8THYEMzXZnR1
   found_in:
   - file: cv.md
@@ -2420,6 +2986,8 @@
     local: null
   archived_at: '2026-05-14T21:01:42+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/playlist?list=PLLjvkjPNmuZmGGB1lPRfIujzsVgwvesbt
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -2434,6 +3002,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=1YEjCrDcZOc
   found_in:
   - file: _posts/2025-12-29-vibelympics-2025.md
@@ -2450,6 +3019,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=1klynk1dxYA
   found_in:
   - file: cv.md
@@ -2464,6 +3034,8 @@
     local: null
   archived_at: '2026-05-14T21:01:50+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=1v3jFCWQfI8
   found_in:
   - file: cv.md
@@ -2478,6 +3050,8 @@
     local: null
   archived_at: '2026-05-14T21:01:52+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=5cdC5pVkCvU
   found_in:
   - file: _posts/2025-05-18-cheese-must-stand-pycon.md
@@ -2496,6 +3070,8 @@
     local: null
   archived_at: '2026-05-14T21:01:54+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=BknFieQXSqA
   found_in:
   - file: cv.md
@@ -2510,6 +3086,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=DYyEXLwKT2U
   found_in:
   - file: _posts/2026-03-23-advisory-feeds-with-konstantinos.md
@@ -2528,6 +3105,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=LJMS9R-KFXQ
   found_in:
   - file: cv.md
@@ -2542,6 +3120,8 @@
     local: null
   archived_at: '2026-05-14T21:02:01+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=MBbN4-UxKp4
   found_in:
   - file: cv.md
@@ -2556,6 +3136,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=Ry-kNHHmB_0
   found_in:
   - file: cv.md
@@ -2570,6 +3151,8 @@
     local: null
   archived_at: '2026-05-14T21:02:04+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=W8_O3joo4aU
   found_in:
   - file: cv.md
@@ -2584,6 +3167,8 @@
     local: null
   archived_at: '2026-05-14T21:02:06+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=aIMECr7K35Q
   found_in:
   - file: _posts/2017-06-01-emacs-buffers.md
@@ -2598,6 +3183,8 @@
     local: null
   archived_at: '2026-05-14T21:02:09+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=dnt6rgHlz74
   found_in:
   - file: cv.md
@@ -2612,6 +3199,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=hgZQvy9dUOU
   found_in:
   - file: cv.md
@@ -2626,6 +3214,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=hmhKWjOyI0U
   found_in:
   - file: _posts/2025-03-18-assemble-2025-old-new-strange.md
@@ -2644,6 +3233,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=jefbTBfl9Ps
   found_in:
   - file: cv.md
@@ -2658,6 +3248,8 @@
     local: null
   archived_at: '2026-05-14T21:02:22+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=k5BLXMGSTJs
   found_in:
   - file: _projects/eloud.md
@@ -2674,6 +3266,8 @@
     local: null
   archived_at: '2026-05-14T21:02:25+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.youtube.com/watch?v=zskT7leTxXM
   found_in:
   - file: cv.md
@@ -2688,6 +3282,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: video, see video brief'
 - url: https://www.zotero.org/
   found_in:
   - file: _posts/2015-11-22-killer-apps.md
@@ -2702,6 +3297,10 @@
     local: null
   archived_at: '2026-05-14T21:02:34+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Zotero | Your personal research assistant" and h1 "Meet Zotero."
+      match the source linking to Zotero as a citation manager.
 - url: https://www.zotero.org/support/adding_items_to_zotero
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -2716,6 +3315,10 @@
     local: null
   archived_at: '2026-05-14T21:02:35+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Adding Items to Zotero | Zotero Documentation" matches the source
+      linking to storing local copies of articles in Zotero.
 - url: https://www.zotero.org/support/mobile
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -2730,6 +3333,10 @@
     local: null
   archived_at: '2026-05-14T21:02:38+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Zotero for Mobile | Zotero Documentation" matches the source anchor
+      "Zotero Mobile Documentation" exactly.
 - url: https://www.zotero.org/support/plugins
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -2744,6 +3351,10 @@
     local: null
   archived_at: '2026-05-14T21:02:41+00:00'
   status: archived
+  triage:
+    verdict: legit
+    reason: Title "Plugins for Zotero | Zotero Documentation" matches the source linking
+      to Zotero plugins.
 - url: https://www.zotero.org/support/tips_and_tricks
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -2758,6 +3369,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "Tips and Tricks | Zotero Documentation" matches the source anchor
+      "Zotero Tips and Tricks" exactly.
 - url: https://www.zotero.org/support/zotero_data
   found_in:
   - file: _posts/2016-03-03-underrated-zotero.md
@@ -2772,6 +3387,10 @@
   status: pending
   notes:
     wayback_check: no snapshot
+  triage:
+    verdict: legit
+    reason: Title "The Zotero Data Directory | Zotero Documentation" matches the source
+      linking to backing up your Zotero library.
 - url: https://x.com/psmyth01
   found_in:
   - file: _posts/2016-05-23-good-workshops.md
@@ -2786,6 +3405,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://x.com/psmyth01/status/851505002900336644
   found_in:
   - file: cv.md
@@ -2802,6 +3422,7 @@
   status: pending
   notes:
     wayback_check: no snapshot
+    singlefile: 'skipped: auth-required host'
 - url: https://x.com/search?q=%2523dhri&src=tyah
   found_in:
   - file: cv.md
@@ -2816,6 +3437,8 @@
     local: null
   archived_at: '2026-05-14T21:03:05+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: auth-required host'
 - url: https://x.com/search?q=%2523dhsiapi&src=typd
   found_in:
   - file: cv.md
@@ -2830,3 +3453,5 @@
     local: null
   archived_at: '2026-05-14T21:03:07+00:00'
   status: archived
+  notes:
+    singlefile: 'skipped: auth-required host'
