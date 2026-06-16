@@ -12,7 +12,7 @@
 		  {% assign current_url = page.url | remove_first: "/" | remove: ".html" | remove: "/" %}
 		  {% for page_item in site.data.nav.pages %}
 	          <li class="nav-item">
-	            <a href="{{ page_item.url }}" class="fs-4 nav-link{% if current_url == page_item.url %} active{% endif %}" {% if current_url == page_item.url %}aria-current="page"{% endif %}>
+	            <a href="{{ page_item.url | prepend: '/' | relative_url }}" class="fs-4 nav-link{% if current_url == page_item.url %} active{% endif %}" {% if current_url == page_item.url %}aria-current="page"{% endif %}>
 		      {{ page_item.title }}
 		    </a>
 	          </li>
